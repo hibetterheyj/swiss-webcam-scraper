@@ -138,6 +138,7 @@ def main():
         minute=start_time.minute - (start_time.minute % 10), second=0, microsecond=0
     )
 
+    print("# output_folder:", args.output_folder)
     print("# webcam_name:", webcam_name)
     print("# webcam_link:", webcam_link)
     print("# quality:", quality)
@@ -150,7 +151,10 @@ def main():
     while start_time < end_time:
         if len(active_threads) < 3:
             t = ThreadedFetcher(
-                create_url(webcam_link, start_time, quality), start_time, webcam_name
+                create_url(webcam_link, start_time, quality),
+                start_time,
+                webcam_name,
+                args.output_folder,
             )
             t.start()
             start_time += timedelta(minutes=interval)

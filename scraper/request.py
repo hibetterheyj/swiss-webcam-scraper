@@ -21,11 +21,12 @@ def create_url(pre_url: str, dt: datetime, quality: str):
 
 
 class ThreadedFetcher(Thread):
-    def __init__(self, url: str, time: datetime, webcam: str):
+    def __init__(self, url: str, time: datetime, webcam: str, output_folder: str):
         Thread.__init__(self, name='ThreadedFetcher')
         self.time = time
         self.url = url
         self.webcam = webcam
+        self.output_folder = output_folder
         self.quality = (self.url).split('/')[-1].split('_')[-1].split('.')[0]
 
     def run(self) -> None:
@@ -41,6 +42,7 @@ class ThreadedFetcher(Thread):
                 self.webcam,
             )
         )
+        path = os.path.join(self.output_folder, path)
         os.makedirs(path, exist_ok=True)
 
         try:
