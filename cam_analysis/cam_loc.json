@@ -1,0 +1,5177 @@
+{
+    "467": {
+        "cam": {
+            "longitude": 8.50748,
+            "latitude": 47.310213,
+            "altitude": 800,
+            "angle": 180,
+            "north": 30
+        },
+        "instances": {
+            "515": {
+                "url": "https://laf.roundshot.com/",
+                "title": "Adliswil-Felsenegg Luftseilbahn LAF AG"
+            }
+        }
+    },
+    "1339": {
+        "cam": {
+            "longitude": 9.70942,
+            "latitude": 46.39503,
+            "altitude": 2134,
+            "angle": 360,
+            "north": 150
+        },
+        "instances": {
+            "1649": {
+                "url": "https://bregagliaturismo.roundshot.com/aela/",
+                "title": "Aela - Bregaglia Turismo"
+            }
+        }
+    },
+    "122": {
+        "cam": {
+            "longitude": 6.978312,
+            "latitude": 46.317068,
+            "altitude": 435,
+            "angle": 360,
+            "north": 37
+        },
+        "instances": {
+            "131": {
+                "url": "https://aigle.roundshot.com/",
+                "title": "Aigle"
+            }
+        }
+    },
+    "514": {
+        "cam": {
+            "longitude": 7.047093,
+            "latitude": 46.302517,
+            "altitude": null,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "571": {
+                "url": "https://aigloncollege.roundshot.com/",
+                "title": "Aiglon College - Chesi\u00e8res"
+            }
+        }
+    },
+    "1338": {
+        "cam": {
+            "longitude": 9.64297,
+            "latitude": 46.33658,
+            "altitude": 2166,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "1648": {
+                "url": "https://bregagliaturismo.roundshot.com/albigna/",
+                "title": "Albigna - Bregaglia Turismo"
+            }
+        }
+    },
+    "1123": {
+        "cam": {
+            "longitude": 7.636038,
+            "latitude": 46.336909,
+            "altitude": 1300,
+            "angle": 180,
+            "north": 180
+        },
+        "instances": {
+            "1373": {
+                "url": "https://albinen.roundshot.com/",
+                "title": "Albinen Gemeinde"
+            }
+        }
+    },
+    "263": {
+        "cam": {
+            "longitude": 9.777281,
+            "latitude": 46.588311,
+            "altitude": 1790,
+            "angle": 360,
+            "north": 150
+        },
+        "instances": {
+            "279": {
+                "url": "https://albulatunnel.roundshot.com/",
+                "title": "Albulatunnel"
+            }
+        }
+    },
+    "650": {
+        "cam": {
+            "longitude": 9.296916,
+            "latitude": 47.182558,
+            "altitude": 1200,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "747": {
+                "url": "https://alpsellamatt.roundshot.com/",
+                "title": "Alp Sellamatt - Berghotel"
+            }
+        }
+    },
+    "651": {
+        "cam": {
+            "longitude": 9.298144,
+            "latitude": 47.17716,
+            "altitude": 1200,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "748": {
+                "url": "https://alpsellamatt.roundshot.com/zinggen/",
+                "title": "Alp Sellamatt - Zinggen"
+            }
+        }
+    },
+    "5": {
+        "cam": {
+            "longitude": 8.587661,
+            "latitude": 46.645842,
+            "altitude": 1800,
+            "angle": 160,
+            "north": 265
+        },
+        "instances": {
+            "5": {
+                "url": "https://andermatt.roundshot.com/baezberg/",
+                "title": "Andermatt - Baezberg"
+            }
+        }
+    },
+    "701": {
+        "cam": {
+            "longitude": 8.596779,
+            "latitude": 46.637697,
+            "altitude": 1550,
+            "angle": 140,
+            "north": 0
+        },
+        "instances": {
+            "824": {
+                "url": "https://andermatt.roundshot.com/city/",
+                "title": "Andermatt City"
+            }
+        }
+    },
+    "331": {
+        "cam": {
+            "longitude": 8.611668,
+            "latitude": 46.602292,
+            "altitude": 2961,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "354": {
+                "url": "https://andermatt-sedrun.roundshot.com/gemsstock/",
+                "title": "Andermatt - Gemsstock"
+            }
+        }
+    },
+    "648": {
+        "cam": {
+            "longitude": 8.577657,
+            "latitude": 46.632255,
+            "altitude": 1447,
+            "angle": 200,
+            "north": 0
+        },
+        "instances": {
+            "745": {
+                "url": "https://andermatt.roundshot.com/golfplatz/",
+                "title": "Andermatt - Golfplatz"
+            }
+        }
+    },
+    "674": {
+        "cam": {
+            "longitude": 7.43546,
+            "latitude": 46.34667,
+            "altitude": 1776,
+            "angle": 360,
+            "north": 80
+        },
+        "instances": {
+            "783": {
+                "url": "https://lac-de-tseuzier.roundshot.com/",
+                "title": "Anz\u00e8re - Lac de Tseuzier"
+            }
+        }
+    },
+    "3": {
+        "cam": {
+            "longitude": 7.386036,
+            "latitude": 46.312079,
+            "altitude": 2362,
+            "angle": 240,
+            "north": 350
+        },
+        "instances": {
+            "3": {
+                "url": "https://anzere.roundshot.com/pistes/",
+                "title": "Anz\u00e8re - Pas de Maimbr\u00e9"
+            }
+        }
+    },
+    "2": {
+        "cam": {
+            "longitude": 7.400035,
+            "latitude": 46.297428,
+            "altitude": 1500,
+            "angle": 360,
+            "north": 320
+        },
+        "instances": {
+            "2": {
+                "url": "https://anzere.roundshot.com/village/",
+                "title": "Anz\u00e8re - Village"
+            }
+        }
+    },
+    "1135": {
+        "cam": {
+            "longitude": 10.194162,
+            "latitude": 46.774052,
+            "altitude": 1400,
+            "angle": 220,
+            "north": 0
+        },
+        "instances": {
+            "1388": {
+                "url": "https://engadin.roundshot.com/ardez/",
+                "title": "Ardez - Engadin"
+            }
+        }
+    },
+    "1187": {
+        "cam": {
+            "longitude": 7.46913,
+            "latitude": 46.01845,
+            "altitude": null,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "1445": {
+                "url": "https://evoleneregion.roundshot.com/arolla/",
+                "title": "Arolla - Evol\u00e8ne R\u00e9gion Tourisme"
+            }
+        }
+    },
+    "804": {
+        "cam": {
+            "longitude": 9.665068,
+            "latitude": 46.786503,
+            "altitude": 9.665068,
+            "angle": 360,
+            "north": 145
+        },
+        "instances": {
+            "948": {
+                "url": "https://baerenland.roundshot.com/",
+                "title": "Arosa - B\u00e4renland"
+            }
+        }
+    },
+    "1122": {
+        "cam": {
+            "longitude": 9.682835,
+            "latitude": 46.783016,
+            "altitude": 1775,
+            "angle": 360,
+            "north": 180
+        },
+        "instances": {
+            "1372": {
+                "url": "https://arosadorf.roundshot.com/",
+                "title": "Arosa Dorf"
+            }
+        }
+    },
+    "681": {
+        "cam": {
+            "longitude": 9.62026,
+            "latitude": 46.767402,
+            "altitude": 2511,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "791": {
+                "url": "https://hoernliberg.roundshot.com/",
+                "title": "Arosa - H\u00f6rnli"
+            }
+        }
+    },
+    "9": {
+        "cam": {
+            "longitude": 9.664148,
+            "latitude": 46.783222,
+            "altitude": 2048,
+            "angle": 360,
+            "north": 185
+        },
+        "instances": {
+            "10": {
+                "url": "https://tschuggen.roundshot.com/",
+                "title": "Arosa - Tschuggen"
+            }
+        }
+    },
+    "601": {
+        "cam": {
+            "longitude": 9.637269,
+            "latitude": 46.789119,
+            "altitude": 2000,
+            "angle": 360,
+            "north": 40
+        },
+        "instances": {
+            "677": {
+                "url": "https://weisshorn.roundshot.com/",
+                "title": "Arosa - Weisshorn"
+            }
+        }
+    },
+    "376": {
+        "cam": {
+            "longitude": 7.049981,
+            "latitude": 46.905887,
+            "altitude": 429,
+            "angle": 360,
+            "north": 340
+        },
+        "instances": {
+            "413": {
+                "url": "https://avenches.roundshot.com/camping-plage/",
+                "title": "Avenches - Camping-plage"
+            }
+        }
+    },
+    "33": {
+        "cam": {
+            "longitude": 7.40781,
+            "latitude": 47.319737,
+            "altitude": 664,
+            "angle": 360,
+            "north": 275
+        },
+        "instances": {
+            "35": {
+                "url": "https://juratourisme.roundshot.com/aventurejuraparc/",
+                "title": "Aventure Jura Parc Rebeuvelier"
+            }
+        }
+    },
+    "1192": {
+        "cam": {
+            "longitude": 8.041524,
+            "latitude": 46.709738,
+            "altitude": 1950,
+            "angle": 360,
+            "north": 170
+        },
+        "instances": {
+            "1450": {
+                "url": "https://axalp.roundshot.com/windegg/",
+                "title": "Axalp - Windegg"
+            }
+        }
+    },
+    "670": {
+        "cam": {
+            "longitude": 7.528534,
+            "latitude": 46.978678,
+            "altitude": 1000,
+            "angle": 360,
+            "north": 240
+        },
+        "instances": {
+            "769": {
+                "url": "https://bantiger.roundshot.com/",
+                "title": "Bantiger"
+            }
+        }
+    },
+    "854": {
+        "cam": {
+            "longitude": 7.480882,
+            "latitude": 46.955858,
+            "altitude": 300,
+            "angle": 50,
+            "north": 0
+        },
+        "instances": {
+            "1005": {
+                "url": "https://halter.roundshot.com/baeretower/",
+                "title": "B\u00e4retower - Ostermundigen"
+            }
+        }
+    },
+    "1359": {
+        "cam": {
+            "longitude": 9.32656,
+            "latitude": 46.85423,
+            "altitude": 1550,
+            "angle": 360,
+            "north": 160
+        },
+        "instances": {
+            "1674": {
+                "url": "https://laax.roundshot.com/bargis/",
+                "title": "Bargis"
+            }
+        }
+    },
+    "917": {
+        "cam": {
+            "longitude": 7.60898,
+            "latitude": 47.544924,
+            "altitude": 400,
+            "angle": 50,
+            "north": 30
+        },
+        "instances": {
+            "1086": {
+                "url": "https://halter.roundshot.com/citygate/",
+                "title": "Basel City Gate"
+            }
+        }
+    },
+    "568": {
+        "cam": {
+            "longitude": 7.626586,
+            "latitude": 47.567699,
+            "altitude": 300,
+            "angle": 360,
+            "north": 90
+        },
+        "instances": {
+            "635": {
+                "url": "https://baeumlihof.roundshot.com/",
+                "title": "B\u00e4umlihof Gymnasium Basel"
+            }
+        }
+    },
+    "384": {
+        "cam": {
+            "longitude": 7.977131,
+            "latitude": 46.396877,
+            "altitude": 2100,
+            "angle": 360,
+            "north": 295
+        },
+        "instances": {
+            "422": {
+                "url": "https://belalp.roundshot.com/hohbiel/",
+                "title": "Belalp - Hohbiel"
+            }
+        }
+    },
+    "12": {
+        "cam": {
+            "longitude": 7.915971,
+            "latitude": 46.608811,
+            "altitude": 1300,
+            "angle": 360,
+            "north": 240
+        },
+        "instances": {
+            "13": {
+                "url": "https://bellevue.roundshot.com/",
+                "title": "Bellevue - Wengen"
+            }
+        }
+    },
+    "483": {
+        "cam": {
+            "longitude": 8.029475,
+            "latitude": 46.625044,
+            "altitude": 1200,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "534": {
+                "url": "https://belvederegrindelwald.roundshot.com/",
+                "title": "Belvedere Grindelwald"
+            }
+        }
+    },
+    "123": {
+        "cam": {
+            "longitude": 10.297619,
+            "latitude": 46.797355,
+            "altitude": 1290,
+            "angle": 315,
+            "north": 40
+        },
+        "instances": {
+            "132": {
+                "url": "https://belvedere.roundshot.com/",
+                "title": "Belved\u00e8re - Scuol"
+            }
+        }
+    },
+    "317": {
+        "cam": {
+            "longitude": 9.502324,
+            "latitude": 47.205565,
+            "altitude": 442,
+            "angle": 360,
+            "north": 304
+        },
+        "instances": {
+            "340": {
+                "url": "https://fotoprocolora.roundshot.com/",
+                "title": "Bendern"
+            }
+        }
+    },
+    "128": {
+        "cam": {
+            "longitude": 7.446731,
+            "latitude": 46.946685,
+            "altitude": 400,
+            "angle": 285,
+            "north": 0
+        },
+        "instances": {
+            "137": {
+                "url": "https://berntourismus.roundshot.com/hotelbellevuepalace/",
+                "title": "Bern - Bellevue Palace"
+            }
+        }
+    },
+    "665": {
+        "cam": {
+            "longitude": 7.693407,
+            "latitude": 46.749611,
+            "altitude": 500,
+            "angle": 360,
+            "north": 200
+        },
+        "instances": {
+            "764": {
+                "url": "https://rehabern.roundshot.com/",
+                "title": "Berner Reha Zentrum Heiligenschwendi"
+            }
+        }
+    },
+    "741": {
+        "cam": {
+            "longitude": 7.439665,
+            "latitude": 46.919651,
+            "altitude": null,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "876": {
+                "url": "https://berntourismus.roundshot.com/gurten/",
+                "title": "Bern - Gurten"
+            }
+        }
+    },
+    "129": {
+        "cam": {
+            "longitude": 7.460559,
+            "latitude": 46.950862,
+            "altitude": 400,
+            "angle": 180,
+            "north": 180
+        },
+        "instances": {
+            "138": {
+                "url": "https://berntourismus.roundshot.com/rosengarten/",
+                "title": "Bern - Rosengarten"
+            }
+        }
+    },
+    "1313": {
+        "cam": {
+            "longitude": 7.41386,
+            "latitude": 46.43187,
+            "altitude": 1853,
+            "angle": 360,
+            "north": 230
+        },
+        "instances": {
+            "1616": {
+                "url": "https://lenk.roundshot.com/leiterli/",
+                "title": "Betelberg Leiterli"
+            }
+        }
+    },
+    "432": {
+        "cam": {
+            "longitude": 8.709376,
+            "latitude": 46.899811,
+            "altitude": 1723,
+            "angle": 360,
+            "north": 285
+        },
+        "instances": {
+            "473": {
+                "url": "https://bielkinzig.roundshot.com/weissenboden/",
+                "title": "Biel Kinzig - Weissenboden"
+            }
+        }
+    },
+    "1035": {
+        "cam": {
+            "longitude": 8.623418,
+            "latitude": 47.360433,
+            "altitude": 750,
+            "angle": 180,
+            "north": 0
+        },
+        "instances": {
+            "1241": {
+                "url": "https://binz.roundshot.com/",
+                "title": "Binz public"
+            }
+        }
+    },
+    "986": {
+        "cam": {
+            "longitude": 7.862074,
+            "latitude": 46.434784,
+            "altitude": 1795,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "1161": {
+                "url": "https://blatten.roundshot.com/fafleralp/",
+                "title": "Blatten"
+            }
+        }
+    },
+    "280": {
+        "cam": {
+            "longitude": 7.284121,
+            "latitude": 47.171854,
+            "altitude": 927,
+            "angle": 360,
+            "north": 110
+        },
+        "instances": {
+            "296": {
+                "url": "https://boezingenberg.roundshot.com/",
+                "title": "B\u00f6zingenberg"
+            }
+        }
+    },
+    "557": {
+        "cam": {
+            "longitude": 8.985677,
+            "latitude": 46.95564,
+            "altitude": null,
+            "angle": 360,
+            "north": 45
+        },
+        "instances": {
+            "624": {
+                "url": "https://braunwald.roundshot.com/gumen/",
+                "title": "Braunwald Gumen"
+            }
+        }
+    },
+    "856": {
+        "cam": {
+            "longitude": 8.9829623,
+            "latitude": 46.924571,
+            "altitude": 1260,
+            "angle": 360,
+            "north": 270
+        },
+        "instances": {
+            "1007": {
+                "url": "https://braunwald.roundshot.com/nussbuehl/",
+                "title": "Braunwald - Nussbuehl"
+            }
+        }
+    },
+    "556": {
+        "cam": {
+            "longitude": 8.99356,
+            "latitude": 46.94919,
+            "altitude": 1560,
+            "angle": 360,
+            "north": 180
+        },
+        "instances": {
+            "623": {
+                "url": "https://braunwald.roundshot.com/z_grotzenbuel/",
+                "title": "Braunwald Z Grotzenb\u00fcel"
+            }
+        }
+    },
+    "943": {
+        "cam": {
+            "longitude": 7.6898767,
+            "latitude": 47.5254599,
+            "altitude": 350,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "1114": {
+                "url": "https://bussimmobilien.roundshot.com/",
+                "title": "Bredella AG - Buss Immobilien"
+            }
+        }
+    },
+    "1297": {
+        "cam": {
+            "longitude": 8.04163,
+            "latitude": 46.78761,
+            "altitude": 2266,
+            "angle": 360,
+            "north": 240
+        },
+        "instances": {
+            "1595": {
+                "url": "https://brienzrothorn.roundshot.com/",
+                "title": "Brienzer Rothorn"
+            }
+        }
+    },
+    "1121": {
+        "cam": {
+            "longitude": 9.023024,
+            "latitude": 46.969974,
+            "altitude": 1250,
+            "angle": 360,
+            "north": 300
+        },
+        "instances": {
+            "1371": {
+                "url": "https://brunnenberg.roundshot.com/",
+                "title": "Brunnenberg - tb.glarus"
+            }
+        }
+    },
+    "822": {
+        "cam": {
+            "longitude": 7.05705,
+            "latitude": 46.618,
+            "altitude": 750,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "971": {
+                "url": "https://bulle.roundshot.com/",
+                "title": "Bulle"
+            }
+        }
+    },
+    "140": {
+        "cam": {
+            "longitude": 8.385,
+            "latitude": 46.97164,
+            "altitude": 400,
+            "angle": 360,
+            "north": 340
+        },
+        "instances": {
+            "149": {
+                "url": "https://buochs.roundshot.com/",
+                "title": "Buochs Airport"
+            }
+        }
+    },
+    "14": {
+        "cam": {
+            "longitude": 8.377517,
+            "latitude": 46.996409,
+            "altitude": 1128,
+            "angle": 360,
+            "north": 90
+        },
+        "instances": {
+            "15": {
+                "url": "https://buergenstock.roundshot.com/",
+                "title": "B\u00fcrgenstock"
+            }
+        }
+    },
+    "10": {
+        "cam": {
+            "longitude": 7.991303,
+            "latitude": 46.649442,
+            "altitude": 1800,
+            "angle": 360,
+            "north": 250
+        },
+        "instances": {
+            "11": {
+                "url": "https://grindelwaldbus.roundshot.com/",
+                "title": "Bussalp - Grindelwald"
+            }
+        }
+    },
+    "1293": {
+        "cam": {
+            "longitude": 7.21443,
+            "latitude": 46.33988,
+            "altitude": 2520,
+            "angle": 360,
+            "north": 90
+        },
+        "instances": {
+            "1591": {
+                "url": "https://glacier3000.roundshot.com/cabane/",
+                "title": "Cabane"
+            }
+        }
+    },
+    "882": {
+        "cam": {
+            "longitude": 8.9109,
+            "latitude": 46.4979968,
+            "altitude": 1800,
+            "angle": 360,
+            "north": 340
+        },
+        "instances": {
+            "1034": {
+                "url": "https://capannagorda.roundshot.com/",
+                "title": "Capanna Gorda - Olivone"
+            }
+        }
+    },
+    "835": {
+        "cam": {
+            "longitude": 8.748059,
+            "latitude": 46.152772,
+            "altitude": 260,
+            "angle": 200,
+            "north": 300
+        },
+        "instances": {
+            "1082": {
+                "url": "https://casaberno.roundshot.com/",
+                "title": "Casa Berno Hotel - Ascona"
+            }
+        }
+    },
+    "887": {
+        "cam": {
+            "longitude": 8.771235,
+            "latitude": 46.152773,
+            "altitude": null,
+            "angle": 360,
+            "north": 225
+        },
+        "instances": {
+            "1043": {
+                "url": "https://castello-seeschloss.roundshot.com/",
+                "title": "Castello Seeschloss Hotel"
+            }
+        }
+    },
+    "539": {
+        "cam": {
+            "longitude": 9.85757,
+            "latitude": 46.512214,
+            "altitude": 1200,
+            "angle": 360,
+            "north": 245
+        },
+        "instances": {
+            "602": {
+                "url": "https://celerina.roundshot.com/",
+                "title": "Celerina"
+            }
+        }
+    },
+    "1226": {
+        "cam": {
+            "longitude": 6.87082,
+            "latitude": 46.1797,
+            "altitude": 1055,
+            "angle": 270,
+            "north": 320
+        },
+        "instances": {
+            "1507": {
+                "url": "https://champery.roundshot.com/",
+                "title": "Champ\u00e9ry Village"
+            }
+        }
+    },
+    "772": {
+        "cam": {
+            "longitude": 7.060436,
+            "latitude": 47.133212,
+            "altitude": 1600,
+            "angle": 360,
+            "north": 220
+        },
+        "instances": {
+            "909": {
+                "url": "https://chasseral.roundshot.com/",
+                "title": "Chasseral"
+            }
+        }
+    },
+    "15": {
+        "cam": {
+            "longitude": 7.124556,
+            "latitude": 46.476508,
+            "altitude": 1061,
+            "angle": 180,
+            "north": 311
+        },
+        "instances": {
+            "16": {
+                "url": "https://chax.roundshot.com/",
+                "title": "Ch\u00e2teau d'Oex"
+            }
+        }
+    },
+    "377": {
+        "cam": {
+            "longitude": 7.145208,
+            "latitude": 46.447273,
+            "altitude": 1644,
+            "angle": 360,
+            "north": 184
+        },
+        "instances": {
+            "414": {
+                "url": "https://telechateaudoex.roundshot.com/la-braye/",
+                "title": "Ch\u00e2teau-d'Oex - La Braye"
+            }
+        }
+    },
+    "572": {
+        "cam": {
+            "longitude": 6.9349,
+            "latitude": 46.5121,
+            "altitude": null,
+            "angle": 360,
+            "north": 180
+        },
+        "instances": {
+            "639": {
+                "url": "https://lespaccots.roundshot.com/corbetta/",
+                "title": "Ch\u00e2tel-St-Denis - Corbetta"
+            }
+        }
+    },
+    "573": {
+        "cam": {
+            "longitude": 6.977096,
+            "latitude": 46.543232,
+            "altitude": null,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "640": {
+                "url": "https://lespaccots.roundshot.com/rathvel/",
+                "title": "Ch\u00e2tel-St-Denis - Rathvel"
+            }
+        }
+    },
+    "481": {
+        "cam": {
+            "longitude": 6.780661,
+            "latitude": 46.481536,
+            "altitude": 300,
+            "angle": 360,
+            "north": 180
+        },
+        "instances": {
+            "530": {
+                "url": "https://chexbres.roundshot.com/",
+                "title": "Chexbres"
+            }
+        }
+    },
+    "587": {
+        "cam": {
+            "longitude": 9.502779,
+            "latitude": 46.812349,
+            "altitude": null,
+            "angle": 360,
+            "north": 250
+        },
+        "instances": {
+            "658": {
+                "url": "https://brambruesch.roundshot.com/",
+                "title": "Chur-Dreib\u00fcndenstein - Brambr\u00fcesch"
+            }
+        }
+    },
+    "1058": {
+        "cam": {
+            "longitude": 9.53286,
+            "latitude": 46.76622,
+            "altitude": 1920,
+            "angle": 360,
+            "north": 60
+        },
+        "instances": {
+            "1266": {
+                "url": "https://churwalden.roundshot.com/",
+                "title": "Churwalden"
+            }
+        }
+    },
+    "853": {
+        "cam": {
+            "longitude": 7.599086,
+            "latitude": 47.564698,
+            "altitude": 250,
+            "angle": 160,
+            "north": 120
+        },
+        "instances": {
+            "1004": {
+                "url": "https://halter.roundshot.com/claraturm/",
+                "title": "Claraturm - Basel"
+            }
+        }
+    },
+    "1348": {
+        "cam": {
+            "longitude": 7.30208,
+            "latitude": 46.08514,
+            "altitude": 2885,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "1660": {
+                "url": "https://nendaz.roundshot.com/coldesgentianes/",
+                "title": "Col des Gentianes - Nendaz"
+            }
+        }
+    },
+    "11": {
+        "cam": {
+            "longitude": 7.052618,
+            "latitude": 46.298975,
+            "altitude": 1280,
+            "angle": 360,
+            "north": 260
+        },
+        "instances": {
+            "12": {
+                "url": "https://beausoleil.roundshot.com/",
+                "title": "Coll\u00e8ge Beau Soleil - Villars"
+            }
+        }
+    },
+    "1214": {
+        "cam": {
+            "longitude": 7.33314,
+            "latitude": 46.1399,
+            "altitude": 2238,
+            "angle": 360,
+            "north": 120
+        },
+        "instances": {
+            "1474": {
+                "url": "https://nendaz.roundshot.com/combatseline/",
+                "title": "Combatseline - Nendaz"
+            }
+        }
+    },
+    "576": {
+        "cam": {
+            "longitude": 6.193533,
+            "latitude": 46.316436,
+            "altitude": 300,
+            "angle": 360,
+            "north": 270
+        },
+        "instances": {
+            "643": {
+                "url": "https://coppet.roundshot.com/",
+                "title": "Coppet Commune"
+            }
+        }
+    },
+    "16": {
+        "cam": {
+            "longitude": 7.478755,
+            "latitude": 46.336499,
+            "altitude": 2267,
+            "angle": 360,
+            "north": 330
+        },
+        "instances": {
+            "17": {
+                "url": "https://cma.roundshot.com/grandsignal/",
+                "title": "Crans-Montana - La Nationale"
+            }
+        }
+    },
+    "474": {
+        "cam": {
+            "longitude": 9.85757,
+            "latitude": 46.512214,
+            "altitude": null,
+            "angle": 360,
+            "north": 245
+        },
+        "instances": {
+            "522": {
+                "url": "https://crestapalace.roundshot.com/",
+                "title": "CRESTA PALACE - Celerina"
+            }
+        }
+    },
+    "1078": {
+        "cam": {
+            "longitude": 8.815966,
+            "latitude": 46.704449,
+            "altitude": null,
+            "angle": 360,
+            "north": 270
+        },
+        "instances": {
+            "1300": {
+                "url": "https://disentis.roundshot.com/caischavedra/",
+                "title": "Disentis Caischevedra"
+            }
+        }
+    },
+    "1076": {
+        "cam": {
+            "longitude": 8.788376,
+            "latitude": 46.697893,
+            "altitude": 2220,
+            "angle": 360,
+            "north": 300
+        },
+        "instances": {
+            "1298": {
+                "url": "https://disentis.roundshot.com/cuolmdavi/",
+                "title": "Disentis Cuolm da Vi"
+            }
+        }
+    },
+    "1077": {
+        "cam": {
+            "longitude": 8.797241,
+            "latitude": 46.706322,
+            "altitude": null,
+            "angle": 360,
+            "north": 270
+        },
+        "instances": {
+            "1299": {
+                "url": "https://disentis.roundshot.com/gendusa/",
+                "title": "Disentis Gendusa"
+            }
+        }
+    },
+    "899": {
+        "cam": {
+            "longitude": 6.126038,
+            "latitude": 46.430645,
+            "altitude": 1528,
+            "angle": 360,
+            "north": 320
+        },
+        "instances": {
+            "1058": {
+                "url": "https://dole.roundshot.com/",
+                "title": "D\u00f4le"
+            }
+        }
+    },
+    "724": {
+        "cam": {
+            "longitude": 9.410756,
+            "latitude": 47.283004,
+            "altitude": 1640,
+            "angle": 360,
+            "north": 90
+        },
+        "instances": {
+            "855": {
+                "url": "https://ebenalp.roundshot.com/",
+                "title": "Ebenalp"
+            }
+        }
+    },
+    "1301": {
+        "cam": {
+            "longitude": 7.15524,
+            "latitude": 46.34596,
+            "altitude": 1169,
+            "angle": 360,
+            "north": 200
+        },
+        "instances": {
+            "1599": {
+                "url": "https://ecole-suisse-de-ski-diablerets.roundshot.com/",
+                "title": "Ecole Suisse de Ski Diablerets"
+            }
+        }
+    },
+    "31": {
+        "cam": {
+            "longitude": 7.896849,
+            "latitude": 46.561437,
+            "altitude": 1650,
+            "angle": 360,
+            "north": 350
+        },
+        "instances": {
+            "33": {
+                "url": "https://hoteledelweiss.roundshot.com/",
+                "title": "Edelweiss - M\u00fcrren"
+            }
+        }
+    },
+    "1064": {
+        "cam": {
+            "longitude": 7.99664,
+            "latitude": 46.59896,
+            "altitude": 1650,
+            "angle": 360,
+            "north": 330
+        },
+        "instances": {
+            "1273": {
+                "url": "https://jungfrau.roundshot.com/top-of-europe-eiger-express/",
+                "title": "Eiger Express Panorama Mast 4"
+            }
+        }
+    },
+    "1286": {
+        "cam": {
+            "longitude": 7.77809,
+            "latitude": 46.29564,
+            "altitude": 1210,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "1584": {
+                "url": "https://eischoll.roundshot.com/dorf/",
+                "title": "Eischoll - Dorf"
+            }
+        }
+    },
+    "18": {
+        "cam": {
+            "longitude": 9.808119,
+            "latitude": 46.489477,
+            "altitude": 2181,
+            "angle": 360,
+            "north": 300
+        },
+        "instances": {
+            "19": {
+                "url": "https://paradiso-stmoritz.roundshot.com/private/",
+                "title": "El Paradiso - St Moritz - Private"
+            }
+        }
+    },
+    "875": {
+        "cam": {
+            "longitude": 6.935172,
+            "latitude": 46.068022,
+            "altitude": 1930,
+            "angle": 360,
+            "north": 100
+        },
+        "instances": {
+            "1027": {
+                "url": "https://valleedutrient.roundshot.com/emosson/",
+                "title": "Emosson"
+            }
+        }
+    },
+    "473": {
+        "cam": {
+            "longitude": 9.878591,
+            "latitude": 46.530013,
+            "altitude": 1707,
+            "angle": 360,
+            "north": 150
+        },
+        "instances": {
+            "521": {
+                "url": "https://engadin-airport.roundshot.com/",
+                "title": "Engadin Airport - Samedan"
+            }
+        }
+    },
+    "924": {
+        "cam": {
+            "longitude": 6.658233,
+            "latitude": 46.54166,
+            "altitude": 395,
+            "angle": 50,
+            "north": 0
+        },
+        "instances": {
+            "1094": {
+                "url": "https://scopedevelopment.roundshot.com/epalinges/",
+                "title": "Epalinges"
+            }
+        }
+    },
+    "526": {
+        "cam": {
+            "longitude": 6.561931,
+            "latitude": 46.518391,
+            "altitude": 300,
+            "angle": 360,
+            "north": 140
+        },
+        "instances": {
+            "587": {
+                "url": "https://epfl.roundshot.com/",
+                "title": "EPFL BC"
+            }
+        }
+    },
+    "949": {
+        "cam": {
+            "longitude": 6.56662,
+            "latitude": 46.51776,
+            "altitude": 396,
+            "angle": 360,
+            "north": 160
+        },
+        "instances": {
+            "1120": {
+                "url": "https://epflplace.roundshot.com/",
+                "title": "EPFL Place Maurice Cosandey"
+            }
+        }
+    },
+    "821": {
+        "cam": {
+            "longitude": 9.26164,
+            "latitude": 47.509623,
+            "altitude": 400,
+            "angle": 360,
+            "north": 110
+        },
+        "instances": {
+            "970": {
+                "url": "https://erlebnisflugplatz.roundshot.com/",
+                "title": "Erlebnisflugplatz Sitterdorf"
+            }
+        }
+    },
+    "586": {
+        "cam": {
+            "longitude": 7.45564,
+            "latitude": 46.12102,
+            "altitude": 2138,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "657": {
+                "url": "https://evoleneregion.roundshot.com/evolene/",
+                "title": "Evol\u00e8ne - Evol\u00e8ne R\u00e9gion Tourisme"
+            }
+        }
+    },
+    "365": {
+        "cam": {
+            "longitude": 9.295166,
+            "latitude": 46.822841,
+            "altitude": 1000,
+            "angle": 180,
+            "north": 90
+        },
+        "instances": {
+            "401": {
+                "url": "https://laax.roundshot.com/caumasee/",
+                "title": "Flims Caumasee"
+            }
+        }
+    },
+    "366": {
+        "cam": {
+            "longitude": 9.3198,
+            "latitude": 46.81268,
+            "altitude": 1076,
+            "angle": 270,
+            "north": 270
+        },
+        "instances": {
+            "402": {
+                "url": "https://laax.roundshot.com/conn/",
+                "title": "Flims Conn"
+            }
+        }
+    },
+    "42": {
+        "cam": {
+            "longitude": 9.2815,
+            "latitude": 46.834029,
+            "altitude": 1100,
+            "angle": 360,
+            "north": 18
+        },
+        "instances": {
+            "44": {
+                "url": "https://laax.roundshot.com/talstation-flims/",
+                "title": "Flims Talstation"
+            }
+        }
+    },
+    "911": {
+        "cam": {
+            "longitude": 7.951246,
+            "latitude": 46.731035,
+            "altitude": 570,
+            "angle": 260,
+            "north": 0
+        },
+        "instances": {
+            "1070": {
+                "url": "https://florensresort.roundshot.com/",
+                "title": "Florens Lake Resort & Spa"
+            }
+        }
+    },
+    "341": {
+        "cam": {
+            "longitude": 8.229838,
+            "latitude": 47.444054,
+            "altitude": 394,
+            "angle": 360,
+            "north": 237
+        },
+        "instances": {
+            "365": {
+                "url": "https://birrfeld.roundshot.com/",
+                "title": "Flughafen Birrfeld"
+            }
+        }
+    },
+    "632": {
+        "cam": {
+            "longitude": 7.950345,
+            "latitude": 47.508899,
+            "altitude": 400,
+            "angle": 360,
+            "north": 120
+        },
+        "instances": {
+            "723": {
+                "url": "https://flugplatzschupfart.roundshot.com/",
+                "title": "Flugplatz Fricktal Schupfart"
+            }
+        }
+    },
+    "708": {
+        "cam": {
+            "longitude": 8.897643,
+            "latitude": 47.555346,
+            "altitude": 400,
+            "angle": 360,
+            "north": 200
+        },
+        "instances": {
+            "832": {
+                "url": "https://frauenfeld.roundshot.com/",
+                "title": "Frauenfeld - Rathaus"
+            }
+        }
+    },
+    "1208": {
+        "cam": {
+            "longitude": 10.2476,
+            "latitude": 46.7943,
+            "altitude": 1649,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "1466": {
+                "url": "https://engadin.roundshot.com/ftan/",
+                "title": "Ftan - Engadin"
+            }
+        }
+    },
+    "19": {
+        "cam": {
+            "longitude": 8.467783,
+            "latitude": 46.800858,
+            "altitude": 1842,
+            "angle": 360,
+            "north": 200
+        },
+        "instances": {
+            "20": {
+                "url": "https://fuerenalp.roundshot.com/",
+                "title": "F\u00fcrenalp"
+            }
+        }
+    },
+    "1234": {
+        "cam": {
+            "longitude": 8.16297,
+            "latitude": 46.45276,
+            "altitude": 2558,
+            "angle": 360,
+            "north": 280
+        },
+        "instances": {
+            "1517": {
+                "url": "https://bellwaldtourismus.roundshot.com/furggulti/",
+                "title": "Furggulti - Bellwald Tourismus"
+            }
+        }
+    },
+    "652": {
+        "cam": {
+            "longitude": 9.343041,
+            "latitude": 47.212973,
+            "altitude": 1200,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "749": {
+                "url": "https://berghausgampluet.roundshot.com/",
+                "title": "Gampl\u00fct Berghaus - Wildhaus"
+            }
+        }
+    },
+    "1055": {
+        "cam": {
+            "longitude": 9.403421334,
+            "latitude": 47.282169347,
+            "altitude": 1551,
+            "angle": 180,
+            "north": 0
+        },
+        "instances": {
+            "1263": {
+                "url": "https://gartenalp.roundshot.com/",
+                "title": "Gartenalp"
+            }
+        }
+    },
+    "965": {
+        "cam": {
+            "longitude": 7.5239503383637,
+            "latitude": 47.19768824942,
+            "altitude": 300,
+            "angle": 360,
+            "north": 270
+        },
+        "instances": {
+            "1201": {
+                "url": "https://ga-weissenstein.roundshot.com/hafen/",
+                "title": "GAW - Hafen Solothurn"
+            }
+        }
+    },
+    "912": {
+        "cam": {
+            "longitude": 7.541573,
+            "latitude": 47.206079,
+            "altitude": 430,
+            "angle": 360,
+            "north": 90
+        },
+        "instances": {
+            "1202": {
+                "url": "https://ga-weissenstein.roundshot.com/solothurn/",
+                "title": "GAW - Stadt Solothurn"
+            }
+        }
+    },
+    "726": {
+        "cam": {
+            "longitude": 7.508741,
+            "latitude": 47.251818,
+            "altitude": 1395,
+            "angle": 360,
+            "north": 345
+        },
+        "instances": {
+            "1074": {
+                "url": "https://ga-weissenstein.roundshot.com/weissenstein/",
+                "title": "GAW - Weissenstein"
+            }
+        }
+    },
+    "1266": {
+        "cam": {
+            "longitude": 9.56102,
+            "latitude": 47.44008,
+            "altitude": 781,
+            "angle": 260,
+            "north": 90
+        },
+        "instances": {
+            "1562": {
+                "url": "https://gefluegelhof.roundshot.com/schoenenbuehl/",
+                "title": "Gefl\u00fcgelhof Sch\u00f6nenb\u00fchl"
+            }
+        }
+    },
+    "23": {
+        "cam": {
+            "longitude": 7.615638,
+            "latitude": 46.397713,
+            "altitude": 2350,
+            "angle": 360,
+            "north": 140
+        },
+        "instances": {
+            "25": {
+                "url": "https://gemmi.roundshot.com/",
+                "title": "Gemmi"
+            }
+        }
+    },
+    "153": {
+        "cam": {
+            "longitude": 7.203791,
+            "latitude": 46.326757,
+            "altitude": 2971,
+            "angle": 360,
+            "north": 100
+        },
+        "instances": {
+            "162": {
+                "url": "https://glacier3000.roundshot.com/",
+                "title": "Glacier3000"
+            }
+        }
+    },
+    "1271": {
+        "cam": {
+            "longitude": 9.0713,
+            "latitude": 46.76797,
+            "altitude": 1330,
+            "angle": 360,
+            "north": 180
+        },
+        "instances": {
+            "1568": {
+                "url": "https://golfbrigels.roundshot.com/",
+                "title": "Golf Brigels"
+            }
+        }
+    },
+    "1042": {
+        "cam": {
+            "longitude": 7.78331,
+            "latitude": 45.98314,
+            "altitude": 3110,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "1250": {
+                "url": "https://zermatt.roundshot.com/gornergrat/",
+                "title": "Gornergrat - Zermatt Tourismus"
+            }
+        }
+    },
+    "21": {
+        "cam": {
+            "longitude": 7.413773,
+            "latitude": 47.183145,
+            "altitude": 451,
+            "angle": 360,
+            "north": 127
+        },
+        "instances": {
+            "23": {
+                "url": "https://fliegen.roundshot.com/",
+                "title": "Grenchen Flughafen"
+            }
+        }
+    },
+    "1069": {
+        "cam": {
+            "longitude": 7.3483,
+            "latitude": 46.152564,
+            "altitude": 2500,
+            "angle": 360,
+            "north": 70
+        },
+        "instances": {
+            "1281": {
+                "url": "https://nendaz.roundshot.com/greppon-blanc/",
+                "title": "Greppon Blanc - Nendaz"
+            }
+        }
+    },
+    "397": {
+        "cam": {
+            "longitude": 7.082121,
+            "latitude": 46.584208,
+            "altitude": 816,
+            "angle": 360,
+            "north": 90
+        },
+        "instances": {
+            "436": {
+                "url": "https://lagruyere.roundshot.com/",
+                "title": "Gruy\u00e8re Tourisme"
+            }
+        }
+    },
+    "931": {
+        "cam": {
+            "longitude": 7.103464,
+            "latitude": 46.287915,
+            "altitude": 1542,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "1102": {
+                "url": "https://gryon.roundshot.com/",
+                "title": "Gryon - Frience"
+            }
+        }
+    },
+    "1128": {
+        "cam": {
+            "longitude": 7.902188,
+            "latitude": 46.226746,
+            "altitude": 1899,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "1381": {
+                "url": "https://gspon.roundshot.com/",
+                "title": "Gspon"
+            }
+        }
+    },
+    "671": {
+        "cam": {
+            "longitude": 7.245643,
+            "latitude": 46.486966,
+            "altitude": 1000,
+            "angle": 210,
+            "north": 330
+        },
+        "instances": {
+            "770": {
+                "url": "https://gstaad-airport.roundshot.com/",
+                "title": "Gstaad Airport"
+            }
+        }
+    },
+    "1006": {
+        "cam": {
+            "longitude": 7.6731,
+            "latitude": 46.320772,
+            "altitude": null,
+            "angle": 360,
+            "north": 300
+        },
+        "instances": {
+            "1194": {
+                "url": "https://guttetfeschel.roundshot.com/",
+                "title": "Guttet Feschel"
+            }
+        }
+    },
+    "694": {
+        "cam": {
+            "longitude": 7.103105,
+            "latitude": 46.295654,
+            "altitude": 1400,
+            "angle": 360,
+            "north": 60
+        },
+        "instances": {
+            "815": {
+                "url": "https://villars.roundshot.com/leschaux/",
+                "title": "Gyron - Les Chaux"
+            }
+        }
+    },
+    "24": {
+        "cam": {
+            "longitude": 8.802688,
+            "latitude": 47.321296,
+            "altitude": 580,
+            "angle": 340,
+            "north": 75
+        },
+        "instances": {
+            "26": {
+                "url": "https://gzo.roundshot.com/",
+                "title": "GZO Spital Wetzikon"
+            }
+        }
+    },
+    "710": {
+        "cam": {
+            "longitude": 8.800999,
+            "latitude": 47.321144,
+            "altitude": 500,
+            "angle": 145,
+            "north": 330
+        },
+        "instances": {
+            "834": {
+                "url": "https://gzo.roundshot.com/baustelle/",
+                "title": "GZO Wetzikon Baustelle 1"
+            }
+        }
+    },
+    "908": {
+        "cam": {
+            "longitude": 8.80202,
+            "latitude": 47.32045,
+            "altitude": 542,
+            "angle": 50,
+            "north": 0
+        },
+        "instances": {
+            "1067": {
+                "url": "https://gzo.roundshot.com/baustelle2/",
+                "title": "GZO Wetzikon Baustelle 2 public"
+            }
+        }
+    },
+    "828": {
+        "cam": {
+            "longitude": 8.567512,
+            "latitude": 47.77406,
+            "altitude": 958,
+            "angle": 180,
+            "north": 290
+        },
+        "instances": {
+            "977": {
+                "url": "https://hagenturm.roundshot.com/",
+                "title": "Hagenturm"
+            }
+        }
+    },
+    "1210": {
+        "cam": {
+            "longitude": 7.91674,
+            "latitude": 46.115,
+            "altitude": 2334,
+            "angle": 290,
+            "north": 0
+        },
+        "instances": {
+            "1468": {
+                "url": "https://saastal.roundshot.com/hannig/",
+                "title": "Hannig - Saastal"
+            }
+        }
+    },
+    "740": {
+        "cam": {
+            "longitude": 7.851583,
+            "latitude": 46.697314,
+            "altitude": 1321,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "875": {
+                "url": "https://jungfrau.roundshot.com/interlaken-harderkulm/",
+                "title": "Harder Kulm"
+            }
+        }
+    },
+    "20": {
+        "cam": {
+            "longitude": 8.514226,
+            "latitude": 47.238016,
+            "altitude": 588,
+            "angle": 360,
+            "north": 245
+        },
+        "instances": {
+            "22": {
+                "url": "https://albiswings.roundshot.com/",
+                "title": "Hausen am Albis Flugplatz"
+            }
+        }
+    },
+    "1238": {
+        "cam": {
+            "longitude": 7.97547,
+            "latitude": 46.08213,
+            "altitude": 2343,
+            "angle": 360,
+            "north": 180
+        },
+        "instances": {
+            "1523": {
+                "url": "https://saastal.roundshot.com/heidbodme/",
+                "title": "Heidbodme"
+            }
+        }
+    },
+    "30": {
+        "cam": {
+            "longitude": 9.538944,
+            "latitude": 47.440809,
+            "altitude": 508,
+            "angle": 300,
+            "north": 270
+        },
+        "instances": {
+            "32": {
+                "url": "https://heiden.roundshot.com/",
+                "title": "Heiden"
+            }
+        }
+    },
+    "1047": {
+        "cam": {
+            "longitude": 7.698919,
+            "latitude": 45.989302,
+            "altitude": 2780,
+            "angle": 360,
+            "north": 120
+        },
+        "instances": {
+            "1288": {
+                "url": "https://zbag.roundshot.com/hirli/",
+                "title": "Hirli - ZBAG"
+            }
+        }
+    },
+    "1321": {
+        "cam": {
+            "longitude": 9.64998,
+            "latitude": 46.85019,
+            "altitude": null,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "1628": {
+                "url": "https://hochwang.roundshot.com/triemel/",
+                "title": "Hochwang - Gemeinde Arosa"
+            }
+        }
+    },
+    "865": {
+        "cam": {
+            "longitude": 9.68155,
+            "latitude": 46.7930084,
+            "altitude": 1775,
+            "angle": 360,
+            "north": 180
+        },
+        "instances": {
+            "1016": {
+                "url": "https://hofmaranhotel.roundshot.com/",
+                "title": "Hof Maran Golf -und Sporthotel Arosa"
+            }
+        }
+    },
+    "336": {
+        "cam": {
+            "longitude": 7.990729,
+            "latitude": 46.139684,
+            "altitude": 3200,
+            "angle": 360,
+            "north": 160
+        },
+        "instances": {
+            "360": {
+                "url": "https://hohsaas.roundshot.com/3200/",
+                "title": "Hohsaas 3200m"
+            }
+        }
+    },
+    "705": {
+        "cam": {
+            "longitude": 7.965014,
+            "latitude": 46.139907,
+            "altitude": 2400,
+            "angle": 360,
+            "north": 210
+        },
+        "instances": {
+            "829": {
+                "url": "https://hohsaas.roundshot.com/kreuzboden/",
+                "title": "Hohsaas - Kreuzboden"
+            }
+        }
+    },
+    "1043": {
+        "cam": {
+            "longitude": 7.80214,
+            "latitude": 45.98898,
+            "altitude": 3272,
+            "angle": 270,
+            "north": 270
+        },
+        "instances": {
+            "1251": {
+                "url": "https://zermatt.roundshot.com/hohtaelli/",
+                "title": "Hoht\u00e4lli - Zermatt Tourismus"
+            }
+        }
+    },
+    "826": {
+        "cam": {
+            "longitude": 8.3044753,
+            "latitude": 47.0515076,
+            "altitude": 350,
+            "angle": 360,
+            "north": 40
+        },
+        "instances": {
+            "975": {
+                "url": "https://hoteldesbalances.roundshot.com/",
+                "title": "Hotel des Balances - Luzern"
+            }
+        }
+    },
+    "581": {
+        "cam": {
+            "longitude": 7.267166,
+            "latitude": 46.493093,
+            "altitude": 800,
+            "angle": 185,
+            "north": 255
+        },
+        "instances": {
+            "651": {
+                "url": "https://huusgstaad.roundshot.com/",
+                "title": "Huus Hotel Gstaad"
+            }
+        }
+    },
+    "1346": {
+        "cam": {
+            "longitude": 7.85842,
+            "latitude": 46.68825,
+            "altitude": 565,
+            "angle": 180,
+            "north": 300
+        },
+        "instances": {
+            "1658": {
+                "url": "https://casinointerlaken.roundshot.com/",
+                "title": "Interlaken Casino AG"
+            }
+        }
+    },
+    "1319": {
+        "cam": {
+            "longitude": 8.53252,
+            "latitude": 47.18214,
+            "altitude": 450,
+            "angle": 280,
+            "north": 171
+        },
+        "instances": {
+            "1625": {
+                "url": "https://inwil.roundshot.com/",
+                "title": "Inwil Dorf"
+            }
+        }
+    },
+    "494": {
+        "cam": {
+            "longitude": 7.071206,
+            "latitude": 46.908232,
+            "altitude": null,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "548": {
+                "url": "https://hafen-faoug.roundshot.com/",
+                "title": "Jack Beck - Hafen Faoug"
+            }
+        }
+    },
+    "1087": {
+        "cam": {
+            "longitude": 7.980691,
+            "latitude": 46.547943,
+            "altitude": 3400,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "1318": {
+                "url": "https://jungfrau.roundshot.com/top-of-europe-jungfraujoch/",
+                "title": "Jungfraujoch"
+            }
+        }
+    },
+    "750": {
+        "cam": {
+            "longitude": 8.019196,
+            "latitude": 46.624042,
+            "altitude": 937,
+            "angle": 200,
+            "north": 90
+        },
+        "instances": {
+            "886": {
+                "url": "https://jungfrau.roundshot.com/luetschine/",
+                "title": "Jungfrau - L\u00fctschine"
+            }
+        }
+    },
+    "756": {
+        "cam": {
+            "longitude": 7.975209,
+            "latitude": 46.575372,
+            "altitude": 2300,
+            "angle": 360,
+            "north": 60
+        },
+        "instances": {
+            "892": {
+                "url": "https://jungfrau.roundshot.com/eigergletschernordwand/",
+                "title": "Jungfrau - Nordwand"
+            }
+        }
+    },
+    "862": {
+        "cam": {
+            "longitude": 7.9729779,
+            "latitude": 46.5465332,
+            "altitude": 3697,
+            "angle": 180,
+            "north": 0
+        },
+        "instances": {
+            "1013": {
+                "url": "https://jungfrau.roundshot.com/top-of-europe-jungfrau-ostgrat/",
+                "title": "Jungfrau - Ostgrat"
+            }
+        }
+    },
+    "748": {
+        "cam": {
+            "longitude": 8.022087,
+            "latitude": 46.623743,
+            "altitude": 1000,
+            "angle": 360,
+            "north": 270
+        },
+        "instances": {
+            "884": {
+                "url": "https://jungfrau.roundshot.com/pavillon/",
+                "title": "Jungfrau - Pavillon"
+            }
+        }
+    },
+    "749": {
+        "cam": {
+            "longitude": 8.018874,
+            "latitude": 46.625599,
+            "altitude": 1000,
+            "angle": 200,
+            "north": 270
+        },
+        "instances": {
+            "885": {
+                "url": "https://jungfrau.roundshot.com/rothenegg/",
+                "title": "Jungfrau - Rothenegg"
+            }
+        }
+    },
+    "754": {
+        "cam": {
+            "longitude": 7.974672,
+            "latitude": 46.574703,
+            "altitude": 2320,
+            "angle": 360,
+            "north": 160
+        },
+        "instances": {
+            "890": {
+                "url": "https://jungfrau.roundshot.com/eigergletschertrafostation/",
+                "title": "Jungfrau - Trafostation"
+            }
+        }
+    },
+    "40": {
+        "cam": {
+            "longitude": 7.3498,
+            "latitude": 47.362214,
+            "altitude": 435,
+            "angle": 360,
+            "north": 340
+        },
+        "instances": {
+            "42": {
+                "url": "https://juratourisme.roundshot.com/delemont/",
+                "title": "Jura - Del\u00e9mont"
+            }
+        }
+    },
+    "37": {
+        "cam": {
+            "longitude": 6.953431,
+            "latitude": 47.210772,
+            "altitude": 971,
+            "angle": 180,
+            "north": 185
+        },
+        "instances": {
+            "39": {
+                "url": "https://juratourisme.roundshot.com/noirmont/",
+                "title": "Jura - Le Noirmont"
+            }
+        }
+    },
+    "677": {
+        "cam": {
+            "longitude": 7.231378,
+            "latitude": 47.38793,
+            "altitude": 800,
+            "angle": 300,
+            "north": 90
+        },
+        "instances": {
+            "787": {
+                "url": "https://juratourisme.roundshot.com/lesordons/",
+                "title": "Jura - Les Ordons"
+            }
+        }
+    },
+    "38": {
+        "cam": {
+            "longitude": 7.076034,
+            "latitude": 47.411108,
+            "altitude": 423,
+            "angle": 320,
+            "north": 160
+        },
+        "instances": {
+            "40": {
+                "url": "https://juratourisme.roundshot.com/porrentruy/",
+                "title": "Jura - Porrentruy"
+            }
+        }
+    },
+    "36": {
+        "cam": {
+            "longitude": 6.998421,
+            "latitude": 47.253713,
+            "altitude": 978,
+            "angle": 360,
+            "north": 7
+        },
+        "instances": {
+            "38": {
+                "url": "https://juratourisme.roundshot.com/saignelegier/",
+                "title": "Jura - Saignel\u00e9gier"
+            }
+        }
+    },
+    "39": {
+        "cam": {
+            "longitude": 7.168115,
+            "latitude": 47.367424,
+            "altitude": 443,
+            "angle": 240,
+            "north": 300
+        },
+        "instances": {
+            "41": {
+                "url": "https://juratourisme.roundshot.com/st-ursanne/",
+                "title": "Jura - St Ursanne"
+            }
+        }
+    },
+    "1061": {
+        "cam": {
+            "longitude": 7.672965,
+            "latitude": 46.491163,
+            "altitude": 1170,
+            "angle": 360,
+            "north": 90
+        },
+        "instances": {
+            "1270": {
+                "url": "https://kandersteg.roundshot.com/",
+                "title": "Kandersteg Langlaufzentrum"
+            }
+        }
+    },
+    "151": {
+        "cam": {
+            "longitude": 9.541719,
+            "latitude": 46.861134,
+            "altitude": 500,
+            "angle": 230,
+            "north": 215
+        },
+        "instances": {
+            "160": {
+                "url": "https://ksgr.roundshot.com/",
+                "title": "Kantonsspital Graub\u00fcnden - Chur"
+            }
+        }
+    },
+    "1112": {
+        "cam": {
+            "longitude": 8.297205,
+            "latitude": 47.059077,
+            "altitude": 400,
+            "angle": 180,
+            "north": 0
+        },
+        "instances": {
+            "1359": {
+                "url": "https://luks-luzern.roundshot.com/kinderspital/",
+                "title": "Kinderspital - Neubau"
+            }
+        }
+    },
+    "41": {
+        "cam": {
+            "longitude": 8.046107,
+            "latitude": 46.627035,
+            "altitude": 1150,
+            "angle": 360,
+            "north": 330
+        },
+        "instances": {
+            "43": {
+                "url": "https://kirchbuehl.roundshot.com/",
+                "title": "Kirchb\u00fchl - Grindelwald"
+            }
+        }
+    },
+    "988": {
+        "cam": {
+            "longitude": 8.6755571,
+            "latitude": 46.957132,
+            "altitude": 1935,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "1165": {
+                "url": "https://kachelmannwetter.roundshot.com/klingenstock/",
+                "title": "Klingenstock"
+            }
+        }
+    },
+    "507": {
+        "cam": {
+            "longitude": 8.847412,
+            "latitude": 46.687606,
+            "altitude": 1382,
+            "angle": 360,
+            "north": 60
+        },
+        "instances": {
+            "562": {
+                "url": "https://klosterdisentis.roundshot.com/",
+                "title": "Kloster Disentis"
+            }
+        }
+    },
+    "1126": {
+        "cam": {
+            "longitude": 8.8219324,
+            "latitude": 47.2240661,
+            "altitude": 400,
+            "angle": 360,
+            "north": 210
+        },
+        "instances": {
+            "1379": {
+                "url": "https://knieskinderzoo.roundshot.com/",
+                "title": "Knie's Kinderzoo Rapperswil"
+            }
+        }
+    },
+    "1272": {
+        "cam": {
+            "longitude": 9.32944,
+            "latitude": 47.29149,
+            "altitude": 1663,
+            "angle": 360,
+            "north": 145
+        },
+        "instances": {
+            "1569": {
+                "url": "https://kronberg.roundshot.com/gipfel/",
+                "title": "Kronberg Gipfel"
+            }
+        }
+    },
+    "796": {
+        "cam": {
+            "longitude": 9.153405,
+            "latitude": 47.228785,
+            "altitude": 1120,
+            "angle": 360,
+            "north": 320
+        },
+        "instances": {
+            "936": {
+                "url": "https://wolzenalp.roundshot.com/",
+                "title": "Krummenau - Wolzenalp"
+            }
+        }
+    },
+    "154": {
+        "cam": {
+            "longitude": 7.00209,
+            "latitude": 46.359765,
+            "altitude": 2048,
+            "angle": 360,
+            "north": 27
+        },
+        "instances": {
+            "163": {
+                "url": "https://tlml.roundshot.com/",
+                "title": "Kuklos - Leysin"
+            }
+        }
+    },
+    "1138": {
+        "cam": {
+            "longitude": 7.086306,
+            "latitude": 46.727594,
+            "altitude": null,
+            "angle": 180,
+            "north": 0
+        },
+        "instances": {
+            "1391": {
+                "url": "https://kuratleimmobilien.roundshot.com/",
+                "title": "kuratle Immobilien"
+            }
+        }
+    },
+    "47": {
+        "cam": {
+            "longitude": 9.233874,
+            "latitude": 46.861911,
+            "altitude": 2300,
+            "angle": 360,
+            "north": 350
+        },
+        "instances": {
+            "49": {
+                "url": "https://laax.roundshot.com/berghaus-nagens/",
+                "title": "Laax Berghaus Nagens"
+            }
+        }
+    },
+    "46": {
+        "cam": {
+            "longitude": 9.180196,
+            "latitude": 46.842364,
+            "altitude": 2500,
+            "angle": 360,
+            "north": 140
+        },
+        "instances": {
+            "48": {
+                "url": "https://laax.roundshot.com/crap-masegn/",
+                "title": "Laax Crap Masegn"
+            }
+        }
+    },
+    "44": {
+        "cam": {
+            "longitude": 9.216151,
+            "latitude": 46.83454,
+            "altitude": 2228,
+            "angle": 220,
+            "north": 275
+        },
+        "instances": {
+            "46": {
+                "url": "https://laax.roundshot.com/crap-sogn-gion-park/",
+                "title": "Laax Crap Sogn Gion Park"
+            }
+        }
+    },
+    "45": {
+        "cam": {
+            "longitude": 9.215743,
+            "latitude": 46.83528,
+            "altitude": 2240,
+            "angle": 270,
+            "north": 115
+        },
+        "instances": {
+            "47": {
+                "url": "https://laax.roundshot.com/crap-sogn-gion-plaun/",
+                "title": "Laax Crap Sogn Gion Plaun"
+            }
+        }
+    },
+    "433": {
+        "cam": {
+            "longitude": 9.204275,
+            "latitude": 46.880721,
+            "altitude": null,
+            "angle": 200,
+            "north": 285
+        },
+        "instances": {
+            "474": {
+                "url": "https://laax.roundshot.com/la-siala/",
+                "title": "Laax La Siala"
+            }
+        }
+    },
+    "48": {
+        "cam": {
+            "longitude": 9.23716,
+            "latitude": 46.860787,
+            "altitude": 2200,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "50": {
+                "url": "https://laax.roundshot.com/mutta-rodunda/",
+                "title": "Laax Mutta Rodunda"
+            }
+        }
+    },
+    "43": {
+        "cam": {
+            "longitude": 9.2638,
+            "latitude": 46.81964,
+            "altitude": 1108,
+            "angle": 265,
+            "north": 270
+        },
+        "instances": {
+            "45": {
+                "url": "https://laax.roundshot.com/rocksresort/",
+                "title": "Laax Rocksresort"
+            }
+        }
+    },
+    "691": {
+        "cam": {
+            "longitude": 9.264069,
+            "latitude": 46.818828,
+            "altitude": 1200,
+            "angle": 180,
+            "north": 260
+        },
+        "instances": {
+            "804": {
+                "url": "https://rocksresort3.roundshot.com/baustelle/",
+                "title": "Laax Rocksresort 3 - Baustelle"
+            }
+        }
+    },
+    "49": {
+        "cam": {
+            "longitude": 9.17978,
+            "latitude": 46.873171,
+            "altitude": 2600,
+            "angle": 360,
+            "north": 150
+        },
+        "instances": {
+            "51": {
+                "url": "https://laax.roundshot.com/vorab-gletscher/",
+                "title": "Laax Vorab Gletscher"
+            }
+        }
+    },
+    "945": {
+        "cam": {
+            "longitude": 7.178873,
+            "latitude": 46.67768,
+            "altitude": 1634,
+            "angle": 360,
+            "north": 180
+        },
+        "instances": {
+            "1116": {
+                "url": "https://laberra.roundshot.com/",
+                "title": "La Berra"
+            }
+        }
+    },
+    "1257": {
+        "cam": {
+            "longitude": 7.2820364709597,
+            "latitude": 46.159192183442,
+            "altitude": null,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "1551": {
+                "url": "https://nendaz.roundshot.com/lacdetracouet/",
+                "title": "Lac  de Tracouet - Nendaz"
+            }
+        }
+    },
+    "55": {
+        "cam": {
+            "longitude": 8.312333,
+            "latitude": 47.051427,
+            "altitude": 433,
+            "angle": 335,
+            "north": 155
+        },
+        "instances": {
+            "57": {
+                "url": "https://sgv.roundshot.com/",
+                "title": "Lake Lucerne"
+            }
+        }
+    },
+    "441": {
+        "cam": {
+            "longitude": 9.566321,
+            "latitude": 46.682088,
+            "altitude": 1291,
+            "angle": 360,
+            "north": 123
+        },
+        "instances": {
+            "482": {
+                "url": "https://lantsch-lenz.roundshot.com/",
+                "title": "Lantsch - Lenz"
+            }
+        }
+    },
+    "181": {
+        "cam": {
+            "longitude": 9.556124,
+            "latitude": 46.692836,
+            "altitude": 1400,
+            "angle": 360,
+            "north": 355
+        },
+        "instances": {
+            "191": {
+                "url": "https://biathlonarena.roundshot.com/",
+                "title": "Lanz - Lenz - Biathlon Arena"
+            }
+        }
+    },
+    "519": {
+        "cam": {
+            "longitude": 6.855064,
+            "latitude": 46.451673,
+            "altitude": 300,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "577": {
+                "url": "https://latourdepeilz.roundshot.com/",
+                "title": "La Tour-de-Peilz - Port"
+            }
+        }
+    },
+    "1289": {
+        "cam": {
+            "longitude": 8.05785,
+            "latitude": 47.56424,
+            "altitude": 350,
+            "angle": 230,
+            "north": 0
+        },
+        "instances": {
+            "1587": {
+                "url": "https://laufenburg.roundshot.com/stadt/",
+                "title": "Laufenburg Gemeinde"
+            }
+        }
+    },
+    "1119": {
+        "cam": {
+            "longitude": 7.146981,
+            "latitude": 45.982313,
+            "altitude": 2267,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "1367": {
+                "url": "https://lavuardette.roundshot.com/",
+                "title": "la Vuardette - Vich\u00e8res-Liddes"
+            }
+        }
+    },
+    "843": {
+        "cam": {
+            "longitude": 9.871661,
+            "latitude": 46.496949,
+            "altitude": 1800,
+            "angle": 360,
+            "north": 140
+        },
+        "instances": {
+            "994": {
+                "url": "https://lejdastaz.roundshot.com/",
+                "title": "Lej da Staz - St Moritz"
+            }
+        }
+    },
+    "51": {
+        "cam": {
+            "longitude": 9.534968,
+            "latitude": 46.759073,
+            "altitude": 2000,
+            "angle": 360,
+            "north": 110
+        },
+        "instances": {
+            "53": {
+                "url": "https://lenzerheide.roundshot.com/alpstaetz/",
+                "title": "Lenzerheide - Alp St\u00e4tz"
+            }
+        }
+    },
+    "52": {
+        "cam": {
+            "longitude": 9.597324,
+            "latitude": 46.742601,
+            "altitude": 2865,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "54": {
+                "url": "https://lenzerheide.roundshot.com/rothorn/",
+                "title": "Lenzerheide - Parpaner Rothorn"
+            }
+        }
+    },
+    "54": {
+        "cam": {
+            "longitude": 9.511115,
+            "latitude": 46.721888,
+            "altitude": 2323,
+            "angle": 360,
+            "north": 73
+        },
+        "instances": {
+            "56": {
+                "url": "https://lenzerheide.roundshot.com/pizscalottas/",
+                "title": "Lenzerheide - Piz Scalottas"
+            }
+        }
+    },
+    "265": {
+        "cam": {
+            "longitude": 9.557097,
+            "latitude": 46.740251,
+            "altitude": 1506,
+            "angle": 360,
+            "north": 138
+        },
+        "instances": {
+            "281": {
+                "url": "https://lenzerheide.roundshot.com/talstation/",
+                "title": "Lenzerheide - Talstation"
+            }
+        }
+    },
+    "53": {
+        "cam": {
+            "longitude": 9.595082,
+            "latitude": 46.769676,
+            "altitude": 2543,
+            "angle": 360,
+            "north": 140
+        },
+        "instances": {
+            "55": {
+                "url": "https://lenzerheide.roundshot.com/urdenfuerggli/",
+                "title": "Lenzerheide - Urdenfuerggli"
+            }
+        }
+    },
+    "667": {
+        "cam": {
+            "longitude": 6.834239,
+            "latitude": 46.183638,
+            "altitude": 1670,
+            "angle": 360,
+            "north": 300
+        },
+        "instances": {
+            "766": {
+                "url": "https://pds-ch.roundshot.com/lescrosets/",
+                "title": "Les Crosets"
+            }
+        }
+    },
+    "242": {
+        "cam": {
+            "longitude": 7.132025,
+            "latitude": 46.332584,
+            "altitude": 1760,
+            "angle": 360,
+            "north": 80
+        },
+        "instances": {
+            "253": {
+                "url": "https://villars.roundshot.com/lesmazots/",
+                "title": "Les Diablerets - Les Mazots"
+            }
+        }
+    },
+    "72": {
+        "cam": {
+            "longitude": 7.121217,
+            "latitude": 46.33333,
+            "altitude": 1970,
+            "angle": 360,
+            "north": 335
+        },
+        "instances": {
+            "78": {
+                "url": "https://villars.roundshot.com/meilleret/",
+                "title": "Les Diablerets - Meilleret"
+            }
+        }
+    },
+    "182": {
+        "cam": {
+            "longitude": 7.096339,
+            "latitude": 46.396262,
+            "altitude": 1442,
+            "angle": 360,
+            "north": 5
+        },
+        "instances": {
+            "192": {
+                "url": "https://lesmosses.roundshot.com/",
+                "title": "Les Mosses - Leysin"
+            }
+        }
+    },
+    "555": {
+        "cam": {
+            "longitude": 8.296924,
+            "latitude": 47.059993,
+            "altitude": null,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "622": {
+                "url": "https://luks-luzern.roundshot.com/",
+                "title": "LUKS - Luzern"
+            }
+        }
+    },
+    "515": {
+        "cam": {
+            "longitude": 8.117681,
+            "latitude": 47.168141,
+            "altitude": null,
+            "angle": 360,
+            "north": 270
+        },
+        "instances": {
+            "573": {
+                "url": "https://luks-sursee.roundshot.com/",
+                "title": "LUKS - Sursee"
+            }
+        }
+    },
+    "516": {
+        "cam": {
+            "longitude": 8.074523,
+            "latitude": 47.066424,
+            "altitude": null,
+            "angle": 360,
+            "north": 90
+        },
+        "instances": {
+            "574": {
+                "url": "https://luks-wolhusen.roundshot.com/",
+                "title": "LUKS - Wolhusen"
+            }
+        }
+    },
+    "779": {
+        "cam": {
+            "longitude": 9.152603,
+            "latitude": 46.707309,
+            "altitude": 1300,
+            "angle": 180,
+            "north": 0
+        },
+        "instances": {
+            "916": {
+                "url": "https://lumnezia.roundshot.com/badesee/",
+                "title": "Lumnezia - Badesee Davos Munts"
+            }
+        }
+    },
+    "873": {
+        "cam": {
+            "longitude": 9.198317,
+            "latitude": 46.700686,
+            "altitude": 1200,
+            "angle": 180,
+            "north": 150
+        },
+        "instances": {
+            "1025": {
+                "url": "https://lumnezia.roundshot.com/camuns/",
+                "title": "Lumnezia - Camuns"
+            }
+        }
+    },
+    "1": {
+        "cam": {
+            "longitude": 8.987445,
+            "latitude": 47.550303,
+            "altitude": 539,
+            "angle": 360,
+            "north": 270
+        },
+        "instances": {
+            "1": {
+                "url": "https://lustdorf.roundshot.com/",
+                "title": "Lustdorf"
+            }
+        }
+    },
+    "56": {
+        "cam": {
+            "longitude": 8.308712,
+            "latitude": 47.050834,
+            "altitude": 437,
+            "angle": 210,
+            "north": 110
+        },
+        "instances": {
+            "58": {
+                "url": "https://luzerntourismus.roundshot.com/",
+                "title": "Luzern"
+            }
+        }
+    },
+    "57": {
+        "cam": {
+            "longitude": 7.498056,
+            "latitude": 46.316798,
+            "altitude": 1500,
+            "angle": 360,
+            "north": 20
+        },
+        "instances": {
+            "59": {
+                "url": "https://lhm.roundshot.com/",
+                "title": "Luzerner H\u00f6henklinik Montana"
+            }
+        }
+    },
+    "58": {
+        "cam": {
+            "longitude": 8.838408,
+            "latitude": 47.523413,
+            "altitude": 500,
+            "angle": 360,
+            "north": 292
+        },
+        "instances": {
+            "60": {
+                "url": "https://maiengarten.roundshot.com/",
+                "title": "Maiengarten - Bertschikon"
+            }
+        }
+    },
+    "1060": {
+        "cam": {
+            "longitude": 7.942,
+            "latitude": 46.610971,
+            "altitude": 2343,
+            "angle": 360,
+            "north": 260
+        },
+        "instances": {
+            "1268": {
+                "url": "https://maennlichen.roundshot.com/bergstation-wengen/",
+                "title": "M\u00e4nnlichen Bergstation Wengen"
+            }
+        }
+    },
+    "686": {
+        "cam": {
+            "longitude": 7.906235,
+            "latitude": 46.83515,
+            "altitude": 1200,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "798": {
+                "url": "https://marbachegg.roundshot.com/",
+                "title": "Marbachegg - Entlebuch"
+            }
+        }
+    },
+    "857": {
+        "cam": {
+            "longitude": 9.0000548,
+            "latitude": 46.940931,
+            "altitude": 1300,
+            "angle": 360,
+            "north": 120
+        },
+        "instances": {
+            "1008": {
+                "url": "https://maerchenhotel.roundshot.com/",
+                "title": "M\u00e4rchenhotel Braunwald"
+            }
+        }
+    },
+    "964": {
+        "cam": {
+            "longitude": 7.730081,
+            "latitude": 45.938005,
+            "altitude": 3883,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "1290": {
+                "url": "https://zbag.roundshot.com/matterhornglacierparadise/",
+                "title": "Matterhorn - Glacier Paradise - ZBAG"
+            }
+        }
+    },
+    "439": {
+        "cam": {
+            "longitude": 8.255035,
+            "latitude": 46.736775,
+            "altitude": 2245,
+            "angle": 360,
+            "north": 260
+        },
+        "instances": {
+            "480": {
+                "url": "https://alpentower.roundshot.com/",
+                "title": "Meiringen Hasliberg - Alpen Tower"
+            }
+        }
+    },
+    "364": {
+        "cam": {
+            "longitude": 8.218772,
+            "latitude": 46.757572,
+            "altitude": 1833,
+            "angle": 360,
+            "north": 355
+        },
+        "instances": {
+            "400": {
+                "url": "https://kaeserstatt.roundshot.com/",
+                "title": "Meiringen Hasliberg - K\u00e4serstatt"
+            }
+        }
+    },
+    "124": {
+        "cam": {
+            "longitude": 8.236862,
+            "latitude": 46.749265,
+            "altitude": 1709,
+            "angle": 360,
+            "north": 160
+        },
+        "instances": {
+            "133": {
+                "url": "https://maegisalp.roundshot.com/",
+                "title": "Meiringen Hasliberg - Maegisalp"
+            }
+        }
+    },
+    "160": {
+        "cam": {
+            "longitude": 8.289915,
+            "latitude": 46.777667,
+            "altitude": 2063,
+            "angle": 360,
+            "north": 90
+        },
+        "instances": {
+            "169": {
+                "url": "https://bonistock.roundshot.com/",
+                "title": "Melchsee-Frutt - Bonistock"
+            }
+        }
+    },
+    "161": {
+        "cam": {
+            "longitude": 8.268524,
+            "latitude": 46.774624,
+            "altitude": 1916,
+            "angle": 360,
+            "north": 70
+        },
+        "instances": {
+            "170": {
+                "url": "https://melchseefrutt.roundshot.com/",
+                "title": "Melchsee-Frutt - Dorf"
+            }
+        }
+    },
+    "969": {
+        "cam": {
+            "longitude": 8.585889,
+            "latitude": 47.181828,
+            "altitude": 580,
+            "angle": 360,
+            "north": 280
+        },
+        "instances": {
+            "1141": {
+                "url": "https://menzingen.roundshot.com/",
+                "title": "Menzingen Gemeinde"
+            }
+        }
+    },
+    "1314": {
+        "cam": {
+            "longitude": 8.02258,
+            "latitude": 46.58342,
+            "altitude": 3355,
+            "angle": 360,
+            "north": 240
+        },
+        "instances": {
+            "1619": {
+                "url": "https://grindelwald.roundshot.com/mittellegihuette/",
+                "title": "Mittellegih\u00fctte - Grindelwald Tourismus"
+            }
+        }
+    },
+    "1231": {
+        "cam": {
+            "longitude": 8.16646,
+            "latitude": 46.44132,
+            "altitude": 2065,
+            "angle": 360,
+            "north": 260
+        },
+        "instances": {
+            "1512": {
+                "url": "https://bellwaldtourismus.roundshot.com/fleschen/",
+                "title": "Mittelstation Fleschen - Bellwald Tourismus"
+            }
+        }
+    },
+    "1132": {
+        "cam": {
+            "longitude": 7.3180849,
+            "latitude": 46.0800814,
+            "altitude": 3328,
+            "angle": 360,
+            "north": 240
+        },
+        "instances": {
+            "1385": {
+                "url": "https://verbier.roundshot.com/montfort/",
+                "title": "Mont Fort - Verbier"
+            }
+        }
+    },
+    "900": {
+        "cam": {
+            "longitude": 7.0401774,
+            "latitude": 46.6841389,
+            "altitude": 1240,
+            "angle": 360,
+            "north": 315
+        },
+        "instances": {
+            "1059": {
+                "url": "https://montgibloux.roundshot.com/",
+                "title": "Mont Gibloux"
+            }
+        }
+    },
+    "868": {
+        "cam": {
+            "longitude": 6.81966,
+            "latitude": 46.497077,
+            "altitude": 300,
+            "angle": 360,
+            "north": 300
+        },
+        "instances": {
+            "1019": {
+                "url": "https://montpelerin.roundshot.com/",
+                "title": "Mont P\u00e8lerin"
+            }
+        }
+    },
+    "360": {
+        "cam": {
+            "longitude": 6.90786,
+            "latitude": 46.43675,
+            "altitude": 300,
+            "angle": 360,
+            "north": 230
+        },
+        "instances": {
+            "395": {
+                "url": "https://montreux.roundshot.com/",
+                "title": "Montreux"
+            }
+        }
+    },
+    "696": {
+        "cam": {
+            "longitude": 6.990292,
+            "latitude": 47.16421,
+            "altitude": 1288,
+            "angle": 360,
+            "north": 300
+        },
+        "instances": {
+            "819": {
+                "url": "https://montsoleil.roundshot.com/",
+                "title": "Mont Soleil"
+            }
+        }
+    },
+    "348": {
+        "cam": {
+            "longitude": 6.498673,
+            "latitude": 46.507854,
+            "altitude": 300,
+            "angle": 250,
+            "north": 350
+        },
+        "instances": {
+            "381": {
+                "url": "https://morgesregion.roundshot.com/",
+                "title": "Morges - Port"
+            }
+        }
+    },
+    "452": {
+        "cam": {
+            "longitude": 6.490986,
+            "latitude": 46.51235,
+            "altitude": 300,
+            "angle": 360,
+            "north": 60
+        },
+        "instances": {
+            "494": {
+                "url": "https://morgesregion.roundshot.com/ville/",
+                "title": "Morges - Ville"
+            }
+        }
+    },
+    "1229": {
+        "cam": {
+            "longitude": 6.86239,
+            "latitude": 46.24135,
+            "altitude": 1450,
+            "angle": 320,
+            "north": 0
+        },
+        "instances": {
+            "1510": {
+                "url": "https://morgins.roundshot.com/",
+                "title": "Morgins"
+            }
+        }
+    },
+    "1070": {
+        "cam": {
+            "longitude": 6.862602,
+            "latitude": 46.224627,
+            "altitude": 1816,
+            "angle": 360,
+            "north": 90
+        },
+        "instances": {
+            "1282": {
+                "url": "https://pds-ch.roundshot.com/morgins/",
+                "title": "Morgins"
+            }
+        }
+    },
+    "59": {
+        "cam": {
+            "longitude": 7.115256,
+            "latitude": 46.928136,
+            "altitude": 453,
+            "angle": 210,
+            "north": 75
+        },
+        "instances": {
+            "62": {
+                "url": "https://morat.roundshot.com/",
+                "title": "Murten - Morat"
+            }
+        }
+    },
+    "1270": {
+        "cam": {
+            "longitude": 9.08776,
+            "latitude": 47.63834,
+            "altitude": 622,
+            "angle": 360,
+            "north": 65
+        },
+        "instances": {
+            "1567": {
+                "url": "https://napoleonturm.roundshot.com/",
+                "title": "Napoleonturm zu Hohenrain"
+            }
+        }
+    },
+    "728": {
+        "cam": {
+            "longitude": 7.775161,
+            "latitude": 46.71056,
+            "altitude": 1000,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "861": {
+                "url": "https://niederhornbahn.roundshot.com/",
+                "title": "Niederhorn"
+            }
+        }
+    },
+    "401": {
+        "cam": {
+            "longitude": 6.241363,
+            "latitude": 46.380629,
+            "altitude": 376,
+            "angle": 360,
+            "north": 127
+        },
+        "instances": {
+            "440": {
+                "url": "https://nyon-tourisme.roundshot.com/",
+                "title": "Nyon"
+            }
+        }
+    },
+    "66": {
+        "cam": {
+            "longitude": 8.547363,
+            "latitude": 47.365462,
+            "altitude": 410,
+            "angle": 360,
+            "north": 214
+        },
+        "instances": {
+            "70": {
+                "url": "https://nzz.roundshot.com/",
+                "title": "NZZ Z\u00fcrich"
+            }
+        }
+    },
+    "704": {
+        "cam": {
+            "longitude": 8.344597,
+            "latitude": 46.530133,
+            "altitude": 1350,
+            "angle": 360,
+            "north": 350
+        },
+        "instances": {
+            "828": {
+                "url": "https://obergoms.roundshot.com/oberwald/",
+                "title": "Obergoms - Oberwald"
+            }
+        }
+    },
+    "703": {
+        "cam": {
+            "longitude": 8.301919,
+            "latitude": 46.500597,
+            "altitude": 1300,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "827": {
+                "url": "https://obergoms.roundshot.com/ulrichen/",
+                "title": "Obergoms - Ulrichen - Nordisches Zentrum"
+            }
+        }
+    },
+    "22": {
+        "cam": {
+            "longitude": 7.718886,
+            "latitude": 47.305092,
+            "altitude": 833,
+            "angle": 360,
+            "north": 230
+        },
+        "instances": {
+            "24": {
+                "url": "https://roggenberg.roundshot.com/",
+                "title": "Oensingen - Roggenberg"
+            }
+        }
+    },
+    "838": {
+        "cam": {
+            "longitude": 7.71374,
+            "latitude": 46.49723,
+            "altitude": 1600,
+            "angle": 220,
+            "north": 40
+        },
+        "instances": {
+            "987": {
+                "url": "https://oeschinensee.roundshot.com/berghotel/",
+                "title": "Oeschinensee - Berghotel"
+            }
+        }
+    },
+    "867": {
+        "cam": {
+            "longitude": 7.696915,
+            "latitude": 46.502011,
+            "altitude": 1600,
+            "angle": 360,
+            "north": 280
+        },
+        "instances": {
+            "1018": {
+                "url": "https://oeschinensee.roundshot.com/rodelbahn/",
+                "title": "Oeschinensee - Rodelbahn"
+            }
+        }
+    },
+    "25": {
+        "cam": {
+            "longitude": 7.289316,
+            "latitude": 46.473017,
+            "altitude": 1100,
+            "angle": 360,
+            "north": 40
+        },
+        "instances": {
+            "27": {
+                "url": "https://palacegstaad.roundshot.com/",
+                "title": "Palace Gstaad"
+            }
+        }
+    },
+    "257": {
+        "cam": {
+            "longitude": 9.563125,
+            "latitude": 46.759153,
+            "altitude": 1500,
+            "angle": 360,
+            "north": 140
+        },
+        "instances": {
+            "273": {
+                "url": "https://lenzerheide.roundshot.com/parpan/",
+                "title": "Parpan Gemeinde"
+            }
+        }
+    },
+    "801": {
+        "cam": {
+            "longitude": 6.499011,
+            "latitude": 46.513521,
+            "altitude": null,
+            "angle": 200,
+            "north": 0
+        },
+        "instances": {
+            "944": {
+                "url": "https://scopedevelopment.roundshot.com/",
+                "title": "Pasta Gala Morges"
+            }
+        }
+    },
+    "62": {
+        "cam": {
+            "longitude": 6.95816,
+            "latitude": 47.026019,
+            "altitude": 1080,
+            "angle": 360,
+            "north": 310
+        },
+        "instances": {
+            "66": {
+                "url": "https://chaumont.roundshot.com/",
+                "title": "Pays de Neuch\u00e2tel - Chaumont"
+            }
+        }
+    },
+    "716": {
+        "cam": {
+            "longitude": 6.935444,
+            "latitude": 46.990937,
+            "altitude": 300,
+            "angle": 360,
+            "north": 240
+        },
+        "instances": {
+            "842": {
+                "url": "https://jeunesrives.roundshot.com/",
+                "title": "Pays de Neuch\u00e2tel - Jeunes-Rives"
+            }
+        }
+    },
+    "1268": {
+        "cam": {
+            "longitude": 6.60689,
+            "latitude": 46.97977,
+            "altitude": 1042,
+            "angle": 50,
+            "north": 290
+        },
+        "instances": {
+            "1565": {
+                "url": "https://labrevine.roundshot.com/",
+                "title": "Pays de Neuch\u00e2tel - La Br\u00e9vine"
+            }
+        }
+    },
+    "411": {
+        "cam": {
+            "longitude": 6.986171,
+            "latitude": 47.009454,
+            "altitude": 429,
+            "angle": 360,
+            "north": 354
+        },
+        "instances": {
+            "450": {
+                "url": "https://lacdeneuchatel.roundshot.com/",
+                "title": "Pays de Neuch\u00e2tel - Lac de Neuch\u00e2tel"
+            }
+        }
+    },
+    "63": {
+        "cam": {
+            "longitude": 6.586255,
+            "latitude": 46.971041,
+            "altitude": 1040,
+            "angle": 261,
+            "north": 185
+        },
+        "instances": {
+            "67": {
+                "url": "https://tailleres.roundshot.com/",
+                "title": "Pays de Neuch\u00e2tel - Lac des Taill\u00e8res"
+            }
+        }
+    },
+    "260": {
+        "cam": {
+            "longitude": 6.828734,
+            "latitude": 47.102342,
+            "altitude": 1200,
+            "angle": 360,
+            "north": 15
+        },
+        "instances": {
+            "276": {
+                "url": "https://lachauxdefonds.roundshot.com/",
+                "title": "Pays de Neuch\u00e2tel - La Chaux-de-Fonds"
+            }
+        }
+    },
+    "714": {
+        "cam": {
+            "longitude": 6.549883,
+            "latitude": 46.876335,
+            "altitude": 1457,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "838": {
+                "url": "https://larobella.roundshot.com/",
+                "title": "Pays de Neuch\u00e2tel - La Robella"
+            }
+        }
+    },
+    "65": {
+        "cam": {
+            "longitude": 6.697577,
+            "latitude": 47.068428,
+            "altitude": 849,
+            "angle": 360,
+            "north": 210
+        },
+        "instances": {
+            "69": {
+                "url": "https://lesbrenets.roundshot.com/",
+                "title": "Pays de Neuch\u00e2tel - Les Brenets"
+            }
+        }
+    },
+    "264": {
+        "cam": {
+            "longitude": 6.937448,
+            "latitude": 46.996941,
+            "altitude": 475,
+            "angle": 360,
+            "north": 327
+        },
+        "instances": {
+            "280": {
+                "url": "https://neuchatel.roundshot.com/",
+                "title": "Pays de Neuch\u00e2tel - Neuch\u00e2tel"
+            }
+        }
+    },
+    "184": {
+        "cam": {
+            "longitude": 6.853632,
+            "latitude": 47.05424,
+            "altitude": 1600,
+            "angle": 360,
+            "north": 21
+        },
+        "instances": {
+            "194": {
+                "url": "https://tete-de-ran.roundshot.com/",
+                "title": "Pays de Neuch\u00e2tel - T\u00eate de Ran"
+            }
+        }
+    },
+    "930": {
+        "cam": {
+            "longitude": 9.551886,
+            "latitude": 47.484427,
+            "altitude": 400,
+            "angle": 360,
+            "north": 160
+        },
+        "instances": {
+            "1101": {
+                "url": "https://lszr.roundshot.com/",
+                "title": "People's Airport St. Gallen - Altenrhein"
+            }
+        }
+    },
+    "155": {
+        "cam": {
+            "longitude": 8.256321,
+            "latitude": 46.979246,
+            "altitude": 2128,
+            "angle": 360,
+            "north": 170
+        },
+        "instances": {
+            "164": {
+                "url": "https://pilatus.roundshot.com/",
+                "title": "Pilatus - Esel"
+            }
+        }
+    },
+    "1212": {
+        "cam": {
+            "longitude": 8.42675,
+            "latitude": 46.92715,
+            "altitude": 1160,
+            "angle": 360,
+            "north": 270
+        },
+        "instances": {
+            "1471": {
+                "url": "https://pilgerhaus-maria-rickenbach.roundshot.com/",
+                "title": "Pilgerhaus Maria-Rickenbach"
+            }
+        }
+    },
+    "1002": {
+        "cam": {
+            "longitude": 8.924645,
+            "latitude": 46.409942,
+            "altitude": 2104,
+            "angle": 360,
+            "north": 230
+        },
+        "instances": {
+            "1187": {
+                "url": "https://pizzomatro.roundshot.com/",
+                "title": "Pizzo Matro - RUAG"
+            }
+        }
+    },
+    "405": {
+        "cam": {
+            "longitude": 6.153733,
+            "latitude": 46.245613,
+            "altitude": 376,
+            "angle": 360,
+            "north": 28
+        },
+        "instances": {
+            "444": {
+                "url": "https://vengeron.roundshot.com/",
+                "title": "Plage du Vengeron - Gen\u00e8ve"
+            }
+        }
+    },
+    "1216": {
+        "cam": {
+            "longitude": 7.29305,
+            "latitude": 46.13973,
+            "altitude": 2443,
+            "angle": 360,
+            "north": 270
+        },
+        "instances": {
+            "1476": {
+                "url": "https://nendaz.roundshot.com/plandufou/",
+                "title": "Plan du Fou - Nendaz"
+            }
+        }
+    },
+    "1276": {
+        "cam": {
+            "longitude": 7.2786579418128,
+            "latitude": 46.148980112079,
+            "altitude": 1848,
+            "angle": 360,
+            "north": 180
+        },
+        "instances": {
+            "1573": {
+                "url": "https://nendaz.roundshot.com/prarion-balavaud/",
+                "title": "Prarion-Balavaud - Nendaz"
+            }
+        }
+    },
+    "706": {
+        "cam": {
+            "longitude": 6.578925,
+            "latitude": 46.53682,
+            "altitude": null,
+            "angle": 220,
+            "north": 0
+        },
+        "instances": {
+            "830": {
+                "url": "https://cffimmobilier.roundshot.com/quaiouest/",
+                "title": "Quai Ouest - Renens"
+            }
+        }
+    },
+    "609": {
+        "cam": {
+            "longitude": 6.496228,
+            "latitude": 46.511168,
+            "altitude": null,
+            "angle": 160,
+            "north": 120
+        },
+        "instances": {
+            "689": {
+                "url": "https://cffimmobilier.roundshot.com/quartierdeshalles/",
+                "title": "Quartier Des Halles - Morges"
+            }
+        }
+    },
+    "1040": {
+        "cam": {
+            "longitude": 7.783302,
+            "latitude": 46.100447,
+            "altitude": 1270,
+            "angle": 360,
+            "north": 190
+        },
+        "instances": {
+            "1246": {
+                "url": "https://zermatt.roundshot.com/randa/",
+                "title": "Randa - Zermatt Tourismus"
+            }
+        }
+    },
+    "876": {
+        "cam": {
+            "longitude": 7.214625,
+            "latitude": 46.279895,
+            "altitude": 1462,
+            "angle": 360,
+            "north": 180
+        },
+        "instances": {
+            "1028": {
+                "url": "https://refugederborence.roundshot.com/",
+                "title": "Refuge du Lac de Derborence"
+            }
+        }
+    },
+    "1340": {
+        "cam": {
+            "longitude": 7.13772,
+            "latitude": 46.28847,
+            "altitude": 1463,
+            "angle": 360,
+            "north": 140
+        },
+        "instances": {
+            "1650": {
+                "url": "https://refugesolalex.roundshot.com/",
+                "title": "Refuge Solalex"
+            }
+        }
+    },
+    "1269": {
+        "cam": {
+            "longitude": 8.3438,
+            "latitude": 47.38727,
+            "altitude": 583,
+            "angle": 360,
+            "north": 260
+        },
+        "instances": {
+            "1566": {
+                "url": "https://rehabellikon.roundshot.com/",
+                "title": "Rehaklinik Bellikon"
+            }
+        }
+    },
+    "456": {
+        "cam": {
+            "longitude": 9.560451,
+            "latitude": 47.501005,
+            "altitude": 200,
+            "angle": 120,
+            "north": 70
+        },
+        "instances": {
+            "502": {
+                "url": "https://hafenamrheinspitz.roundshot.com/",
+                "title": "Rheinspitz"
+            }
+        }
+    },
+    "901": {
+        "cam": {
+            "longitude": 8.4851,
+            "latitude": 47.0566,
+            "altitude": 1840,
+            "angle": 360,
+            "north": 220
+        },
+        "instances": {
+            "1060": {
+                "url": "https://rigi.roundshot.com/",
+                "title": "Rigi"
+            }
+        }
+    },
+    "747": {
+        "cam": {
+            "longitude": 8.520233,
+            "latitude": 47.027558,
+            "altitude": 1658,
+            "angle": 360,
+            "north": 65
+        },
+        "instances": {
+            "883": {
+                "url": "https://rigibahnen.roundshot.com/scheidegg/",
+                "title": "Rigi Scheidegg"
+            }
+        }
+    },
+    "300": {
+        "cam": {
+            "longitude": 6.976191,
+            "latitude": 46.431915,
+            "altitude": 2050,
+            "angle": 360,
+            "north": 320
+        },
+        "instances": {
+            "321": {
+                "url": "https://mob.roundshot.com/rochersdenaye/",
+                "title": "Rochers de Naye"
+            }
+        }
+    },
+    "840": {
+        "cam": {
+            "longitude": 7.313258,
+            "latitude": 46.516894,
+            "altitude": 1280,
+            "angle": 360,
+            "north": 60
+        },
+        "instances": {
+            "990": {
+                "url": "https://romantikhotelhornberg.roundshot.com/",
+                "title": "Romantik Hotel Hornberg - Saanenm\u00f6ser"
+            }
+        }
+    },
+    "17": {
+        "cam": {
+            "longitude": 9.508275,
+            "latitude": 47.474469,
+            "altitude": 570,
+            "angle": 360,
+            "north": 230
+        },
+        "instances": {
+            "18": {
+                "url": "https://computechnic.roundshot.com/",
+                "title": "Rorschacherberg"
+            }
+        }
+    },
+    "272": {
+        "cam": {
+            "longitude": 8.703119511,
+            "latitude": 47.021116735,
+            "altitude": 1570,
+            "angle": 360,
+            "north": 60
+        },
+        "instances": {
+            "288": {
+                "url": "https://kachelmannwetter.roundshot.com/rotenflue/",
+                "title": "Rotenflue"
+            }
+        }
+    },
+    "1045": {
+        "cam": {
+            "longitude": 7.797409,
+            "latitude": 46.021509,
+            "altitude": null,
+            "angle": 180,
+            "north": 270
+        },
+        "instances": {
+            "1291": {
+                "url": "https://zbag.roundshot.com/rothorn/",
+                "title": "Rothorn - ZBAG"
+            }
+        }
+    },
+    "1345": {
+        "cam": {
+            "longitude": 8.05071,
+            "latitude": 46.2723,
+            "altitude": 2222,
+            "angle": 360,
+            "north": 180
+        },
+        "instances": {
+            "1657": {
+                "url": "https://brigtourismus.roundshot.com/rothwald/",
+                "title": "Rothwald - Brig Tourismus"
+            }
+        }
+    },
+    "954": {
+        "cam": {
+            "longitude": 8.59168,
+            "latitude": 46.96846,
+            "altitude": 509,
+            "angle": 160,
+            "north": 0
+        },
+        "instances": {
+            "1126": {
+                "url": "https://ruetliwiese.roundshot.com/",
+                "title": "R\u00fctliwiese"
+            }
+        }
+    },
+    "1323": {
+        "cam": {
+            "longitude": 7.92945,
+            "latitude": 46.10853,
+            "altitude": 1810,
+            "angle": 360,
+            "north": 200
+        },
+        "instances": {
+            "1630": {
+                "url": "https://saastal.roundshot.com/dorf/",
+                "title": "Saas-Fee Dorf"
+            }
+        }
+    },
+    "1110": {
+        "cam": {
+            "longitude": 6.971218,
+            "latitude": 46.144464,
+            "altitude": 1925,
+            "angle": 360,
+            "north": 200
+        },
+        "instances": {
+            "1357": {
+                "url": "https://valleedutrient.roundshot.com/salanfe/",
+                "title": "Salanfe"
+            }
+        }
+    },
+    "832": {
+        "cam": {
+            "longitude": 8.946756,
+            "latitude": 45.977243,
+            "altitude": 912,
+            "angle": 360,
+            "north": 100
+        },
+        "instances": {
+            "981": {
+                "url": "https://sansalvatore.roundshot.com/",
+                "title": "San Salvatore"
+            }
+        }
+    },
+    "156": {
+        "cam": {
+            "longitude": 9.343195,
+            "latitude": 47.249219,
+            "altitude": 2500,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "165": {
+                "url": "https://saentis.roundshot.com/",
+                "title": "S\u00e4ntis Gipfel"
+            }
+        }
+    },
+    "1130": {
+        "cam": {
+            "longitude": 9.31997,
+            "latitude": 47.2539,
+            "altitude": 1350,
+            "angle": 270,
+            "north": 160
+        },
+        "instances": {
+            "1383": {
+                "url": "https://saentis.roundshot.com/schwaegalp/",
+                "title": "S\u00e4ntis Schw\u00e4galp"
+            }
+        }
+    },
+    "268": {
+        "cam": {
+            "longitude": 8.649683,
+            "latitude": 47.067308,
+            "altitude": 1185,
+            "angle": 360,
+            "north": 70
+        },
+        "instances": {
+            "284": {
+                "url": "https://kachelmannwetter.roundshot.com/sattel/",
+                "title": "Sattel"
+            }
+        }
+    },
+    "627": {
+        "cam": {
+            "longitude": 7.286254,
+            "latitude": 47.188216,
+            "altitude": 862,
+            "angle": 360,
+            "north": 120
+        },
+        "instances": {
+            "717": {
+                "url": "https://plagne.roundshot.com/",
+                "title": "Sauge - Plagne"
+            }
+        }
+    },
+    "1022": {
+        "cam": {
+            "longitude": 7.2123,
+            "latitude": 46.122,
+            "altitude": 2350,
+            "angle": 360,
+            "north": 20
+        },
+        "instances": {
+            "1224": {
+                "url": "https://verbier.roundshot.com/savoleyres/",
+                "title": "Savoleyres - Verbier"
+            }
+        }
+    },
+    "646": {
+        "cam": {
+            "longitude": 8.866525,
+            "latitude": 47.460091,
+            "altitude": 500,
+            "angle": 360,
+            "north": 210
+        },
+        "instances": {
+            "739": {
+                "url": "https://schauenberg.roundshot.com/",
+                "title": "Schauenberg"
+            }
+        }
+    },
+    "429": {
+        "cam": {
+            "longitude": 7.887601,
+            "latitude": 46.56413,
+            "altitude": 1907,
+            "angle": 360,
+            "north": 58
+        },
+        "instances": {
+            "470": {
+                "url": "https://schilthorn.roundshot.com/allmendhubel/",
+                "title": "Schilthorn - Allmendhubel"
+            }
+        }
+    },
+    "428": {
+        "cam": {
+            "longitude": 7.857315,
+            "latitude": 46.561646,
+            "altitude": 2677,
+            "angle": 360,
+            "north": 310
+        },
+        "instances": {
+            "469": {
+                "url": "https://schilthorn.roundshot.com/birg/",
+                "title": "Schilthorn - Birg"
+            }
+        }
+    },
+    "1050": {
+        "cam": {
+            "longitude": 7.752567,
+            "latitude": 46.021724,
+            "altitude": 1800,
+            "angle": 50,
+            "north": 160
+        },
+        "instances": {
+            "1258": {
+                "url": "https://zermatt.roundshot.com/schonegg/",
+                "title": "Sch\u00f6negg Hotel - Zermatt Tourismus"
+            }
+        }
+    },
+    "430": {
+        "cam": {
+            "longitude": 7.28285,
+            "latitude": 46.674,
+            "altitude": 650,
+            "angle": 360,
+            "north": 250
+        },
+        "instances": {
+            "471": {
+                "url": "https://schwarzseetourismus.roundshot.com/",
+                "title": "Schwarzsee Tourismus"
+            }
+        }
+    },
+    "771": {
+        "cam": {
+            "longitude": 7.909273,
+            "latitude": 46.650943,
+            "altitude": 1967,
+            "angle": 360,
+            "north": 270
+        },
+        "instances": {
+            "908": {
+                "url": "https://jungfrau.roundshot.com/schynige-platte/",
+                "title": "Schynige Platte"
+            }
+        }
+    },
+    "1209": {
+        "cam": {
+            "longitude": 10.3341,
+            "latitude": 46.81736,
+            "altitude": 1440,
+            "angle": 240,
+            "north": 0
+        },
+        "instances": {
+            "1467": {
+                "url": "https://engadin.roundshot.com/sent/",
+                "title": "Sent - Engadin"
+            }
+        }
+    },
+    "478": {
+        "cam": {
+            "longitude": 7.532241,
+            "latitude": 46.307397,
+            "altitude": null,
+            "angle": 360,
+            "north": 330
+        },
+        "instances": {
+            "526": {
+                "url": "https://sierre-tourisme.roundshot.com/",
+                "title": "Sierre Tourisme - Venthone"
+            }
+        }
+    },
+    "246": {
+        "cam": {
+            "longitude": 9.761204,
+            "latitude": 46.428587,
+            "altitude": 1854,
+            "angle": 360,
+            "north": 340
+        },
+        "instances": {
+            "257": {
+                "url": "https://sils.roundshot.com/",
+                "title": "Sils Maria"
+            }
+        }
+    },
+    "1344": {
+        "cam": {
+            "longitude": 8.03087,
+            "latitude": 46.24923,
+            "altitude": 2007,
+            "angle": 360,
+            "north": 170
+        },
+        "instances": {
+            "1656": {
+                "url": "https://brigtourismus.roundshot.com/simplonpass/",
+                "title": "Simplonpass - Brig Tourismus"
+            }
+        }
+    },
+    "518": {
+        "cam": {
+            "longitude": 7.337485,
+            "latitude": 46.222674,
+            "altitude": 500,
+            "angle": 360,
+            "north": 335
+        },
+        "instances": {
+            "576": {
+                "url": "https://sionairport.roundshot.com/",
+                "title": "Sion A\u00e9roport"
+            }
+        }
+    },
+    "1218": {
+        "cam": {
+            "longitude": 7.31641,
+            "latitude": 46.13518,
+            "altitude": 1729,
+            "angle": 360,
+            "north": 20
+        },
+        "instances": {
+            "1478": {
+                "url": "https://nendaz.roundshot.com/siviez/",
+                "title": "Siviez - Nendaz"
+            }
+        }
+    },
+    "1343": {
+        "cam": {
+            "longitude": 7.0019,
+            "latitude": 46.36449,
+            "altitude": 1910,
+            "angle": 360,
+            "north": 100
+        },
+        "instances": {
+            "1655": {
+                "url": "https://leysin.roundshot.com/snowpark/",
+                "title": "Snowpark - Leysin"
+            }
+        }
+    },
+    "620": {
+        "cam": {
+            "longitude": 8.044505,
+            "latitude": 46.78724,
+            "altitude": 1800,
+            "angle": 270,
+            "north": 190
+        },
+        "instances": {
+            "707": {
+                "url": "https://soerenberg.roundshot.com/rothorn/",
+                "title": "S\u00f6renberg - Rothorn Gipfel"
+            }
+        }
+    },
+    "125": {
+        "cam": {
+            "longitude": 9.313837,
+            "latitude": 46.5306,
+            "altitude": 2100,
+            "angle": 360,
+            "north": 80
+        },
+        "instances": {
+            "134": {
+                "url": "https://spluegen.roundshot.com/",
+                "title": "Spl\u00fcgen - Tanatzh\u00f6he"
+            }
+        }
+    },
+    "304": {
+        "cam": {
+            "longitude": 7.870471,
+            "latitude": 46.229655,
+            "altitude": 787,
+            "angle": 360,
+            "north": 195
+        },
+        "instances": {
+            "327": {
+                "url": "https://gemeindestalden.roundshot.com/",
+                "title": "Stalden"
+            }
+        }
+    },
+    "559": {
+        "cam": {
+            "longitude": 8.357228,
+            "latitude": 46.960048,
+            "altitude": 461,
+            "angle": 360,
+            "north": 340
+        },
+        "instances": {
+            "626": {
+                "url": "https://ksnw.roundshot.com/",
+                "title": "Stans - Spital Nidwalden"
+            }
+        }
+    },
+    "687": {
+        "cam": {
+            "longitude": 7.687056,
+            "latitude": 47.57176,
+            "altitude": 400,
+            "angle": 360,
+            "north": 290
+        },
+        "instances": {
+            "799": {
+                "url": "https://chrischona.roundshot.com/",
+                "title": "St. Chrischona"
+            }
+        }
+    },
+    "1239": {
+        "cam": {
+            "longitude": 8.54182,
+            "latitude": 47.37112,
+            "altitude": 420,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "1524": {
+                "url": "https://zuerichtourismus.roundshot.com/storchen/",
+                "title": "Storchen Hotel"
+            }
+        }
+    },
+    "1287": {
+        "cam": {
+            "longitude": 7.773,
+            "latitude": 46.28668,
+            "altitude": 1557,
+            "angle": 360,
+            "north": 30
+        },
+        "instances": {
+            "1585": {
+                "url": "https://eischoll.roundshot.com/stryggen/",
+                "title": "Stryggen - Eischoll"
+            }
+        }
+    },
+    "1049": {
+        "cam": {
+            "longitude": 7.770068,
+            "latitude": 46.017246,
+            "altitude": 2000,
+            "angle": 50,
+            "north": 150
+        },
+        "instances": {
+            "1292": {
+                "url": "https://zbag.roundshot.com/sunnegga/",
+                "title": "Sunnegga - ZBAG"
+            }
+        }
+    },
+    "163": {
+        "cam": {
+            "longitude": 8.6177,
+            "latitude": 46.980654,
+            "altitude": 800,
+            "angle": 360,
+            "north": 315
+        },
+        "instances": {
+            "172": {
+                "url": "https://shp.roundshot.com/",
+                "title": "Swiss Holiday Park"
+            }
+        }
+    },
+    "1184": {
+        "cam": {
+            "longitude": 8.16121,
+            "latitude": 46.42782,
+            "altitude": 1611,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "1440": {
+                "url": "https://bellwaldtourismus.roundshot.com/bellwald/",
+                "title": "Talstation - Bellwald Tourismus"
+            }
+        }
+    },
+    "1134": {
+        "cam": {
+            "longitude": 10.270026,
+            "latitude": 46.778578,
+            "altitude": 1440,
+            "angle": 317,
+            "north": 180
+        },
+        "instances": {
+            "1387": {
+                "url": "https://engadin.roundshot.com/tarasp/",
+                "title": "Tarasp - Engadin"
+            }
+        }
+    },
+    "1241": {
+        "cam": {
+            "longitude": 7.77628,
+            "latitude": 46.07844,
+            "altitude": 1427,
+            "angle": 360,
+            "north": 160
+        },
+        "instances": {
+            "1531": {
+                "url": "https://zermatt.roundshot.com/langlaufloipe-schalisee/",
+                "title": "T\u00e4sch - Zermatt Tourismus"
+            }
+        }
+    },
+    "1051": {
+        "cam": {
+            "longitude": 7.778781,
+            "latitude": 46.066907,
+            "altitude": 1460,
+            "angle": 360,
+            "north": 280
+        },
+        "instances": {
+            "1259": {
+                "url": "https://zermatt.roundshot.com/taesch/",
+                "title": "T\u00e4sch - Zermatt Tourismus"
+            }
+        }
+    },
+    "802": {
+        "cam": {
+            "longitude": 6.994343,
+            "latitude": 46.118466,
+            "altitude": 1200,
+            "angle": 360,
+            "north": 170
+        },
+        "instances": {
+            "945": {
+                "url": "https://valleedutrient.roundshot.com/telemarecottes/",
+                "title": "T\u00e9l\u00e9 Mar\u00e9cottes"
+            }
+        }
+    },
+    "590": {
+        "cam": {
+            "longitude": 8.555246,
+            "latitude": 47.050679,
+            "altitude": 600,
+            "angle": 360,
+            "north": 330
+        },
+        "instances": {
+            "663": {
+                "url": "https://kachelmannwetter.roundshot.com/tierparkgoldau/",
+                "title": "Tierpark Goldau"
+            }
+        }
+    },
+    "70": {
+        "cam": {
+            "longitude": 6.747805,
+            "latitude": 47.056481,
+            "altitude": 1047,
+            "angle": 250,
+            "north": 130
+        },
+        "instances": {
+            "74": {
+                "url": "https://tissot.roundshot.com/",
+                "title": "Tissot - Le Locle"
+            }
+        }
+    },
+    "966": {
+        "cam": {
+            "longitude": 7.0209758,
+            "latitude": 46.3415556,
+            "altitude": 1210,
+            "angle": 360,
+            "north": 180
+        },
+        "instances": {
+            "1138": {
+                "url": "https://leysin.roundshot.com/tobogganing-park/",
+                "title": "Tobogganing Park - Leysin"
+            }
+        }
+    },
+    "75": {
+        "cam": {
+            "longitude": 9.313089,
+            "latitude": 47.154974,
+            "altitude": 2262,
+            "angle": 360,
+            "north": 35
+        },
+        "instances": {
+            "83": {
+                "url": "https://chaeserrugg.roundshot.com/",
+                "title": "Toggenburg Chaeserrugg"
+            }
+        }
+    },
+    "633": {
+        "cam": {
+            "longitude": 9.311898,
+            "latitude": 47.185275,
+            "altitude": 1200,
+            "angle": 360,
+            "north": 240
+        },
+        "instances": {
+            "724": {
+                "url": "https://iltios.roundshot.com/",
+                "title": "Toggenburg Iltios"
+            }
+        }
+    },
+    "890": {
+        "cam": {
+            "longitude": 7.6486784219742,
+            "latitude": 46.368911627893,
+            "altitude": 2000,
+            "angle": 360,
+            "north": 230
+        },
+        "instances": {
+            "1047": {
+                "url": "https://torrent.roundshot.com/",
+                "title": "Torrent - Leukerbad"
+            }
+        }
+    },
+    "1336": {
+        "cam": {
+            "longitude": 7.36839,
+            "latitude": 46.17756,
+            "altitude": 2190,
+            "angle": 360,
+            "north": 330
+        },
+        "instances": {
+            "1643": {
+                "url": "https://thyon.roundshot.com/trabanta/",
+                "title": "Trabanta - Thyon"
+            }
+        }
+    },
+    "1219": {
+        "cam": {
+            "longitude": 7.29118,
+            "latitude": 46.17988,
+            "altitude": 1385,
+            "angle": 50,
+            "north": 180
+        },
+        "instances": {
+            "1479": {
+                "url": "https://nendaz.roundshot.com/depart-tracouet/",
+                "title": "Tracouet D\u00e9part - Nendaz"
+            }
+        }
+    },
+    "891": {
+        "cam": {
+            "longitude": 6.99508,
+            "latitude": 46.055981,
+            "altitude": 1300,
+            "angle": 360,
+            "north": 180
+        },
+        "instances": {
+            "1048": {
+                "url": "https://valleedutrient.roundshot.com/trient/",
+                "title": "Trient"
+            }
+        }
+    },
+    "1044": {
+        "cam": {
+            "longitude": 7.722276,
+            "latitude": 45.970832,
+            "altitude": 2500,
+            "angle": 360,
+            "north": 160
+        },
+        "instances": {
+            "1293": {
+                "url": "https://zbag.roundshot.com/trockener-steg/",
+                "title": "Trockener Steg - ZBAG"
+            }
+        }
+    },
+    "1311": {
+        "cam": {
+            "longitude": 7.23311,
+            "latitude": 46.14484,
+            "altitude": 1526,
+            "angle": 360,
+            "north": 75
+        },
+        "instances": {
+            "1613": {
+                "url": "https://verbier.roundshot.com/tzoumaz/",
+                "title": "Tzoumaz - Verbier"
+            }
+        }
+    },
+    "78": {
+        "cam": {
+            "longitude": 8.491479,
+            "latitude": 47.349522,
+            "altitude": 873,
+            "angle": 315,
+            "north": 35
+        },
+        "instances": {
+            "86": {
+                "url": "https://uetliberg.roundshot.com/",
+                "title": "Uetliberg - Top of Z\u00fcrich"
+            }
+        }
+    },
+    "76": {
+        "cam": {
+            "longitude": 9.604777,
+            "latitude": 46.594146,
+            "altitude": 1207,
+            "angle": 280,
+            "north": 240
+        },
+        "instances": {
+            "84": {
+                "url": "https://uffer.roundshot.com/",
+                "title": "Uffer Savognin"
+            }
+        }
+    },
+    "460": {
+        "cam": {
+            "longitude": 9.604421,
+            "latitude": 46.59433,
+            "altitude": 1207,
+            "angle": 135,
+            "north": 270
+        },
+        "instances": {
+            "507": {
+                "url": "https://uffer.roundshot.com/panorama/",
+                "title": "Uffer Savognin - Panorama"
+            }
+        }
+    },
+    "413": {
+        "cam": {
+            "longitude": 6.33677,
+            "latitude": 46.661281,
+            "altitude": 1110,
+            "angle": 360,
+            "north": 180
+        },
+        "instances": {
+            "452": {
+                "url": "https://valleedejoux.roundshot.com/",
+                "title": "Vall\u00e9e de Joux"
+            }
+        }
+    },
+    "669": {
+        "cam": {
+            "longitude": 6.378433,
+            "latitude": 46.712274,
+            "altitude": 600,
+            "angle": 360,
+            "north": 180
+        },
+        "instances": {
+            "768": {
+                "url": "https://vallorbe.roundshot.com/",
+                "title": "Vallorbe Commune"
+            }
+        }
+    },
+    "914": {
+        "cam": {
+            "longitude": 6.9359266,
+            "latitude": 46.039338,
+            "altitude": null,
+            "angle": 360,
+            "north": 200
+        },
+        "instances": {
+            "1083": {
+                "url": "https://valleedutrient.roundshot.com/vallorcine/",
+                "title": "Vallorcine"
+            }
+        }
+    },
+    "784": {
+        "cam": {
+            "longitude": 9.5944,
+            "latitude": 46.945931,
+            "altitude": 1370,
+            "angle": 360,
+            "north": 180
+        },
+        "instances": {
+            "922": {
+                "url": "https://valzeina.roundshot.com/",
+                "title": "Valzeina"
+            }
+        }
+    },
+    "1235": {
+        "cam": {
+            "longitude": 7.60578,
+            "latitude": 46.31628,
+            "altitude": 747,
+            "angle": 360,
+            "north": 90
+        },
+        "instances": {
+            "1519": {
+                "url": "https://varen.roundshot.com/",
+                "title": "Varen"
+            }
+        }
+    },
+    "180": {
+        "cam": {
+            "longitude": 9.546924,
+            "latitude": 46.736451,
+            "altitude": 1489,
+            "angle": 360,
+            "north": 156
+        },
+        "instances": {
+            "190": {
+                "url": "https://lenzerheide.roundshot.com/bargias/",
+                "title": "Vaz - Obervaz - Bargias"
+            }
+        }
+    },
+    "50": {
+        "cam": {
+            "longitude": 7.241825,
+            "latitude": 46.101789,
+            "altitude": 1500,
+            "angle": 330,
+            "north": 0
+        },
+        "instances": {
+            "52": {
+                "url": "https://lecarrefour.roundshot.com/",
+                "title": "Verbier - Le Carrefour"
+            }
+        }
+    },
+    "892": {
+        "cam": {
+            "longitude": 7.0425563,
+            "latitude": 46.1335278,
+            "altitude": 452,
+            "angle": 360,
+            "north": 180
+        },
+        "instances": {
+            "1050": {
+                "url": "https://valleedutrient.roundshot.com/vernayaz/",
+                "title": "Vernayaz"
+            }
+        }
+    },
+    "60": {
+        "cam": {
+            "longitude": 6.842988,
+            "latitude": 46.459285,
+            "altitude": 380,
+            "angle": 360,
+            "north": 193
+        },
+        "instances": {
+            "63": {
+                "url": "https://msap.roundshot.com/",
+                "title": "Vevey"
+            }
+        }
+    },
+    "73": {
+        "cam": {
+            "longitude": 7.07499,
+            "latitude": 46.322872,
+            "altitude": 1806,
+            "angle": 360,
+            "north": 175
+        },
+        "instances": {
+            "80": {
+                "url": "https://villars.roundshot.com/bretaye/",
+                "title": "Villars - Bretaye"
+            }
+        }
+    },
+    "71": {
+        "cam": {
+            "longitude": 7.067036,
+            "latitude": 46.331522,
+            "altitude": 2035,
+            "angle": 360,
+            "north": 245
+        },
+        "instances": {
+            "75": {
+                "url": "https://villars.roundshot.com/pt-chamossaire/",
+                "title": "Villars - Petit Chamossaire"
+            }
+        }
+    },
+    "374": {
+        "cam": {
+            "longitude": 7.009322,
+            "latitude": 46.926682,
+            "altitude": 300,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "411": {
+                "url": "https://montmagny.roundshot.com/",
+                "title": "Vully les Lacs - Montmagny"
+            }
+        }
+    },
+    "1125": {
+        "cam": {
+            "longitude": 7.60847,
+            "latitude": 47.53685,
+            "altitude": 284,
+            "angle": 50,
+            "north": 0
+        },
+        "instances": {
+            "1376": {
+                "url": "https://warteck.roundshot.com/syd/",
+                "title": "Warteck Invest AG"
+            }
+        }
+    },
+    "292": {
+        "cam": {
+            "longitude": 7.699929,
+            "latitude": 47.373644,
+            "altitude": 921,
+            "angle": 360,
+            "north": 180
+        },
+        "instances": {
+            "311": {
+                "url": "https://wasserfallenbahn.roundshot.com/",
+                "title": "Wasserfallen - Bergstation"
+            }
+        }
+    },
+    "676": {
+        "cam": {
+            "longitude": 8.282507,
+            "latitude": 47.470168,
+            "altitude": 500,
+            "angle": 360,
+            "north": 90
+        },
+        "instances": {
+            "786": {
+                "url": "https://baden.roundshot.com/turm-baldegg/",
+                "title": "Wasserturm Baldegg - Baden"
+            }
+        }
+    },
+    "279": {
+        "cam": {
+            "longitude": 8.433272,
+            "latitude": 47.031471,
+            "altitude": 433,
+            "angle": 265,
+            "north": 315
+        },
+        "instances": {
+            "295": {
+                "url": "https://weggis.roundshot.com/",
+                "title": "Weggis"
+            }
+        }
+    },
+    "663": {
+        "cam": {
+            "longitude": 9.338264,
+            "latitude": 47.17366,
+            "altitude": 1400,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "762": {
+                "url": "https://wildhaus.roundshot.com/gamsalp/",
+                "title": "Wildhaus - Gamsalp"
+            }
+        }
+    },
+    "649": {
+        "cam": {
+            "longitude": 9.345185,
+            "latitude": 47.192147,
+            "altitude": 1200,
+            "angle": 360,
+            "north": 0
+        },
+        "instances": {
+            "746": {
+                "url": "https://wildhaus.roundshot.com/oberdorf/",
+                "title": "Wildhaus - Oberdorf"
+            }
+        }
+    },
+    "379": {
+        "cam": {
+            "longitude": 8.577465,
+            "latitude": 47.08447,
+            "altitude": 1580,
+            "angle": 360,
+            "north": 347
+        },
+        "instances": {
+            "417": {
+                "url": "https://wildspitz.roundshot.com/",
+                "title": "Wildspitz"
+            }
+        }
+    },
+    "254": {
+        "cam": {
+            "longitude": 9.049526,
+            "latitude": 47.47868,
+            "altitude": 712,
+            "angle": 360,
+            "north": 45
+        },
+        "instances": {
+            "270": {
+                "url": "https://wilerturm.roundshot.com/",
+                "title": "Wiler Turm"
+            }
+        }
+    },
+    "84": {
+        "cam": {
+            "longitude": 8.732039,
+            "latitude": 47.499883,
+            "altitude": 500,
+            "angle": 360,
+            "north": 290
+        },
+        "instances": {
+            "93": {
+                "url": "https://winterthur.roundshot.com/altstadt/",
+                "title": "Winterthur - Altstadt"
+            }
+        }
+    },
+    "738": {
+        "cam": {
+            "longitude": 8.727158,
+            "latitude": 47.503766,
+            "altitude": 500,
+            "angle": 270,
+            "north": 270
+        },
+        "instances": {
+            "873": {
+                "url": "https://winterthur.roundshot.com/roterturm/",
+                "title": "Winterthur - Roter Turm"
+            }
+        }
+    },
+    "506": {
+        "cam": {
+            "longitude": 6.528981,
+            "latitude": 46.843046,
+            "altitude": 800,
+            "angle": 360,
+            "north": 100
+        },
+        "instances": {
+            "561": {
+                "url": "https://yverdon.roundshot.com/lesrasses/",
+                "title": "Yverdon Les Rasses"
+            }
+        }
+    },
+    "482": {
+        "cam": {
+            "longitude": 6.640959,
+            "latitude": 46.77837,
+            "altitude": 400,
+            "angle": 225,
+            "north": 90
+        },
+        "instances": {
+            "533": {
+                "url": "https://yverdon.roundshot.com/ville/",
+                "title": "Yverdon Ville"
+            }
+        }
+    },
+    "1046": {
+        "cam": {
+            "longitude": 7.74603,
+            "latitude": 46.01934,
+            "altitude": 1620,
+            "angle": 360,
+            "north": 220
+        },
+        "instances": {
+            "1254": {
+                "url": "https://zermatt.roundshot.com/zermatterhof/",
+                "title": "Zermatterhof - Zermatt Tourismus"
+            }
+        }
+    },
+    "495": {
+        "cam": {
+            "longitude": 9.954296,
+            "latitude": 46.600013,
+            "altitude": 1750,
+            "angle": 360,
+            "north": 210
+        },
+        "instances": {
+            "550": {
+                "url": "https://zuozgemeinde.roundshot.com/",
+                "title": "Zuoz Gemeinde"
+            }
+        }
+    },
+    "86": {
+        "cam": {
+            "longitude": 8.541663,
+            "latitude": 47.36931,
+            "altitude": 408,
+            "angle": 360,
+            "north": 80
+        },
+        "instances": {
+            "95": {
+                "url": "https://zuerichtourismus.roundshot.com/stadthaus/",
+                "title": "Z\u00fcrich Stadthaus"
+            }
+        }
+    },
+    "85": {
+        "cam": {
+            "longitude": 8.540239,
+            "latitude": 47.382297,
+            "altitude": 417,
+            "angle": 233,
+            "north": 233
+        },
+        "instances": {
+            "94": {
+                "url": "https://zuerichtourismus.roundshot.com/zuerichwest/",
+                "title": "Z\u00fcrich West"
+            }
+        }
+    }
+}
