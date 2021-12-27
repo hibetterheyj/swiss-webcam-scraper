@@ -1,0 +1,3 @@
+pandas
+jupyter
+geopy[aiohttp]

@@ -14,11 +14,7 @@ The module provides method to extract info from roundshot requests and write
 the data into json files
 """
 # =============================================================================
-"""
-TODO:
-1. determine city/canton using geopy (https://stackoverflow.com/a/34771394)
-"""
-# =============================================================================
+
 
 import os
 import json
