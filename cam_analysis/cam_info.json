@@ -1,0 +1,2786 @@
+{
+    "categories": {
+        "Museums": [
+            {
+                "picture": "https://backend.roundshot.com/cams/60/thumbnail",
+                "link": "https://msap.roundshot.com/",
+                "angle": 360,
+                "name": "Mus\u00e9e Suisse de l'Appareil Photographique - Vevey",
+                "cam_name": "Vevey",
+                "customer_name": "Mus\u00e9e Suisse de l'Appareil Photographique"
+            }
+        ],
+        "Villages": [
+            {
+                "picture": "https://backend.roundshot.com/cams/1123/thumbnail",
+                "link": "https://albinen.roundshot.com/",
+                "angle": 180,
+                "name": "Albinen Gemeinde",
+                "cam_name": "Albinen Gemeinde",
+                "customer_name": "Albinen Gemeinde"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/986/thumbnail",
+                "link": "https://blatten.roundshot.com/fafleralp/",
+                "angle": 360,
+                "name": "Blatten Einwohner- + Burgergemeinde - Blatten",
+                "cam_name": "Blatten",
+                "customer_name": "Blatten Einwohner- + Burgergemeinde"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/539/thumbnail",
+                "link": "https://celerina.roundshot.com/",
+                "angle": 360,
+                "name": "Celerina Gemeinde - Celerina",
+                "cam_name": "Celerina",
+                "customer_name": "Celerina Gemeinde"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/15/thumbnail",
+                "link": "https://chax.roundshot.com/",
+                "angle": 180,
+                "name": "Chax Commune - Ch\u00e2teau d'Oex",
+                "cam_name": "Ch\u00e2teau d'Oex",
+                "customer_name": "Chax Commune"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/481/thumbnail",
+                "link": "https://chexbres.roundshot.com/",
+                "angle": 360,
+                "name": "Chexbres Commune - Chexbres",
+                "cam_name": "Chexbres",
+                "customer_name": "Chexbres Commune"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/576/thumbnail",
+                "link": "https://coppet.roundshot.com/",
+                "angle": 360,
+                "name": "Coppet Commune",
+                "cam_name": "Coppet Commune",
+                "customer_name": "Coppet Commune"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1286/thumbnail",
+                "link": "https://eischoll.roundshot.com/dorf/",
+                "angle": 360,
+                "name": "Eischoll Gemeinde - Eischoll - Dorf",
+                "cam_name": "Eischoll - Dorf",
+                "customer_name": "Eischoll Gemeinde"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/646/thumbnail",
+                "link": "https://schauenberg.roundshot.com/",
+                "angle": 360,
+                "name": "Elgg Gemeinde - Schauenberg",
+                "cam_name": "Schauenberg",
+                "customer_name": "Elgg Gemeinde"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1061/thumbnail",
+                "link": "https://kandersteg.roundshot.com/",
+                "angle": 360,
+                "name": "Grossen Sport Kandersteg - Kandersteg Langlaufzentrum",
+                "cam_name": "Kandersteg Langlaufzentrum",
+                "customer_name": "Grossen Sport Kandersteg"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/30/thumbnail",
+                "link": "https://heiden.roundshot.com/",
+                "angle": 300,
+                "name": "Heiden Gemeinde - Heiden",
+                "cam_name": "Heiden",
+                "customer_name": "Heiden Gemeinde"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/779/thumbnail",
+                "link": "https://lumnezia.roundshot.com/badesee/",
+                "angle": 180,
+                "name": "Lumnezia Gemeinde - Badesee Davos Munts",
+                "cam_name": "Badesee Davos Munts",
+                "customer_name": "Lumnezia Gemeinde"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/873/thumbnail",
+                "link": "https://lumnezia.roundshot.com/camuns/",
+                "angle": 180,
+                "name": "Lumnezia Gemeinde - Camuns",
+                "cam_name": "Camuns",
+                "customer_name": "Lumnezia Gemeinde"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/969/thumbnail",
+                "link": "https://menzingen.roundshot.com/",
+                "angle": 360,
+                "name": "Menzingen Einwohnergemeinde - Menzingen",
+                "cam_name": "Menzingen",
+                "customer_name": "Menzingen Einwohnergemeinde"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/627/thumbnail",
+                "link": "https://plagne.roundshot.com/",
+                "angle": 360,
+                "name": "Municipalit\u00e9 de Sauge - Plagne",
+                "cam_name": "Plagne",
+                "customer_name": "Municipalit\u00e9 de Sauge"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/22/thumbnail",
+                "link": "https://roggenberg.roundshot.com/",
+                "angle": 360,
+                "name": "Oensingen Gemeinde - Roggenberg",
+                "cam_name": "Roggenberg",
+                "customer_name": "Oensingen Gemeinde"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1226/thumbnail",
+                "link": "https://champery.roundshot.com/",
+                "angle": 270,
+                "name": "Region Dents du Midi - Champ\u00e9ry Village",
+                "cam_name": "Champ\u00e9ry Village",
+                "customer_name": "Region Dents du Midi"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1229/thumbnail",
+                "link": "https://morgins.roundshot.com/",
+                "angle": 320,
+                "name": "Region Dents du Midi - Morgins",
+                "cam_name": "Morgins",
+                "customer_name": "Region Dents du Midi"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1323/thumbnail",
+                "link": "https://saastal.roundshot.com/dorf/",
+                "angle": 360,
+                "name": "Saastal Tourismus AG - Saas-Fee Dorf",
+                "cam_name": "Saas-Fee Dorf",
+                "customer_name": "Saastal Tourismus AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1135/thumbnail",
+                "link": "https://engadin.roundshot.com/ardez/",
+                "angle": 220,
+                "name": "Scuol Engadin - Ardez",
+                "cam_name": "Ardez",
+                "customer_name": "Scuol Engadin"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1208/thumbnail",
+                "link": "https://engadin.roundshot.com/ftan/",
+                "angle": 360,
+                "name": "Scuol Engadin - Ftan",
+                "cam_name": "Ftan",
+                "customer_name": "Scuol Engadin"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1209/thumbnail",
+                "link": "https://engadin.roundshot.com/sent/",
+                "angle": 240,
+                "name": "Scuol Engadin - Sent",
+                "cam_name": "Sent",
+                "customer_name": "Scuol Engadin"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1134/thumbnail",
+                "link": "https://engadin.roundshot.com/tarasp/",
+                "angle": 317,
+                "name": "Scuol Engadin - Tarasp",
+                "cam_name": "Tarasp",
+                "customer_name": "Scuol Engadin"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/246/thumbnail",
+                "link": "https://sils.roundshot.com/",
+                "angle": 360,
+                "name": "Sils Maria Gemeinde - Sils Maria",
+                "cam_name": "Sils Maria",
+                "customer_name": "Sils Maria Gemeinde"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/304/thumbnail",
+                "link": "https://gemeindestalden.roundshot.com/",
+                "angle": 360,
+                "name": "Stalden Gemeinde - Stalden",
+                "cam_name": "Stalden",
+                "customer_name": "Stalden Gemeinde"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/669/thumbnail",
+                "link": "https://vallorbe.roundshot.com/",
+                "angle": 360,
+                "name": "Vallorbe Commune",
+                "cam_name": "Vallorbe Commune",
+                "customer_name": "Vallorbe Commune"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1235/thumbnail",
+                "link": "https://varen.roundshot.com/",
+                "angle": 360,
+                "name": "Varen Einwohnergemeinde",
+                "cam_name": "Varen Einwohnergemeinde",
+                "customer_name": "Varen Einwohnergemeinde"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1241/thumbnail",
+                "link": "https://zermatt.roundshot.com/langlaufloipe-schalisee/",
+                "angle": 360,
+                "name": "Zermatt Tourismus - T\u00e4sch",
+                "cam_name": "T\u00e4sch",
+                "customer_name": "Zermatt Tourismus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/495/thumbnail",
+                "link": "https://zuozgemeinde.roundshot.com/",
+                "angle": 360,
+                "name": "Zuoz Gemeinde",
+                "cam_name": "Zuoz Gemeinde",
+                "customer_name": "Zuoz Gemeinde"
+            }
+        ],
+        "Golf clubs": [
+            {
+                "picture": "https://backend.roundshot.com/cams/1271/thumbnail",
+                "link": "https://golfbrigels.roundshot.com/",
+                "angle": 360,
+                "name": "Golf Brigels",
+                "cam_name": "Golf Brigels",
+                "customer_name": "Golf Brigels"
+            }
+        ],
+        "Harbors": [
+            {
+                "picture": "https://backend.roundshot.com/cams/494/thumbnail",
+                "link": "https://hafen-faoug.roundshot.com/",
+                "angle": 360,
+                "name": "Jack Beck SA - Jack Beck - Faoug",
+                "cam_name": "Jack Beck - Faoug",
+                "customer_name": "Jack Beck SA"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/519/thumbnail",
+                "link": "https://latourdepeilz.roundshot.com/",
+                "angle": 360,
+                "name": "La Tour-de-Peilz Ville - La Tour-de-Peilz",
+                "cam_name": "La Tour-de-Peilz",
+                "customer_name": "La Tour-de-Peilz Ville"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/55/thumbnail",
+                "link": "https://sgv.roundshot.com/",
+                "angle": 335,
+                "name": "Luzerner SGV - Lake Lucerne",
+                "cam_name": "Lake Lucerne",
+                "customer_name": "Luzerner SGV"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/456/thumbnail",
+                "link": "https://hafenamrheinspitz.roundshot.com/",
+                "angle": 120,
+                "name": "Rheinunternehmen - Rheinspitz",
+                "cam_name": "Rheinspitz",
+                "customer_name": "Rheinunternehmen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/405/thumbnail",
+                "link": "https://vengeron.roundshot.com/",
+                "angle": 360,
+                "name": "Vengeron.net - Plage du Vengeron",
+                "cam_name": "Plage du Vengeron",
+                "customer_name": "Vengeron.net"
+            }
+        ],
+        "Restaurants": [
+            {
+                "picture": "https://backend.roundshot.com/cams/882/thumbnail",
+                "link": "https://capannagorda.roundshot.com/",
+                "angle": 360,
+                "name": "Capanna Gorda",
+                "cam_name": "Capanna Gorda",
+                "customer_name": "Capanna Gorda"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/652/thumbnail",
+                "link": "https://berghausgampluet.roundshot.com/",
+                "angle": 360,
+                "name": "Gampl\u00fct Berghaus",
+                "cam_name": "Gampl\u00fct Berghaus",
+                "customer_name": "Gampl\u00fct Berghaus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/50/thumbnail",
+                "link": "https://lecarrefour.roundshot.com/",
+                "angle": 330,
+                "name": "Le Carrefour Verbier - Le Carrefour",
+                "cam_name": "Le Carrefour",
+                "customer_name": "Le Carrefour Verbier"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1340/thumbnail",
+                "link": "https://refugesolalex.roundshot.com/",
+                "angle": 360,
+                "name": "Refuge Solalex",
+                "cam_name": "Refuge Solalex",
+                "customer_name": "Refuge Solalex"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/379/thumbnail",
+                "link": "https://wildspitz.roundshot.com/",
+                "angle": 360,
+                "name": "Wildspitz Berghaus - Wildspitz",
+                "cam_name": "Wildspitz",
+                "customer_name": "Wildspitz Berghaus"
+            }
+        ],
+        "Airports": [
+            {
+                "picture": "https://backend.roundshot.com/cams/632/thumbnail",
+                "link": "https://flugplatzschupfart.roundshot.com/",
+                "angle": 360,
+                "name": "AeCS Regionalverband Fricktal - Flugplatz Fricktal Schupfart",
+                "cam_name": "Flugplatz Fricktal Schupfart",
+                "customer_name": "AeCS Regionalverband Fricktal"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/341/thumbnail",
+                "link": "https://birrfeld.roundshot.com/",
+                "angle": 360,
+                "name": "Birrfeld Flughafen - Flughafen Birrfeld",
+                "cam_name": "Flughafen Birrfeld",
+                "customer_name": "Birrfeld Flughafen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/140/thumbnail",
+                "link": "https://buochs.roundshot.com/",
+                "angle": 360,
+                "name": "Buochs Airport",
+                "cam_name": "Buochs Airport",
+                "customer_name": "Buochs Airport"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/473/thumbnail",
+                "link": "https://engadin-airport.roundshot.com/",
+                "angle": 360,
+                "name": "Engadin Airport AG - Engadin Airport - Samedan",
+                "cam_name": "Engadin Airport - Samedan",
+                "customer_name": "Engadin Airport AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/821/thumbnail",
+                "link": "https://erlebnisflugplatz.roundshot.com/",
+                "angle": 360,
+                "name": "Erlebnisflugplatz Sitterdorf",
+                "cam_name": "Erlebnisflugplatz Sitterdorf",
+                "customer_name": "Erlebnisflugplatz Sitterdorf"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/21/thumbnail",
+                "link": "https://fliegen.roundshot.com/",
+                "angle": 360,
+                "name": "Grenchen Flugschule - Grenchen Flughafen",
+                "cam_name": "Grenchen Flughafen",
+                "customer_name": "Grenchen Flugschule"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/671/thumbnail",
+                "link": "https://gstaad-airport.roundshot.com/",
+                "angle": 210,
+                "name": "Gstaad Airport",
+                "cam_name": "Gstaad Airport",
+                "customer_name": "Gstaad Airport"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/20/thumbnail",
+                "link": "https://albiswings.roundshot.com/",
+                "angle": 360,
+                "name": "Hausen am Albis Flugplatz",
+                "cam_name": "Hausen am Albis Flugplatz",
+                "customer_name": "Hausen am Albis Flugplatz"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/930/thumbnail",
+                "link": "https://lszr.roundshot.com/",
+                "angle": 360,
+                "name": "People's Airport St. Gallen - Altenrhein",
+                "cam_name": "People's Airport St. Gallen - Altenrhein",
+                "customer_name": "People's Airport St. Gallen - Altenrhein"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/518/thumbnail",
+                "link": "https://sionairport.roundshot.com/",
+                "angle": 360,
+                "name": "Sion A\u00e9roport",
+                "cam_name": "Sion A\u00e9roport",
+                "customer_name": "Sion A\u00e9roport"
+            }
+        ],
+        "Corporates": [
+            {
+                "picture": "https://backend.roundshot.com/cams/467/thumbnail",
+                "link": "https://laf.roundshot.com/",
+                "angle": 180,
+                "name": "Adliswil-Felsenegg Luftseilbahn LAF AG",
+                "cam_name": "Adliswil-Felsenegg Luftseilbahn LAF AG",
+                "customer_name": "Adliswil-Felsenegg Luftseilbahn LAF AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1297/thumbnail",
+                "link": "https://brienzrothorn.roundshot.com/",
+                "angle": 360,
+                "name": "Brienz Rothorn Bahn AG - Brienzer Rothorn",
+                "cam_name": "Brienzer Rothorn",
+                "customer_name": "Brienz Rothorn Bahn AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1346/thumbnail",
+                "link": "https://casinointerlaken.roundshot.com/",
+                "angle": 180,
+                "name": "Casino Interlaken AG",
+                "cam_name": "Casino Interlaken AG",
+                "customer_name": "Casino Interlaken AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/17/thumbnail",
+                "link": "https://computechnic.roundshot.com/",
+                "angle": 360,
+                "name": "Computechnic - Rorschacherberg",
+                "cam_name": "Rorschacherberg",
+                "customer_name": "Computechnic"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1266/thumbnail",
+                "link": "https://gefluegelhof.roundshot.com/schoenenbuehl/",
+                "angle": 260,
+                "name": "Familie Rene und Karin B\u00e4nziger - Gefl\u00fcgelhof Sch\u00f6nenb\u00fchl",
+                "cam_name": "Gefl\u00fcgelhof Sch\u00f6nenb\u00fchl",
+                "customer_name": "Familie Rene und Karin B\u00e4nziger"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/317/thumbnail",
+                "link": "https://fotoprocolora.roundshot.com/",
+                "angle": 360,
+                "name": "Foto Pro Colora - Bendern",
+                "cam_name": "Bendern",
+                "customer_name": "Foto Pro Colora"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1126/thumbnail",
+                "link": "https://knieskinderzoo.roundshot.com/",
+                "angle": 360,
+                "name": "Gebr. Knie AG - Knie's Kinderzoo Rapperswil",
+                "cam_name": "Knie's Kinderzoo Rapperswil",
+                "customer_name": "Gebr. Knie AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1212/thumbnail",
+                "link": "https://pilgerhaus-maria-rickenbach.roundshot.com/",
+                "angle": 360,
+                "name": "Invia - Pilgerhaus Maria-Rickenbach - Pilgerhaus Maria-Rickenbach",
+                "cam_name": "Pilgerhaus Maria-Rickenbach",
+                "customer_name": "Invia - Pilgerhaus Maria-Rickenbach"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/507/thumbnail",
+                "link": "https://klosterdisentis.roundshot.com/",
+                "angle": 360,
+                "name": "Kloster Disentis",
+                "cam_name": "Kloster Disentis",
+                "customer_name": "Kloster Disentis"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1237/thumbnail",
+                "link": "https://sgv.roundshot.com/stadtluzern/",
+                "angle": 318,
+                "name": "Luzerner SGV - Dampfschiff Stadt Luzern",
+                "cam_name": "Dampfschiff Stadt Luzern",
+                "customer_name": "Luzerner SGV"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/66/thumbnail",
+                "link": "https://nzz.roundshot.com/",
+                "angle": 360,
+                "name": "NZZ - NZZ Z\u00fcrich",
+                "cam_name": "NZZ Z\u00fcrich",
+                "customer_name": "NZZ"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/747/thumbnail",
+                "link": "https://rigibahnen.roundshot.com/scheidegg/",
+                "angle": 360,
+                "name": "RIGI BAHNEN AG - Rigi Scheidegg",
+                "cam_name": "Rigi Scheidegg",
+                "customer_name": "RIGI BAHNEN AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1002/thumbnail",
+                "link": "https://pizzomatro.roundshot.com/",
+                "angle": 360,
+                "name": "Ruag Schweiz - Pizzo Matro",
+                "cam_name": "Pizzo Matro",
+                "customer_name": "Ruag Schweiz"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/954/thumbnail",
+                "link": "https://ruetliwiese.roundshot.com/",
+                "angle": 160,
+                "name": "R\u00fctli Mccardell GmbH - R\u00fctliwiese",
+                "cam_name": "R\u00fctliwiese",
+                "customer_name": "R\u00fctli Mccardell GmbH"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1/thumbnail",
+                "link": "https://lustdorf.roundshot.com/",
+                "angle": 360,
+                "name": "Seitz Phototechnik - Lustdorf",
+                "cam_name": "Lustdorf",
+                "customer_name": "Seitz Phototechnik"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/163/thumbnail",
+                "link": "https://shp.roundshot.com/",
+                "angle": 360,
+                "name": "Swiss Holiday Park",
+                "cam_name": "Swiss Holiday Park",
+                "customer_name": "Swiss Holiday Park"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/670/thumbnail",
+                "link": "https://bantiger.roundshot.com/",
+                "angle": 360,
+                "name": "Swisscom Broadcast AG - Bantiger",
+                "cam_name": "Bantiger",
+                "customer_name": "Swisscom Broadcast AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/772/thumbnail",
+                "link": "https://chasseral.roundshot.com/",
+                "angle": 360,
+                "name": "Swisscom Broadcast AG - Chasseral",
+                "cam_name": "Chasseral",
+                "customer_name": "Swisscom Broadcast AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/899/thumbnail",
+                "link": "https://dole.roundshot.com/",
+                "angle": 360,
+                "name": "Swisscom Broadcast AG - D\u00f4le",
+                "cam_name": "D\u00f4le",
+                "customer_name": "Swisscom Broadcast AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1006/thumbnail",
+                "link": "https://guttetfeschel.roundshot.com/",
+                "angle": 360,
+                "name": "Swisscom Broadcast AG - Guttet Feschel",
+                "cam_name": "Guttet Feschel",
+                "customer_name": "Swisscom Broadcast AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/900/thumbnail",
+                "link": "https://montgibloux.roundshot.com/",
+                "angle": 360,
+                "name": "Swisscom Broadcast AG - Mont Gibloux",
+                "cam_name": "Mont Gibloux",
+                "customer_name": "Swisscom Broadcast AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/868/thumbnail",
+                "link": "https://montpelerin.roundshot.com/",
+                "angle": 360,
+                "name": "Swisscom Broadcast AG - Mont P\u00e8lerin",
+                "cam_name": "Mont P\u00e8lerin",
+                "customer_name": "Swisscom Broadcast AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/832/thumbnail",
+                "link": "https://sansalvatore.roundshot.com/",
+                "angle": 360,
+                "name": "Swisscom Broadcast AG - Monte San Salvatore",
+                "cam_name": "Monte San Salvatore",
+                "customer_name": "Swisscom Broadcast AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/901/thumbnail",
+                "link": "https://rigi.roundshot.com/",
+                "angle": 360,
+                "name": "Swisscom Broadcast AG - Rigi",
+                "cam_name": "Rigi",
+                "customer_name": "Swisscom Broadcast AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/687/thumbnail",
+                "link": "https://chrischona.roundshot.com/",
+                "angle": 360,
+                "name": "Swisscom Broadcast AG - St. Chrischona",
+                "cam_name": "St. Chrischona",
+                "customer_name": "Swisscom Broadcast AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/784/thumbnail",
+                "link": "https://valzeina.roundshot.com/",
+                "angle": 360,
+                "name": "Swisscom Broadcast AG - Valzeina",
+                "cam_name": "Valzeina",
+                "customer_name": "Swisscom Broadcast AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/70/thumbnail",
+                "link": "https://tissot.roundshot.com/",
+                "angle": 250,
+                "name": "Tissot - Tissot - Le Locle",
+                "cam_name": "Tissot - Le Locle",
+                "customer_name": "Tissot"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/246305c5d0274ffa846231878df8c038/thumbnail",
+                "link": "https://hagenturm.roundshot.com/",
+                "angle": 180,
+                "name": "WAMO - Hagenturm",
+                "cam_name": "Hagenturm",
+                "customer_name": "WAMO"
+            }
+        ],
+        "Construction sites": [
+            {
+                "picture": "https://backend.roundshot.com/cams/5/thumbnail",
+                "link": "https://andermatt.roundshot.com/baezberg/",
+                "angle": 160,
+                "name": "Andermatt Swiss Alps - Baezberg",
+                "cam_name": "Baezberg",
+                "customer_name": "Andermatt Swiss Alps"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/3ce8ebbf189f4c9b89ac5f482d1fb85d/thumbnail",
+                "link": "https://binz.roundshot.com/",
+                "angle": 180,
+                "name": "Auer Immobilien - Binz public",
+                "cam_name": "Binz public",
+                "customer_name": "Auer Immobilien"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/943/thumbnail",
+                "link": "https://bussimmobilien.roundshot.com/",
+                "angle": 360,
+                "name": "Bredella AG - Buss Immobillien - Bredella AG - Buss Immobilien",
+                "cam_name": "Bredella AG - Buss Immobilien",
+                "customer_name": "Bredella AG - Buss Immobillien"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/706/thumbnail",
+                "link": "https://cffimmobilier.roundshot.com/quaiouest/",
+                "angle": 220,
+                "name": "CFF Immobilier - Quai Ouest",
+                "cam_name": "Quai Ouest",
+                "customer_name": "CFF Immobilier"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/609/thumbnail",
+                "link": "https://cffimmobilier.roundshot.com/quartierdeshalles/",
+                "angle": 160,
+                "name": "CFF Immobilier - Quartier Des Halles",
+                "cam_name": "Quartier Des Halles",
+                "customer_name": "CFF Immobilier"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/710/thumbnail",
+                "link": "https://gzo.roundshot.com/baustelle/",
+                "angle": 145,
+                "name": "GZO Spital Wetzikon - GZO Baustelle 1",
+                "cam_name": "GZO Baustelle 1",
+                "customer_name": "GZO Spital Wetzikon"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/908/thumbnail",
+                "link": "https://gzo.roundshot.com/baustelle2/",
+                "angle": 50,
+                "name": "GZO Spital Wetzikon - GZO Baustelle 2 public",
+                "cam_name": "GZO Baustelle 2 public",
+                "customer_name": "GZO Spital Wetzikon"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/854/thumbnail",
+                "link": "https://halter.roundshot.com/baeretower/",
+                "angle": 50,
+                "name": "Halter - B\u00e4retower",
+                "cam_name": "B\u00e4retower",
+                "customer_name": "Halter"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/853/thumbnail",
+                "link": "https://halter.roundshot.com/claraturm/",
+                "angle": 160,
+                "name": "Halter - Claraturm",
+                "cam_name": "Claraturm",
+                "customer_name": "Halter"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1319/thumbnail",
+                "link": "https://inwil.roundshot.com/",
+                "angle": 280,
+                "name": "Ivira AG - Inwil Dorf",
+                "cam_name": "Inwil Dorf",
+                "customer_name": "Ivira AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/034de41e47b30dde0362b86b42d9fb61/thumbnail",
+                "link": "https://jungfrau.roundshot.com/luetschine/",
+                "angle": 200,
+                "name": "Jungfraubahnen Management AG - L\u00fctschine",
+                "cam_name": "L\u00fctschine",
+                "customer_name": "Jungfraubahnen Management AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/486d6b1c471c581a99233dc3e4cc3ab7/thumbnail",
+                "link": "https://jungfrau.roundshot.com/eigergletschernordwand/",
+                "angle": 360,
+                "name": "Jungfraubahnen Management AG - Nordwand",
+                "cam_name": "Nordwand",
+                "customer_name": "Jungfraubahnen Management AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/b7ee36e9cb96798c70cad6b3785e4e03/thumbnail",
+                "link": "https://jungfrau.roundshot.com/pavillon/",
+                "angle": 360,
+                "name": "Jungfraubahnen Management AG - Pavillon",
+                "cam_name": "Pavillon",
+                "customer_name": "Jungfraubahnen Management AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/6d6445b2a96b678b6755d104083823c8/thumbnail",
+                "link": "https://jungfrau.roundshot.com/rothenegg/",
+                "angle": 200,
+                "name": "Jungfraubahnen Management AG - Rothenegg",
+                "cam_name": "Rothenegg",
+                "customer_name": "Jungfraubahnen Management AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/946ec4f67add2d01af68793de3f0dcc8/thumbnail",
+                "link": "https://jungfrau.roundshot.com/eigergletschertrafostation/",
+                "angle": 360,
+                "name": "Jungfraubahnen Management AG - Trafostation",
+                "cam_name": "Trafostation",
+                "customer_name": "Jungfraubahnen Management AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/263/thumbnail",
+                "link": "https://albulatunnel.roundshot.com/",
+                "angle": 360,
+                "name": "Rh\u00e4tische Bahn - Albulatunnel",
+                "cam_name": "Albulatunnel",
+                "customer_name": "Rh\u00e4tische Bahn"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/924/thumbnail",
+                "link": "https://scopedevelopment.roundshot.com/epalinges/",
+                "angle": 50,
+                "name": "Scope Development / Epic 19 - Epalinges",
+                "cam_name": "Epalinges",
+                "customer_name": "Scope Development / Epic 19"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/801/thumbnail",
+                "link": "https://scopedevelopment.roundshot.com/",
+                "angle": 200,
+                "name": "Scope Development / Epic 19 - Pasta Gala - Morges",
+                "cam_name": "Pasta Gala - Morges",
+                "customer_name": "Scope Development / Epic 19"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/76/thumbnail",
+                "link": "https://uffer.roundshot.com/",
+                "angle": 280,
+                "name": "Uffer Savognin",
+                "cam_name": "Uffer Savognin",
+                "customer_name": "Uffer Savognin"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/460/thumbnail",
+                "link": "https://uffer.roundshot.com/panorama/",
+                "angle": 135,
+                "name": "Uffer Savognin - Panorama",
+                "cam_name": "Panorama",
+                "customer_name": "Uffer Savognin"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1125/thumbnail",
+                "link": "https://warteck.roundshot.com/syd/",
+                "angle": 50,
+                "name": "Warteck Invest AG",
+                "cam_name": "Warteck Invest AG",
+                "customer_name": "Warteck Invest AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1138/thumbnail",
+                "link": "https://kuratleimmobilien.roundshot.com/",
+                "angle": 180,
+                "name": "kuratle Immobilien",
+                "cam_name": "kuratle Immobilien",
+                "customer_name": "kuratle Immobilien"
+            }
+        ],
+        "Ski resorts": [
+            {
+                "picture": "https://backend.roundshot.com/cams/331/thumbnail",
+                "link": "https://andermatt-sedrun.roundshot.com/gemsstock/",
+                "angle": 360,
+                "name": "Andermatt Sedrun - Ski Arena - Gemsstock",
+                "cam_name": "Gemsstock",
+                "customer_name": "Andermatt Sedrun - Ski Arena"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/3/thumbnail",
+                "link": "https://anzere.roundshot.com/pistes/",
+                "angle": 240,
+                "name": "Anz\u00e8re Tourisme - Anz\u00e8re - Pas de Maimbr\u00e9",
+                "cam_name": "Anz\u00e8re - Pas de Maimbr\u00e9",
+                "customer_name": "Anz\u00e8re Tourisme"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/2/thumbnail",
+                "link": "https://anzere.roundshot.com/village/",
+                "angle": 360,
+                "name": "Anz\u00e8re Tourisme - Anz\u00e8re - Village",
+                "cam_name": "Anz\u00e8re - Village",
+                "customer_name": "Anz\u00e8re Tourisme"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1122/thumbnail",
+                "link": "https://arosadorf.roundshot.com/",
+                "angle": 360,
+                "name": "Arosa Bergbahnen - Arosa Dorf",
+                "cam_name": "Arosa Dorf",
+                "customer_name": "Arosa Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/804/thumbnail",
+                "link": "https://baerenland.roundshot.com/",
+                "angle": 360,
+                "name": "Arosa Bergbahnen - B\u00e4renland",
+                "cam_name": "B\u00e4renland",
+                "customer_name": "Arosa Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/681/thumbnail",
+                "link": "https://hoernliberg.roundshot.com/",
+                "angle": 360,
+                "name": "Arosa Bergbahnen - H\u00f6rnli",
+                "cam_name": "H\u00f6rnli",
+                "customer_name": "Arosa Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/9/thumbnail",
+                "link": "https://tschuggen.roundshot.com/",
+                "angle": 360,
+                "name": "Arosa Bergbahnen - Tschuggen",
+                "cam_name": "Tschuggen",
+                "customer_name": "Arosa Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/601/thumbnail",
+                "link": "https://weisshorn.roundshot.com/",
+                "angle": 360,
+                "name": "Arosa Bergbahnen - Weisshorn",
+                "cam_name": "Weisshorn",
+                "customer_name": "Arosa Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1192/thumbnail",
+                "link": "https://axalp.roundshot.com/windegg/",
+                "angle": 360,
+                "name": "Axalp Sportbahnen - Axalp - Windegg",
+                "cam_name": "Axalp - Windegg",
+                "customer_name": "Axalp Sportbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/384/thumbnail",
+                "link": "https://belalp.roundshot.com/hohbiel/",
+                "angle": 360,
+                "name": "Belalp Bahnen - Hohbiel",
+                "cam_name": "Hohbiel",
+                "customer_name": "Belalp Bahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1184/thumbnail",
+                "link": "https://bellwaldtourismus.roundshot.com/bellwald/",
+                "angle": 360,
+                "name": "Bellwald Tourismus - Bellwald  Talstation",
+                "cam_name": "Bellwald  Talstation",
+                "customer_name": "Bellwald Tourismus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1231/thumbnail",
+                "link": "https://bellwaldtourismus.roundshot.com/fleschen/",
+                "angle": 360,
+                "name": "Bellwald Tourismus - Bellwald Mittelstation Fleschen",
+                "cam_name": "Bellwald Mittelstation Fleschen",
+                "customer_name": "Bellwald Tourismus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1234/thumbnail",
+                "link": "https://bellwaldtourismus.roundshot.com/furggulti/",
+                "angle": 360,
+                "name": "Bellwald Tourismus - Furggulti",
+                "cam_name": "Furggulti",
+                "customer_name": "Bellwald Tourismus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/432/thumbnail",
+                "link": "https://bielkinzig.roundshot.com/weissenboden/",
+                "angle": 360,
+                "name": "Biel Kinzig AG - Weissenboden - Weissenboden",
+                "cam_name": "Weissenboden",
+                "customer_name": "Biel Kinzig AG - Weissenboden"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/557/thumbnail",
+                "link": "https://braunwald.roundshot.com/gumen/",
+                "angle": 360,
+                "name": "Braunwald Sportbahnen - Gumen",
+                "cam_name": "Gumen",
+                "customer_name": "Braunwald Sportbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/556/thumbnail",
+                "link": "https://braunwald.roundshot.com/z_grotzenbuel/",
+                "angle": 360,
+                "name": "Braunwald Sportbahnen - Z_Grotzenb\u00fcel",
+                "cam_name": "Z_Grotzenb\u00fcel",
+                "customer_name": "Braunwald Sportbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1344/thumbnail",
+                "link": "https://brigtourismus.roundshot.com/simplonpass/",
+                "angle": 360,
+                "name": "Brig Tourismus - Simplonpass",
+                "cam_name": "Simplonpass",
+                "customer_name": "Brig Tourismus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/667/thumbnail",
+                "link": "https://pds-ch.roundshot.com/lescrosets/",
+                "angle": 360,
+                "name": "Champery T\u00e9l\u00e9 - Les Crosets",
+                "cam_name": "Les Crosets",
+                "customer_name": "Champery T\u00e9l\u00e9"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1070/thumbnail",
+                "link": "https://pds-ch.roundshot.com/morgins/",
+                "angle": 360,
+                "name": "Champery T\u00e9l\u00e9 - Morgins",
+                "cam_name": "Morgins",
+                "customer_name": "Champery T\u00e9l\u00e9"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/587/thumbnail",
+                "link": "https://brambruesch.roundshot.com/",
+                "angle": 360,
+                "name": "Chur-Dreib\u00fcndenstein Bergbahnen AG - Brambr\u00fcesch",
+                "cam_name": "Brambr\u00fcesch",
+                "customer_name": "Chur-Dreib\u00fcndenstein Bergbahnen AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/257/thumbnail",
+                "link": "https://lenzerheide.roundshot.com/parpan/",
+                "angle": 360,
+                "name": "Churwalden - Parpan Gemeinde - Parpan Gemeinde",
+                "cam_name": "Parpan Gemeinde",
+                "customer_name": "Churwalden - Parpan Gemeinde"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/377/thumbnail",
+                "link": "https://telechateaudoex.roundshot.com/la-braye/",
+                "angle": 360,
+                "name": "Ch\u00e2teau-d'Oex T\u00e9l\u00e9 SA - La Braye",
+                "cam_name": "La Braye",
+                "customer_name": "Ch\u00e2teau-d'Oex T\u00e9l\u00e9 SA"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/16/thumbnail",
+                "link": "https://cma.roundshot.com/grandsignal/",
+                "angle": 360,
+                "name": "Crans Montana RM (CMA) SA - La Nationale",
+                "cam_name": "La Nationale",
+                "customer_name": "Crans Montana RM (CMA) SA"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1078/thumbnail",
+                "link": "https://disentis.roundshot.com/caischavedra/",
+                "angle": 360,
+                "name": "Disentis Bergbahnen - Caischavedra",
+                "cam_name": "Caischavedra",
+                "customer_name": "Disentis Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1076/thumbnail",
+                "link": "https://disentis.roundshot.com/cuolmdavi/",
+                "angle": 360,
+                "name": "Disentis Bergbahnen - Cuolm Da Vi",
+                "cam_name": "Cuolm Da Vi",
+                "customer_name": "Disentis Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1077/thumbnail",
+                "link": "https://disentis.roundshot.com/gendusa/",
+                "angle": 360,
+                "name": "Disentis Bergbahnen - Gendusa",
+                "cam_name": "Gendusa",
+                "customer_name": "Disentis Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1301/thumbnail",
+                "link": "https://ecole-suisse-de-ski-diablerets.roundshot.com/",
+                "angle": 360,
+                "name": "Ecole Suisse de Ski Diablerets",
+                "cam_name": "Ecole Suisse de Ski Diablerets",
+                "customer_name": "Ecole Suisse de Ski Diablerets"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1287/thumbnail",
+                "link": "https://eischoll.roundshot.com/stryggen/",
+                "angle": 360,
+                "name": "Eischoll Gemeinde - Stryggen",
+                "cam_name": "Stryggen",
+                "customer_name": "Eischoll Gemeinde"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1187/thumbnail",
+                "link": "https://evoleneregion.roundshot.com/arolla/",
+                "angle": 360,
+                "name": "Evol\u00e8ne R\u00e9gion Tourisme - Arolla",
+                "cam_name": "Arolla",
+                "customer_name": "Evol\u00e8ne R\u00e9gion Tourisme"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/586/thumbnail",
+                "link": "https://evoleneregion.roundshot.com/evolene/",
+                "angle": 360,
+                "name": "Evol\u00e8ne R\u00e9gion Tourisme - Evol\u00e8ne",
+                "cam_name": "Evol\u00e8ne",
+                "customer_name": "Evol\u00e8ne R\u00e9gion Tourisme"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/19/thumbnail",
+                "link": "https://fuerenalp.roundshot.com/",
+                "angle": 360,
+                "name": "F\u00fcrenalp LSB Engelberg - F\u00fcrenalp",
+                "cam_name": "F\u00fcrenalp",
+                "customer_name": "F\u00fcrenalp LSB Engelberg"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/23/thumbnail",
+                "link": "https://gemmi.roundshot.com/",
+                "angle": 360,
+                "name": "Gemmi Bahnen - Gemmi",
+                "cam_name": "Gemmi",
+                "customer_name": "Gemmi Bahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/10/thumbnail",
+                "link": "https://grindelwaldbus.roundshot.com/",
+                "angle": 360,
+                "name": "Grindelwald Bus",
+                "cam_name": "Grindelwald Bus",
+                "customer_name": "Grindelwald Bus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1060/thumbnail",
+                "link": "https://maennlichen.roundshot.com/bergstation-wengen/",
+                "angle": 360,
+                "name": "Grindelwald-M\u00e4nnlichen Gondelbahn AG - M\u00e4nnlichen Bergstation Wengen",
+                "cam_name": "M\u00e4nnlichen Bergstation Wengen",
+                "customer_name": "Grindelwald-M\u00e4nnlichen Gondelbahn AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1293/thumbnail",
+                "link": "https://glacier3000.roundshot.com/cabane/",
+                "angle": 360,
+                "name": "Gstaad 3000 - Glacier 3000 - Cabane",
+                "cam_name": "Glacier 3000 - Cabane",
+                "customer_name": "Gstaad 3000"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/153/thumbnail",
+                "link": "https://glacier3000.roundshot.com/",
+                "angle": 360,
+                "name": "Gstaad 3000 - Glacier3000",
+                "cam_name": "Glacier3000",
+                "customer_name": "Gstaad 3000"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1321/thumbnail",
+                "link": "https://hochwang.roundshot.com/triemel/",
+                "angle": 360,
+                "name": "Hochwang Sportbahnen - Triemel",
+                "cam_name": "Triemel",
+                "customer_name": "Hochwang Sportbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/336/thumbnail",
+                "link": "https://hohsaas.roundshot.com/3200/",
+                "angle": 360,
+                "name": "Hohsaas Bergbahnen - Hohsaas 3200m",
+                "cam_name": "Hohsaas 3200m",
+                "customer_name": "Hohsaas Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/705/thumbnail",
+                "link": "https://hohsaas.roundshot.com/kreuzboden/",
+                "angle": 360,
+                "name": "Hohsaas Bergbahnen - Kreuzboden 2400m",
+                "cam_name": "Kreuzboden 2400m",
+                "customer_name": "Hohsaas Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1064/thumbnail",
+                "link": "https://jungfrau.roundshot.com/top-of-europe-eiger-express/",
+                "angle": 360,
+                "name": "Jungfraubahnen Management AG - Eiger Express Panorama Mast 4",
+                "cam_name": "Eiger Express Panorama Mast 4",
+                "customer_name": "Jungfraubahnen Management AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1087/thumbnail",
+                "link": "https://jungfrau.roundshot.com/top-of-europe-jungfraujoch/",
+                "angle": 360,
+                "name": "Jungfraubahnen Management AG - Jungfraujoch",
+                "cam_name": "Jungfraujoch",
+                "customer_name": "Jungfraubahnen Management AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/862/thumbnail",
+                "link": "https://jungfrau.roundshot.com/top-of-europe-jungfrau-ostgrat/",
+                "angle": 180,
+                "name": "Jungfraubahnen Management AG - Ostgrat",
+                "cam_name": "Ostgrat",
+                "customer_name": "Jungfraubahnen Management AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/796/thumbnail",
+                "link": "https://wolzenalp.roundshot.com/",
+                "angle": 360,
+                "name": "Krummenau Sportbahn Wolzenalp AG - Wolzenalp",
+                "cam_name": "Wolzenalp",
+                "customer_name": "Krummenau Sportbahn Wolzenalp AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/945/thumbnail",
+                "link": "https://laberra.roundshot.com/",
+                "angle": 360,
+                "name": "La Berra SRM - La Berra",
+                "cam_name": "La Berra",
+                "customer_name": "La Berra SRM"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1359/thumbnail",
+                "link": "https://laax.roundshot.com/bargis/",
+                "angle": 360,
+                "name": "Laax Flims Falera - Weisse Arena - Bargis",
+                "cam_name": "Bargis",
+                "customer_name": "Laax Flims Falera - Weisse Arena"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/47/thumbnail",
+                "link": "https://laax.roundshot.com/berghaus-nagens/",
+                "angle": 360,
+                "name": "Laax Flims Falera - Weisse Arena - Berghaus Nagens",
+                "cam_name": "Berghaus Nagens",
+                "customer_name": "Laax Flims Falera - Weisse Arena"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/365/thumbnail",
+                "link": "https://laax.roundshot.com/caumasee/",
+                "angle": 180,
+                "name": "Laax Flims Falera - Weisse Arena - Caumasee",
+                "cam_name": "Caumasee",
+                "customer_name": "Laax Flims Falera - Weisse Arena"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/46/thumbnail",
+                "link": "https://laax.roundshot.com/crap-masegn/",
+                "angle": 360,
+                "name": "Laax Flims Falera - Weisse Arena - Crap Masegn",
+                "cam_name": "Crap Masegn",
+                "customer_name": "Laax Flims Falera - Weisse Arena"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/44/thumbnail",
+                "link": "https://laax.roundshot.com/crap-sogn-gion-park/",
+                "angle": 220,
+                "name": "Laax Flims Falera - Weisse Arena - Crap Sogn Gion Park",
+                "cam_name": "Crap Sogn Gion Park",
+                "customer_name": "Laax Flims Falera - Weisse Arena"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/45/thumbnail",
+                "link": "https://laax.roundshot.com/crap-sogn-gion-plaun/",
+                "angle": 270,
+                "name": "Laax Flims Falera - Weisse Arena - Crap Sogn Gion Plaun",
+                "cam_name": "Crap Sogn Gion Plaun",
+                "customer_name": "Laax Flims Falera - Weisse Arena"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/433/thumbnail",
+                "link": "https://laax.roundshot.com/la-siala/",
+                "angle": 200,
+                "name": "Laax Flims Falera - Weisse Arena - La Siala",
+                "cam_name": "La Siala",
+                "customer_name": "Laax Flims Falera - Weisse Arena"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/48/thumbnail",
+                "link": "https://laax.roundshot.com/mutta-rodunda/",
+                "angle": 360,
+                "name": "Laax Flims Falera - Weisse Arena - Mutta Rodunda",
+                "cam_name": "Mutta Rodunda",
+                "customer_name": "Laax Flims Falera - Weisse Arena"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/366/thumbnail",
+                "link": "https://laax.roundshot.com/conn/",
+                "angle": 270,
+                "name": "Laax Flims Falera - Weisse Arena - Rheinschlucht - Conn",
+                "cam_name": "Rheinschlucht - Conn",
+                "customer_name": "Laax Flims Falera - Weisse Arena"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/43/thumbnail",
+                "link": "https://laax.roundshot.com/rocksresort/",
+                "angle": 265,
+                "name": "Laax Flims Falera - Weisse Arena - Rocksresort",
+                "cam_name": "Rocksresort",
+                "customer_name": "Laax Flims Falera - Weisse Arena"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/691/thumbnail",
+                "link": "https://rocksresort3.roundshot.com/baustelle/",
+                "angle": 180,
+                "name": "Laax Flims Falera - Weisse Arena - Rocksresort 3 - Baustelle",
+                "cam_name": "Rocksresort 3 - Baustelle",
+                "customer_name": "Laax Flims Falera - Weisse Arena"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/42/thumbnail",
+                "link": "https://laax.roundshot.com/talstation-flims/",
+                "angle": 360,
+                "name": "Laax Flims Falera - Weisse Arena - Talstation Flims",
+                "cam_name": "Talstation Flims",
+                "customer_name": "Laax Flims Falera - Weisse Arena"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/49/thumbnail",
+                "link": "https://laax.roundshot.com/vorab-gletscher/",
+                "angle": 360,
+                "name": "Laax Flims Falera - Weisse Arena - Vorab Gletscher",
+                "cam_name": "Vorab Gletscher",
+                "customer_name": "Laax Flims Falera - Weisse Arena"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/441/thumbnail",
+                "link": "https://lantsch-lenz.roundshot.com/",
+                "angle": 360,
+                "name": "Lantsch - Lenz Skiliftgesellschaft AG - Lantsch - Lenz",
+                "cam_name": "Lantsch - Lenz",
+                "customer_name": "Lantsch - Lenz Skiliftgesellschaft AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/181/thumbnail",
+                "link": "https://biathlonarena.roundshot.com/",
+                "angle": 360,
+                "name": "Lantsch - Lenz Tourismus - Biathlon Arena - Biathlon Arena",
+                "cam_name": "Biathlon Arena",
+                "customer_name": "Lantsch - Lenz Tourismus - Biathlon Arena"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1313/thumbnail",
+                "link": "https://lenk.roundshot.com/leiterli/",
+                "angle": 360,
+                "name": "Lenk Bergbahnen - Betelberg",
+                "cam_name": "Betelberg",
+                "customer_name": "Lenk Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/51/thumbnail",
+                "link": "https://lenzerheide.roundshot.com/alpstaetz/",
+                "angle": 360,
+                "name": "Lenzerheide Bergbahnen - Alp St\u00e4tz",
+                "cam_name": "Alp St\u00e4tz",
+                "customer_name": "Lenzerheide Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1058/thumbnail",
+                "link": "https://churwalden.roundshot.com/",
+                "angle": 360,
+                "name": "Lenzerheide Bergbahnen - Churwalden",
+                "cam_name": "Churwalden",
+                "customer_name": "Lenzerheide Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/52/thumbnail",
+                "link": "https://lenzerheide.roundshot.com/rothorn/",
+                "angle": 360,
+                "name": "Lenzerheide Bergbahnen - Parpaner Rothorn",
+                "cam_name": "Parpaner Rothorn",
+                "customer_name": "Lenzerheide Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/54/thumbnail",
+                "link": "https://lenzerheide.roundshot.com/pizscalottas/",
+                "angle": 360,
+                "name": "Lenzerheide Bergbahnen - Piz Scalottas",
+                "cam_name": "Piz Scalottas",
+                "customer_name": "Lenzerheide Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/265/thumbnail",
+                "link": "https://lenzerheide.roundshot.com/talstation/",
+                "angle": 360,
+                "name": "Lenzerheide Bergbahnen - Talstation",
+                "cam_name": "Talstation",
+                "customer_name": "Lenzerheide Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/53/thumbnail",
+                "link": "https://lenzerheide.roundshot.com/urdenfuerggli/",
+                "angle": 360,
+                "name": "Lenzerheide Bergbahnen - Urdenfuerggli",
+                "cam_name": "Urdenfuerggli",
+                "customer_name": "Lenzerheide Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/154/thumbnail",
+                "link": "https://tlml.roundshot.com/",
+                "angle": 360,
+                "name": "Leysin T\u00e9l\u00e9 - Kuklos",
+                "cam_name": "Kuklos",
+                "customer_name": "Leysin T\u00e9l\u00e9"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/182/thumbnail",
+                "link": "https://lesmosses.roundshot.com/",
+                "angle": 360,
+                "name": "Leysin T\u00e9l\u00e9 - Les Mosses",
+                "cam_name": "Les Mosses",
+                "customer_name": "Leysin T\u00e9l\u00e9"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1343/thumbnail",
+                "link": "https://leysin.roundshot.com/snowpark/",
+                "angle": 360,
+                "name": "Leysin T\u00e9l\u00e9 - Snowpark",
+                "cam_name": "Snowpark",
+                "customer_name": "Leysin T\u00e9l\u00e9"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/966/thumbnail",
+                "link": "https://leysin.roundshot.com/tobogganing-park/",
+                "angle": 360,
+                "name": "Leysin T\u00e9l\u00e9 - Tobogganing Park",
+                "cam_name": "Tobogganing Park",
+                "customer_name": "Leysin T\u00e9l\u00e9"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/300/thumbnail",
+                "link": "https://mob.roundshot.com/rochersdenaye/",
+                "angle": 360,
+                "name": "MOB - CCF Montreux Oberland Bernois - Rochers de Naye",
+                "cam_name": "Rochers de Naye",
+                "customer_name": "MOB - CCF Montreux Oberland Bernois"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/931/thumbnail",
+                "link": "https://gryon.roundshot.com/",
+                "angle": 360,
+                "name": "Maison du Tourisme De Gryon - Gryon - Frience",
+                "cam_name": "Gryon - Frience",
+                "customer_name": "Maison du Tourisme De Gryon"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/686/thumbnail",
+                "link": "https://marbachegg.roundshot.com/",
+                "angle": 360,
+                "name": "Marbachegg Sportbahnen - Marbachegg",
+                "cam_name": "Marbachegg",
+                "customer_name": "Marbachegg Sportbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/439/thumbnail",
+                "link": "https://alpentower.roundshot.com/",
+                "angle": 360,
+                "name": "Meiringen Hasliberg Bergbahnen - Meiringen Hasliberg - Alpen Tower",
+                "cam_name": "Meiringen Hasliberg - Alpen Tower",
+                "customer_name": "Meiringen Hasliberg Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/364/thumbnail",
+                "link": "https://kaeserstatt.roundshot.com/",
+                "angle": 360,
+                "name": "Meiringen Hasliberg Bergbahnen - Meiringen Hasliberg - K\u00e4serstatt",
+                "cam_name": "Meiringen Hasliberg - K\u00e4serstatt",
+                "customer_name": "Meiringen Hasliberg Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/124/thumbnail",
+                "link": "https://maegisalp.roundshot.com/",
+                "angle": 360,
+                "name": "Meiringen Hasliberg Bergbahnen - Meiringen Hasliberg - Maegisalp",
+                "cam_name": "Meiringen Hasliberg - Maegisalp",
+                "customer_name": "Meiringen Hasliberg Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/160/thumbnail",
+                "link": "https://bonistock.roundshot.com/",
+                "angle": 360,
+                "name": "Melchsee-Frutt Sportbahnen - Melchsee-Frutt - Bonistock",
+                "cam_name": "Melchsee-Frutt - Bonistock",
+                "customer_name": "Melchsee-Frutt Sportbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/161/thumbnail",
+                "link": "https://melchseefrutt.roundshot.com/",
+                "angle": 360,
+                "name": "Melchsee-Frutt Sportbahnen - Melchsee-Frutt - Dorf",
+                "cam_name": "Melchsee-Frutt - Dorf",
+                "customer_name": "Melchsee-Frutt Sportbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/890/thumbnail",
+                "link": "https://torrent.roundshot.com/",
+                "angle": 360,
+                "name": "My Leukerbad AG - Torrentbahnen",
+                "cam_name": "Torrentbahnen",
+                "customer_name": "My Leukerbad AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1348/thumbnail",
+                "link": "https://nendaz.roundshot.com/coldesgentianes/",
+                "angle": 360,
+                "name": "Nendaz - NVRM - Col des Gentianes",
+                "cam_name": "Col des Gentianes",
+                "customer_name": "Nendaz - NVRM"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1214/thumbnail",
+                "link": "https://nendaz.roundshot.com/combatseline/",
+                "angle": 360,
+                "name": "Nendaz - NVRM - Combatseline",
+                "cam_name": "Combatseline",
+                "customer_name": "Nendaz - NVRM"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1069/thumbnail",
+                "link": "https://nendaz.roundshot.com/greppon-blanc/",
+                "angle": 360,
+                "name": "Nendaz - NVRM - Greppon Blanc",
+                "cam_name": "Greppon Blanc",
+                "customer_name": "Nendaz - NVRM"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1257/thumbnail",
+                "link": "https://nendaz.roundshot.com/lacdetracouet/",
+                "angle": 360,
+                "name": "Nendaz - NVRM - Lac  de Tracouet",
+                "cam_name": "Lac  de Tracouet",
+                "customer_name": "Nendaz - NVRM"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1216/thumbnail",
+                "link": "https://nendaz.roundshot.com/plandufou/",
+                "angle": 360,
+                "name": "Nendaz - NVRM - Plan du Fou",
+                "cam_name": "Plan du Fou",
+                "customer_name": "Nendaz - NVRM"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1276/thumbnail",
+                "link": "https://nendaz.roundshot.com/prarion-balavaud/",
+                "angle": 360,
+                "name": "Nendaz - NVRM - Prarion-Balavaud",
+                "cam_name": "Prarion-Balavaud",
+                "customer_name": "Nendaz - NVRM"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1218/thumbnail",
+                "link": "https://nendaz.roundshot.com/siviez/",
+                "angle": 360,
+                "name": "Nendaz - NVRM - Siviez",
+                "cam_name": "Siviez",
+                "customer_name": "Nendaz - NVRM"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1219/thumbnail",
+                "link": "https://nendaz.roundshot.com/depart-tracouet/",
+                "angle": 50,
+                "name": "Nendaz - NVRM - Tracouet D\u00e9part",
+                "cam_name": "Tracouet D\u00e9part",
+                "customer_name": "Nendaz - NVRM"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/728/thumbnail",
+                "link": "https://niederhornbahn.roundshot.com/",
+                "angle": 360,
+                "name": "Niederhornbahn AG - Niederhorn",
+                "cam_name": "Niederhorn",
+                "customer_name": "Niederhornbahn AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1268/thumbnail",
+                "link": "https://labrevine.roundshot.com/",
+                "angle": 50,
+                "name": "Pays de Neuch\u00e2tel - La Brevine",
+                "cam_name": "La Brevine",
+                "customer_name": "Pays de Neuch\u00e2tel"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/155/thumbnail",
+                "link": "https://pilatus.roundshot.com/",
+                "angle": 360,
+                "name": "Pilatus Bergbahnen - Pilatus - Esel",
+                "cam_name": "Pilatus - Esel",
+                "customer_name": "Pilatus Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1210/thumbnail",
+                "link": "https://saastal.roundshot.com/hannig/",
+                "angle": 290,
+                "name": "Saastal Bergbahnen - Hannig",
+                "cam_name": "Hannig",
+                "customer_name": "Saastal Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1238/thumbnail",
+                "link": "https://saastal.roundshot.com/heidbodme/",
+                "angle": 360,
+                "name": "Saastal Bergbahnen - Heidbodme",
+                "cam_name": "Heidbodme",
+                "customer_name": "Saastal Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/429/thumbnail",
+                "link": "https://schilthorn.roundshot.com/allmendhubel/",
+                "angle": 360,
+                "name": "Schilthorn - Allmendhubel",
+                "cam_name": "Allmendhubel",
+                "customer_name": "Schilthorn"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/428/thumbnail",
+                "link": "https://schilthorn.roundshot.com/birg/",
+                "angle": 360,
+                "name": "Schilthorn - Birg",
+                "cam_name": "Birg",
+                "customer_name": "Schilthorn"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/650/thumbnail",
+                "link": "https://alpsellamatt.roundshot.com/",
+                "angle": 360,
+                "name": "Sellamatt L\u00f6tscher Berghotel - Alp Sellamatt - Berghotel",
+                "cam_name": "Alp Sellamatt - Berghotel",
+                "customer_name": "Sellamatt L\u00f6tscher Berghotel"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/651/thumbnail",
+                "link": "https://alpsellamatt.roundshot.com/zinggen/",
+                "angle": 360,
+                "name": "Sellamatt L\u00f6tscher Berghotel - Alp Sellamatt - Zinggen",
+                "cam_name": "Alp Sellamatt - Zinggen",
+                "customer_name": "Sellamatt L\u00f6tscher Berghotel"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/125/thumbnail",
+                "link": "https://spluegen.roundshot.com/",
+                "angle": 360,
+                "name": "Spl\u00fcgen Bergbahnen - Tanatzh\u00f6he",
+                "cam_name": "Tanatzh\u00f6he",
+                "customer_name": "Spl\u00fcgen Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1128/thumbnail",
+                "link": "https://gspon.roundshot.com/",
+                "angle": 360,
+                "name": "Staldenried Gemeinde",
+                "cam_name": "Staldenried Gemeinde",
+                "customer_name": "Staldenried Gemeinde"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/156/thumbnail",
+                "link": "https://saentis.roundshot.com/",
+                "angle": 360,
+                "name": "S\u00e4ntis Schwebebahn - S\u00e4ntis Gipfel",
+                "cam_name": "S\u00e4ntis Gipfel",
+                "customer_name": "S\u00e4ntis Schwebebahn"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1130/thumbnail",
+                "link": "https://saentis.roundshot.com/schwaegalp/",
+                "angle": 270,
+                "name": "S\u00e4ntis Schwebebahn - S\u00e4ntis Schw\u00e4galp",
+                "cam_name": "S\u00e4ntis Schw\u00e4galp",
+                "customer_name": "S\u00e4ntis Schwebebahn"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/620/thumbnail",
+                "link": "https://soerenberg.roundshot.com/rothorn/",
+                "angle": 270,
+                "name": "S\u00f6renberg Bergbahnen - Rothorn Gipfel",
+                "cam_name": "Rothorn Gipfel",
+                "customer_name": "S\u00f6renberg Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1121/thumbnail",
+                "link": "https://brunnenberg.roundshot.com/",
+                "angle": 360,
+                "name": "Technische Betriebe Glarus - Brunnenberg",
+                "cam_name": "Brunnenberg",
+                "customer_name": "Technische Betriebe Glarus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/75/thumbnail",
+                "link": "https://chaeserrugg.roundshot.com/",
+                "angle": 360,
+                "name": "Toggenburg Bergbahnen - Chaeserrugg",
+                "cam_name": "Chaeserrugg",
+                "customer_name": "Toggenburg Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/633/thumbnail",
+                "link": "https://iltios.roundshot.com/",
+                "angle": 360,
+                "name": "Toggenburg Bergbahnen - Iltios",
+                "cam_name": "Iltios",
+                "customer_name": "Toggenburg Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1336/thumbnail",
+                "link": "https://thyon.roundshot.com/trabanta/",
+                "angle": 360,
+                "name": "T\u00e9l\u00e9 Thyon SA - Trabanta",
+                "cam_name": "Trabanta",
+                "customer_name": "T\u00e9l\u00e9 Thyon SA"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/694/thumbnail",
+                "link": "https://villars.roundshot.com/leschaux/",
+                "angle": 360,
+                "name": "T\u00e9l\u00e9 Villars Gryon Diablerets - Gryon - Les Chaux",
+                "cam_name": "Gryon - Les Chaux",
+                "customer_name": "T\u00e9l\u00e9 Villars Gryon Diablerets"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/242/thumbnail",
+                "link": "https://villars.roundshot.com/lesmazots/",
+                "angle": 360,
+                "name": "T\u00e9l\u00e9 Villars Gryon Diablerets - Les Diablerets - Les Mazots",
+                "cam_name": "Les Diablerets - Les Mazots",
+                "customer_name": "T\u00e9l\u00e9 Villars Gryon Diablerets"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/72/thumbnail",
+                "link": "https://villars.roundshot.com/meilleret/",
+                "angle": 360,
+                "name": "T\u00e9l\u00e9 Villars Gryon Diablerets - Les Diablerets - Meilleret",
+                "cam_name": "Les Diablerets - Meilleret",
+                "customer_name": "T\u00e9l\u00e9 Villars Gryon Diablerets"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/73/thumbnail",
+                "link": "https://villars.roundshot.com/bretaye/",
+                "angle": 360,
+                "name": "T\u00e9l\u00e9 Villars Gryon Diablerets - Villars - Bretaye",
+                "cam_name": "Villars - Bretaye",
+                "customer_name": "T\u00e9l\u00e9 Villars Gryon Diablerets"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/71/thumbnail",
+                "link": "https://villars.roundshot.com/pt-chamossaire/",
+                "angle": 360,
+                "name": "T\u00e9l\u00e9 Villars Gryon Diablerets - Villars - Petit Chamossaire",
+                "cam_name": "Villars - Petit Chamossaire",
+                "customer_name": "T\u00e9l\u00e9 Villars Gryon Diablerets"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/180/thumbnail",
+                "link": "https://lenzerheide.roundshot.com/bargias/",
+                "angle": 360,
+                "name": "Vaz/Obervaz Elektrizit\u00e4tswerk - Bargias",
+                "cam_name": "Bargias",
+                "customer_name": "Vaz/Obervaz Elektrizit\u00e4tswerk"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1132/thumbnail",
+                "link": "https://verbier.roundshot.com/montfort/",
+                "angle": 360,
+                "name": "Verbier - T\u00e9l\u00e9verbier SA - Mont Fort",
+                "cam_name": "Mont Fort",
+                "customer_name": "Verbier - T\u00e9l\u00e9verbier SA"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1022/thumbnail",
+                "link": "https://verbier.roundshot.com/savoleyres/",
+                "angle": 360,
+                "name": "Verbier - T\u00e9l\u00e9verbier SA - Savoleyres",
+                "cam_name": "Savoleyres",
+                "customer_name": "Verbier - T\u00e9l\u00e9verbier SA"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1311/thumbnail",
+                "link": "https://verbier.roundshot.com/tzoumaz/",
+                "angle": 360,
+                "name": "Verbier - T\u00e9l\u00e9verbier SA - Tzoumaz",
+                "cam_name": "Tzoumaz",
+                "customer_name": "Verbier - T\u00e9l\u00e9verbier SA"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1119/thumbnail",
+                "link": "https://lavuardette.roundshot.com/",
+                "angle": 360,
+                "name": "Vich\u00e8res-Liddes - La Vuardette",
+                "cam_name": "La Vuardette",
+                "customer_name": "Vich\u00e8res-Liddes"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/724/thumbnail",
+                "link": "https://ebenalp.roundshot.com/",
+                "angle": 360,
+                "name": "Wasserauen-Ebenalp Luftseilbahn - Ebenalp",
+                "cam_name": "Ebenalp",
+                "customer_name": "Wasserauen-Ebenalp Luftseilbahn"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1055/thumbnail",
+                "link": "https://gartenalp.roundshot.com/",
+                "angle": 180,
+                "name": "Wasserauen-Ebenalp Luftseilbahn - Gartenalp",
+                "cam_name": "Gartenalp",
+                "customer_name": "Wasserauen-Ebenalp Luftseilbahn"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/292/thumbnail",
+                "link": "https://wasserfallenbahn.roundshot.com/",
+                "angle": 360,
+                "name": "Wasserfallen Bahn - Wasserfallen - Bergstation",
+                "cam_name": "Wasserfallen - Bergstation",
+                "customer_name": "Wasserfallen Bahn"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/663/thumbnail",
+                "link": "https://wildhaus.roundshot.com/gamsalp/",
+                "angle": 360,
+                "name": "Wildhaus Bergbahnen AG - Gamsalp",
+                "cam_name": "Gamsalp",
+                "customer_name": "Wildhaus Bergbahnen AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/649/thumbnail",
+                "link": "https://wildhaus.roundshot.com/oberdorf/",
+                "angle": 360,
+                "name": "Wildhaus Bergbahnen AG - Oberdorf",
+                "cam_name": "Oberdorf",
+                "customer_name": "Wildhaus Bergbahnen AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1047/thumbnail",
+                "link": "https://zbag.roundshot.com/hirli/",
+                "angle": 360,
+                "name": "Zermatt Bergbahnen - Hirli",
+                "cam_name": "Hirli",
+                "customer_name": "Zermatt Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/17995d1350ece1b2780e44a0740cfeb4/thumbnail",
+                "link": "https://zbag.roundshot.com/matterhornglacierparadise/",
+                "angle": 360,
+                "name": "Zermatt Bergbahnen - Matterhorn - Glacier Paradise",
+                "cam_name": "Matterhorn - Glacier Paradise",
+                "customer_name": "Zermatt Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/052cf992a17faeeca3f71114b049455c/thumbnail",
+                "link": "https://zbag.roundshot.com/rothorn/",
+                "angle": 180,
+                "name": "Zermatt Bergbahnen - Rothorn",
+                "cam_name": "Rothorn",
+                "customer_name": "Zermatt Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/94429c50d6dab2d671953ecbe2ab97c2/thumbnail",
+                "link": "https://zbag.roundshot.com/sunnegga/",
+                "angle": 50,
+                "name": "Zermatt Bergbahnen - Sunnegga",
+                "cam_name": "Sunnegga",
+                "customer_name": "Zermatt Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/bdf96ad83f0ce659dd66684504de9375/thumbnail",
+                "link": "https://zbag.roundshot.com/trockener-steg/",
+                "angle": 360,
+                "name": "Zermatt Bergbahnen - Trockener Steg",
+                "cam_name": "Trockener Steg",
+                "customer_name": "Zermatt Bergbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/4bf959d18548267b6c0333ed89096923/thumbnail",
+                "link": "https://zermatt.roundshot.com/gornergrat/",
+                "angle": 360,
+                "name": "Zermatt Tourismus - Gornergrat",
+                "cam_name": "Gornergrat",
+                "customer_name": "Zermatt Tourismus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/4a19df9977b310d996c39cabb1cf6907/thumbnail",
+                "link": "https://zermatt.roundshot.com/hohtaelli/",
+                "angle": 270,
+                "name": "Zermatt Tourismus - Hoht\u00e4lli",
+                "cam_name": "Hoht\u00e4lli",
+                "customer_name": "Zermatt Tourismus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/3f43d703172868cc5068fdfa7ef67892/thumbnail",
+                "link": "https://zermatt.roundshot.com/randa/",
+                "angle": 360,
+                "name": "Zermatt Tourismus - Randa",
+                "cam_name": "Randa",
+                "customer_name": "Zermatt Tourismus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/17b288bb281358f47d8e1be92d6b042a/thumbnail",
+                "link": "https://zermatt.roundshot.com/schonegg/",
+                "angle": 50,
+                "name": "Zermatt Tourismus - Sch\u00f6negg Hotel",
+                "cam_name": "Sch\u00f6negg Hotel",
+                "customer_name": "Zermatt Tourismus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/db525e5462a2414abd7500e07aa08d51/thumbnail",
+                "link": "https://zermatt.roundshot.com/taesch/",
+                "angle": 360,
+                "name": "Zermatt Tourismus - T\u00e4sch Dorf",
+                "cam_name": "T\u00e4sch Dorf",
+                "customer_name": "Zermatt Tourismus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/2c35670bc04a525fa1b912728ae463b8/thumbnail",
+                "link": "https://zermatt.roundshot.com/zermatterhof/",
+                "angle": 360,
+                "name": "Zermatt Tourismus - Zermatterhof",
+                "cam_name": "Zermatterhof",
+                "customer_name": "Zermatt Tourismus"
+            }
+        ],
+        "Hotels": [
+            {
+                "picture": "https://backend.roundshot.com/cams/826/thumbnail",
+                "link": "https://hoteldesbalances.roundshot.com/",
+                "angle": 360,
+                "name": "Balances Hotel - Hotel des Balances",
+                "cam_name": "Hotel des Balances",
+                "customer_name": "Balances Hotel"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/12/thumbnail",
+                "link": "https://bellevue.roundshot.com/",
+                "angle": 360,
+                "name": "Bellevue Wengen Hotel - Bellevue",
+                "cam_name": "Bellevue",
+                "customer_name": "Bellevue Wengen Hotel"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/483/thumbnail",
+                "link": "https://belvederegrindelwald.roundshot.com/",
+                "angle": 360,
+                "name": "Belvedere Grindelwald Hotel - Belvedere Grindelwald",
+                "cam_name": "Belvedere Grindelwald",
+                "customer_name": "Belvedere Grindelwald Hotel"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/123/thumbnail",
+                "link": "https://belvedere.roundshot.com/",
+                "angle": 315,
+                "name": "Belved\u00e8re Scuol Hotel - Belved\u00e8re - Scuol",
+                "cam_name": "Belved\u00e8re - Scuol",
+                "customer_name": "Belved\u00e8re Scuol Hotel"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/14/thumbnail",
+                "link": "https://buergenstock.roundshot.com/",
+                "angle": 360,
+                "name": "B\u00fcrgenstock Resort",
+                "cam_name": "B\u00fcrgenstock Resort",
+                "customer_name": "B\u00fcrgenstock Resort"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/474/thumbnail",
+                "link": "https://crestapalace.roundshot.com/",
+                "angle": 360,
+                "name": "CRESTA PALACE - Celerina",
+                "cam_name": "CRESTA PALACE - Celerina",
+                "customer_name": "CRESTA PALACE - Celerina"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/835/thumbnail",
+                "link": "https://casaberno.roundshot.com/",
+                "angle": 200,
+                "name": "Casa Berno Hotel",
+                "cam_name": "Casa Berno Hotel",
+                "customer_name": "Casa Berno Hotel"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/887/thumbnail",
+                "link": "https://castello-seeschloss.roundshot.com/",
+                "angle": 360,
+                "name": "Castello Seeschloss Hotel",
+                "cam_name": "Castello Seeschloss Hotel",
+                "customer_name": "Castello Seeschloss Hotel"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/31/thumbnail",
+                "link": "https://hoteledelweiss.roundshot.com/",
+                "angle": 360,
+                "name": "Edelweiss M\u00fcrren Hotel - Edelweiss",
+                "cam_name": "Edelweiss",
+                "customer_name": "Edelweiss M\u00fcrren Hotel"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/911/thumbnail",
+                "link": "https://florensresort.roundshot.com/",
+                "angle": 260,
+                "name": "Florens Lake Resort & Spa",
+                "cam_name": "Florens Lake Resort & Spa",
+                "customer_name": "Florens Lake Resort & Spa"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/865/thumbnail",
+                "link": "https://hofmaranhotel.roundshot.com/",
+                "angle": 360,
+                "name": "Hof Maran Golf -und Sporthotel",
+                "cam_name": "Hof Maran Golf -und Sporthotel",
+                "customer_name": "Hof Maran Golf -und Sporthotel"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/581/thumbnail",
+                "link": "https://huusgstaad.roundshot.com/",
+                "angle": 185,
+                "name": "Huus AG - Huus Hotel Gstaad",
+                "cam_name": "Huus Hotel Gstaad",
+                "customer_name": "Huus AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/41/thumbnail",
+                "link": "https://kirchbuehl.roundshot.com/",
+                "angle": 360,
+                "name": "Kirchb\u00fchl Grindelwald Hotel - Kirchb\u00fchl Grindelwald",
+                "cam_name": "Kirchb\u00fchl Grindelwald",
+                "customer_name": "Kirchb\u00fchl Grindelwald Hotel"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/843/thumbnail",
+                "link": "https://lejdastaz.roundshot.com/",
+                "angle": 360,
+                "name": "Lej da Staz",
+                "cam_name": "Lej da Staz",
+                "customer_name": "Lej da Staz"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/857/thumbnail",
+                "link": "https://maerchenhotel.roundshot.com/",
+                "angle": 360,
+                "name": "M\u00e4rchenhotel Braunwald",
+                "cam_name": "M\u00e4rchenhotel Braunwald",
+                "customer_name": "M\u00e4rchenhotel Braunwald"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/838/thumbnail",
+                "link": "https://oeschinensee.roundshot.com/berghotel/",
+                "angle": 220,
+                "name": "Oeschinensee - Berghotel",
+                "cam_name": "Berghotel",
+                "customer_name": "Oeschinensee"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/867/thumbnail",
+                "link": "https://oeschinensee.roundshot.com/rodelbahn/",
+                "angle": 360,
+                "name": "Oeschinensee - Rodelbahn",
+                "cam_name": "Rodelbahn",
+                "customer_name": "Oeschinensee"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/25/thumbnail",
+                "link": "https://palacegstaad.roundshot.com/",
+                "angle": 360,
+                "name": "Palace Hotel Gstaad - Palace Gstaad",
+                "cam_name": "Palace Gstaad",
+                "customer_name": "Palace Hotel Gstaad"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/876/thumbnail",
+                "link": "https://refugederborence.roundshot.com/",
+                "angle": 360,
+                "name": "Refuge du Lac de Derborence",
+                "cam_name": "Refuge du Lac de Derborence",
+                "customer_name": "Refuge du Lac de Derborence"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/840/thumbnail",
+                "link": "https://romantikhotelhornberg.roundshot.com/",
+                "angle": 360,
+                "name": "Romantik Hotel Hornberg",
+                "cam_name": "Romantik Hotel Hornberg",
+                "customer_name": "Romantik Hotel Hornberg"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/78/thumbnail",
+                "link": "https://uetliberg.roundshot.com/",
+                "angle": 315,
+                "name": "Uto Kulm - Uetliberg",
+                "cam_name": "Uetliberg",
+                "customer_name": "Uto Kulm"
+            }
+        ],
+        "Tourism associations": [
+            {
+                "picture": "https://backend.roundshot.com/cams/122/thumbnail",
+                "link": "https://aigle.roundshot.com/",
+                "angle": 360,
+                "name": "Aigle Gemeinde",
+                "cam_name": "Aigle Gemeinde",
+                "customer_name": "Aigle Gemeinde"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/674/thumbnail",
+                "link": "https://lac-de-tseuzier.roundshot.com/",
+                "angle": 360,
+                "name": "Anz\u00e8re Tourisme - Anz\u00e8re - Lac de Tseuzier",
+                "cam_name": "Anz\u00e8re - Lac de Tseuzier",
+                "customer_name": "Anz\u00e8re Tourisme"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/376/thumbnail",
+                "link": "https://avenches.roundshot.com/camping-plage/",
+                "angle": 360,
+                "name": "Avenches Tourisme - Avenches - Camping-plage",
+                "cam_name": "Avenches - Camping-plage",
+                "customer_name": "Avenches Tourisme"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/128/thumbnail",
+                "link": "https://berntourismus.roundshot.com/hotelbellevuepalace/",
+                "angle": 285,
+                "name": "Bern Welcome - Bellevue Hotel",
+                "cam_name": "Bellevue Hotel",
+                "customer_name": "Bern Welcome"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/741/thumbnail",
+                "link": "https://berntourismus.roundshot.com/gurten/",
+                "angle": 360,
+                "name": "Bern Welcome - Gurten",
+                "cam_name": "Gurten",
+                "customer_name": "Bern Welcome"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/129/thumbnail",
+                "link": "https://berntourismus.roundshot.com/rosengarten/",
+                "angle": 180,
+                "name": "Bern Welcome - Rosengarten Restaurant",
+                "cam_name": "Rosengarten Restaurant",
+                "customer_name": "Bern Welcome"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/280/thumbnail",
+                "link": "https://boezingenberg.roundshot.com/",
+                "angle": 360,
+                "name": "Biel Tourismus - B\u00f6zingenberg",
+                "cam_name": "B\u00f6zingenberg",
+                "customer_name": "Biel Tourismus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/856/thumbnail",
+                "link": "https://braunwald.roundshot.com/nussbuehl/",
+                "angle": 360,
+                "name": "Braunwald Sportbahnen - Nussbuehl",
+                "cam_name": "Nussbuehl",
+                "customer_name": "Braunwald Sportbahnen"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1339/thumbnail",
+                "link": "https://bregagliaturismo.roundshot.com/aela/",
+                "angle": 360,
+                "name": "Bregaglia Turismo - Aela - Bregaglia Turismo",
+                "cam_name": "Aela - Bregaglia Turismo",
+                "customer_name": "Bregaglia Turismo"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1338/thumbnail",
+                "link": "https://bregagliaturismo.roundshot.com/albigna/",
+                "angle": 360,
+                "name": "Bregaglia Turismo - Albigna - Bregaglia Turismo",
+                "cam_name": "Albigna - Bregaglia Turismo",
+                "customer_name": "Bregaglia Turismo"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1345/thumbnail",
+                "link": "https://brigtourismus.roundshot.com/rothwald/",
+                "angle": 360,
+                "name": "Brig Tourismus - Rothwald",
+                "cam_name": "Rothwald",
+                "customer_name": "Brig Tourismus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/572/thumbnail",
+                "link": "https://lespaccots.roundshot.com/corbetta/",
+                "angle": 360,
+                "name": "Ch\u00e2tel-St-Denis Office de Tourisme - Corbetta",
+                "cam_name": "Corbetta",
+                "customer_name": "Ch\u00e2tel-St-Denis Office de Tourisme"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/573/thumbnail",
+                "link": "https://lespaccots.roundshot.com/rathvel/",
+                "angle": 360,
+                "name": "Ch\u00e2tel-St-Denis Office de Tourisme - Rathvel",
+                "cam_name": "Rathvel",
+                "customer_name": "Ch\u00e2tel-St-Denis Office de Tourisme"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/965/thumbnail",
+                "link": "https://ga-weissenstein.roundshot.com/hafen/",
+                "angle": 360,
+                "name": "GA Weissenstein GmbH - Hafen Solothurn",
+                "cam_name": "Hafen Solothurn",
+                "customer_name": "GA Weissenstein GmbH"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/912/thumbnail",
+                "link": "https://ga-weissenstein.roundshot.com/solothurn/",
+                "angle": 360,
+                "name": "GA Weissenstein GmbH - Solothurn Stadt",
+                "cam_name": "Solothurn Stadt",
+                "customer_name": "GA Weissenstein GmbH"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/726/thumbnail",
+                "link": "https://ga-weissenstein.roundshot.com/weissenstein/",
+                "angle": 360,
+                "name": "GA Weissenstein GmbH - Weissenstein",
+                "cam_name": "Weissenstein",
+                "customer_name": "GA Weissenstein GmbH"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1314/thumbnail",
+                "link": "https://grindelwald.roundshot.com/mittellegihuette/",
+                "angle": 360,
+                "name": "Grindelwald Tourismus - Mittellegih\u00fctte",
+                "cam_name": "Mittellegih\u00fctte",
+                "customer_name": "Grindelwald Tourismus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/397/thumbnail",
+                "link": "https://lagruyere.roundshot.com/",
+                "angle": 360,
+                "name": "Gruy\u00e8re Tourisme - Gruy\u00e8re",
+                "cam_name": "Gruy\u00e8re",
+                "customer_name": "Gruy\u00e8re Tourisme"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/696/thumbnail",
+                "link": "https://montsoleil.roundshot.com/",
+                "angle": 360,
+                "name": "JURA BERNOIS TOURISME - Mont Soleil",
+                "cam_name": "Mont Soleil",
+                "customer_name": "JURA BERNOIS TOURISME"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/740/thumbnail",
+                "link": "https://jungfrau.roundshot.com/interlaken-harderkulm/",
+                "angle": 360,
+                "name": "Jungfraubahnen Management AG - Harder Kulm",
+                "cam_name": "Harder Kulm",
+                "customer_name": "Jungfraubahnen Management AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/771/thumbnail",
+                "link": "https://jungfrau.roundshot.com/schynige-platte/",
+                "angle": 360,
+                "name": "Jungfraubahnen Management AG - Schynige Platte",
+                "cam_name": "Schynige Platte",
+                "customer_name": "Jungfraubahnen Management AG"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/33/thumbnail",
+                "link": "https://juratourisme.roundshot.com/aventurejuraparc/",
+                "angle": 360,
+                "name": "Jura Tourisme - Aventure Jura Parc Rebeuvelier",
+                "cam_name": "Aventure Jura Parc Rebeuvelier",
+                "customer_name": "Jura Tourisme"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/40/thumbnail",
+                "link": "https://juratourisme.roundshot.com/delemont/",
+                "angle": 360,
+                "name": "Jura Tourisme - Del\u00e9mont",
+                "cam_name": "Del\u00e9mont",
+                "customer_name": "Jura Tourisme"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/37/thumbnail",
+                "link": "https://juratourisme.roundshot.com/noirmont/",
+                "angle": 180,
+                "name": "Jura Tourisme - Le Noirmont",
+                "cam_name": "Le Noirmont",
+                "customer_name": "Jura Tourisme"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/677/thumbnail",
+                "link": "https://juratourisme.roundshot.com/lesordons/",
+                "angle": 300,
+                "name": "Jura Tourisme - Les Ordons",
+                "cam_name": "Les Ordons",
+                "customer_name": "Jura Tourisme"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/38/thumbnail",
+                "link": "https://juratourisme.roundshot.com/porrentruy/",
+                "angle": 320,
+                "name": "Jura Tourisme - Porrentruy",
+                "cam_name": "Porrentruy",
+                "customer_name": "Jura Tourisme"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/36/thumbnail",
+                "link": "https://juratourisme.roundshot.com/saignelegier/",
+                "angle": 360,
+                "name": "Jura Tourisme - Saignel\u00e9gier",
+                "cam_name": "Saignel\u00e9gier",
+                "customer_name": "Jura Tourisme"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/39/thumbnail",
+                "link": "https://juratourisme.roundshot.com/st-ursanne/",
+                "angle": 240,
+                "name": "Jura Tourisme - St Ursanne",
+                "cam_name": "St Ursanne",
+                "customer_name": "Jura Tourisme"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1272/thumbnail",
+                "link": "https://kronberg.roundshot.com/gipfel/",
+                "angle": 360,
+                "name": "Kronberg Luftseilbahn - Kronberg Gipfel",
+                "cam_name": "Kronberg Gipfel",
+                "customer_name": "Kronberg Luftseilbahn"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/56/thumbnail",
+                "link": "https://luzerntourismus.roundshot.com/",
+                "angle": 210,
+                "name": "Luzern Tourismus - Luzern",
+                "cam_name": "Luzern",
+                "customer_name": "Luzern Tourismus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/279/thumbnail",
+                "link": "https://weggis.roundshot.com/",
+                "angle": 265,
+                "name": "Luzern Tourismus - Weggis",
+                "cam_name": "Weggis",
+                "customer_name": "Luzern Tourismus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/360/thumbnail",
+                "link": "https://montreux.roundshot.com/",
+                "angle": 360,
+                "name": "Montreux-Vevey Tourisme - Montreux",
+                "cam_name": "Montreux",
+                "customer_name": "Montreux-Vevey Tourisme"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/59/thumbnail",
+                "link": "https://morat.roundshot.com/",
+                "angle": 210,
+                "name": "Morat - Murten Tourismus - Murten - Morat",
+                "cam_name": "Murten - Morat",
+                "customer_name": "Morat - Murten Tourismus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/374/thumbnail",
+                "link": "https://montmagny.roundshot.com/",
+                "angle": 360,
+                "name": "Morat - Murten Tourismus - Vully les Lacs - Montmagny",
+                "cam_name": "Vully les Lacs - Montmagny",
+                "customer_name": "Morat - Murten Tourismus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/348/thumbnail",
+                "link": "https://morgesregion.roundshot.com/",
+                "angle": 250,
+                "name": "Morges R\u00e9gion Tourisme - Morges - Port",
+                "cam_name": "Morges - Port",
+                "customer_name": "Morges R\u00e9gion Tourisme"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/452/thumbnail",
+                "link": "https://morgesregion.roundshot.com/ville/",
+                "angle": 360,
+                "name": "Morges R\u00e9gion Tourisme - Morges - Ville",
+                "cam_name": "Morges - Ville",
+                "customer_name": "Morges R\u00e9gion Tourisme"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1270/thumbnail",
+                "link": "https://napoleonturm.roundshot.com/",
+                "angle": 360,
+                "name": "Napoleonturm zu Hohenrain - Napoleonturm",
+                "cam_name": "Napoleonturm",
+                "customer_name": "Napoleonturm zu Hohenrain"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/401/thumbnail",
+                "link": "https://nyon-tourisme.roundshot.com/",
+                "angle": 360,
+                "name": "Nyon R\u00e9gion Tourisme - Nyon",
+                "cam_name": "Nyon",
+                "customer_name": "Nyon R\u00e9gion Tourisme"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/704/thumbnail",
+                "link": "https://obergoms.roundshot.com/oberwald/",
+                "angle": 360,
+                "name": "Obergoms Tourismus - Oberwald",
+                "cam_name": "Oberwald",
+                "customer_name": "Obergoms Tourismus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/703/thumbnail",
+                "link": "https://obergoms.roundshot.com/ulrichen/",
+                "angle": 360,
+                "name": "Obergoms Tourismus - Ulrichen - Nordisches Zentrum",
+                "cam_name": "Ulrichen - Nordisches Zentrum",
+                "customer_name": "Obergoms Tourismus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/62/thumbnail",
+                "link": "https://chaumont.roundshot.com/",
+                "angle": 360,
+                "name": "Pays de Neuch\u00e2tel - Chaumont",
+                "cam_name": "Chaumont",
+                "customer_name": "Pays de Neuch\u00e2tel"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/716/thumbnail",
+                "link": "https://jeunesrives.roundshot.com/",
+                "angle": 360,
+                "name": "Pays de Neuch\u00e2tel - Jeunes-Rives",
+                "cam_name": "Jeunes-Rives",
+                "customer_name": "Pays de Neuch\u00e2tel"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/260/thumbnail",
+                "link": "https://lachauxdefonds.roundshot.com/",
+                "angle": 360,
+                "name": "Pays de Neuch\u00e2tel - La Chaux-de-Fonds",
+                "cam_name": "La Chaux-de-Fonds",
+                "customer_name": "Pays de Neuch\u00e2tel"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/714/thumbnail",
+                "link": "https://larobella.roundshot.com/",
+                "angle": 360,
+                "name": "Pays de Neuch\u00e2tel - La Robella",
+                "cam_name": "La Robella",
+                "customer_name": "Pays de Neuch\u00e2tel"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/411/thumbnail",
+                "link": "https://lacdeneuchatel.roundshot.com/",
+                "angle": 360,
+                "name": "Pays de Neuch\u00e2tel - Lac de Neuch\u00e2tel",
+                "cam_name": "Lac de Neuch\u00e2tel",
+                "customer_name": "Pays de Neuch\u00e2tel"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/63/thumbnail",
+                "link": "https://tailleres.roundshot.com/",
+                "angle": 261,
+                "name": "Pays de Neuch\u00e2tel - Lac des Taill\u00e8res",
+                "cam_name": "Lac des Taill\u00e8res",
+                "customer_name": "Pays de Neuch\u00e2tel"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/65/thumbnail",
+                "link": "https://lesbrenets.roundshot.com/",
+                "angle": 360,
+                "name": "Pays de Neuch\u00e2tel - Les Brenets",
+                "cam_name": "Les Brenets",
+                "customer_name": "Pays de Neuch\u00e2tel"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/264/thumbnail",
+                "link": "https://neuchatel.roundshot.com/",
+                "angle": 360,
+                "name": "Pays de Neuch\u00e2tel - Neuch\u00e2tel",
+                "cam_name": "Neuch\u00e2tel",
+                "customer_name": "Pays de Neuch\u00e2tel"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/184/thumbnail",
+                "link": "https://tete-de-ran.roundshot.com/",
+                "angle": 360,
+                "name": "Pays de Neuch\u00e2tel - T\u00eate de Ran",
+                "cam_name": "T\u00eate de Ran",
+                "customer_name": "Pays de Neuch\u00e2tel"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/430/thumbnail",
+                "link": "https://schwarzseetourismus.roundshot.com/",
+                "angle": 360,
+                "name": "Schwarzsee Tourismus",
+                "cam_name": "Schwarzsee Tourismus",
+                "customer_name": "Schwarzsee Tourismus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/478/thumbnail",
+                "link": "https://sierre-tourisme.roundshot.com/",
+                "angle": 360,
+                "name": "Sierre Office de Tourisme - Sierre Tourisme - Venthone",
+                "cam_name": "Sierre Tourisme - Venthone",
+                "customer_name": "Sierre Office de Tourisme"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/413/thumbnail",
+                "link": "https://valleedejoux.roundshot.com/",
+                "angle": 360,
+                "name": "Vall\u00e9e de Joux Tourisme - Vall\u00e9e de Joux",
+                "cam_name": "Vall\u00e9e de Joux",
+                "customer_name": "Vall\u00e9e de Joux Tourisme"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/875/thumbnail",
+                "link": "https://valleedutrient.roundshot.com/emosson/",
+                "angle": 360,
+                "name": "Vall\u00e9e du Trient - Emosson",
+                "cam_name": "Emosson",
+                "customer_name": "Vall\u00e9e du Trient"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1110/thumbnail",
+                "link": "https://valleedutrient.roundshot.com/salanfe/",
+                "angle": 360,
+                "name": "Vall\u00e9e du Trient - Salanfe",
+                "cam_name": "Salanfe",
+                "customer_name": "Vall\u00e9e du Trient"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/891/thumbnail",
+                "link": "https://valleedutrient.roundshot.com/trient/",
+                "angle": 360,
+                "name": "Vall\u00e9e du Trient - Trient",
+                "cam_name": "Trient",
+                "customer_name": "Vall\u00e9e du Trient"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/802/thumbnail",
+                "link": "https://valleedutrient.roundshot.com/telemarecottes/",
+                "angle": 360,
+                "name": "Vall\u00e9e du Trient - T\u00e9l\u00e9 Mar\u00e9cottes",
+                "cam_name": "T\u00e9l\u00e9 Mar\u00e9cottes",
+                "customer_name": "Vall\u00e9e du Trient"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/914/thumbnail",
+                "link": "https://valleedutrient.roundshot.com/vallorcine/",
+                "angle": 360,
+                "name": "Vall\u00e9e du Trient - Vallorcine",
+                "cam_name": "Vallorcine",
+                "customer_name": "Vall\u00e9e du Trient"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/892/thumbnail",
+                "link": "https://valleedutrient.roundshot.com/vernayaz/",
+                "angle": 360,
+                "name": "Vall\u00e9e du Trient - Vernayaz",
+                "cam_name": "Vernayaz",
+                "customer_name": "Vall\u00e9e du Trient"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/254/thumbnail",
+                "link": "https://wilerturm.roundshot.com/",
+                "angle": 360,
+                "name": "Wil Tourismus - Wiler Turm",
+                "cam_name": "Wiler Turm",
+                "customer_name": "Wil Tourismus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/506/thumbnail",
+                "link": "https://yverdon.roundshot.com/lesrasses/",
+                "angle": 360,
+                "name": "Yverdon-les-Bains Region Jura-Lac - Les Rasses",
+                "cam_name": "Les Rasses",
+                "customer_name": "Yverdon-les-Bains Region Jura-Lac"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/482/thumbnail",
+                "link": "https://yverdon.roundshot.com/ville/",
+                "angle": 225,
+                "name": "Yverdon-les-Bains Region Jura-Lac - Ville",
+                "cam_name": "Ville",
+                "customer_name": "Yverdon-les-Bains Region Jura-Lac"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/86/thumbnail",
+                "link": "https://zuerichtourismus.roundshot.com/stadthaus/",
+                "angle": 360,
+                "name": "Z\u00fcrich Tourismus - Z\u00fcrich Stadthaus",
+                "cam_name": "Z\u00fcrich Stadthaus",
+                "customer_name": "Z\u00fcrich Tourismus"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/85/thumbnail",
+                "link": "https://zuerichtourismus.roundshot.com/zuerichwest/",
+                "angle": 233,
+                "name": "Z\u00fcrich Tourismus - Z\u00fcrich West",
+                "cam_name": "Z\u00fcrich West",
+                "customer_name": "Z\u00fcrich Tourismus"
+            }
+        ],
+        "Schools": [
+            {
+                "picture": "https://backend.roundshot.com/cams/514/thumbnail",
+                "link": "https://aigloncollege.roundshot.com/",
+                "angle": 360,
+                "name": "Aiglon College",
+                "cam_name": "Aiglon College",
+                "customer_name": "Aiglon College"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/11/thumbnail",
+                "link": "https://beausoleil.roundshot.com/",
+                "angle": 360,
+                "name": "Beau Soleil Coll\u00e8ge - Villars",
+                "cam_name": "Villars",
+                "customer_name": "Beau Soleil Coll\u00e8ge"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/568/thumbnail",
+                "link": "https://baeumlihof.roundshot.com/",
+                "angle": 360,
+                "name": "B\u00e4umlihof Gymnasium",
+                "cam_name": "B\u00e4umlihof Gymnasium",
+                "customer_name": "B\u00e4umlihof Gymnasium"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/2c3a63ce6e913dce53e5006efafafa7e/thumbnail",
+                "link": "https://epfl.roundshot.com/",
+                "angle": 360,
+                "name": "EPFL - EPFL BC",
+                "cam_name": "EPFL BC",
+                "customer_name": "EPFL"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/949/thumbnail",
+                "link": "https://epflplace.roundshot.com/",
+                "angle": 360,
+                "name": "EPFL - EPFL Place Maurice Cosandey",
+                "cam_name": "EPFL Place Maurice Cosandey",
+                "customer_name": "EPFL"
+            }
+        ],
+        "Hospitals": [
+            {
+                "picture": "https://backend.roundshot.com/cams/665/thumbnail",
+                "link": "https://rehabern.roundshot.com/",
+                "angle": 360,
+                "name": "Berner Reha Zentrum Heiligenschwendi",
+                "cam_name": "Berner Reha Zentrum Heiligenschwendi",
+                "customer_name": "Berner Reha Zentrum Heiligenschwendi"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/24/thumbnail",
+                "link": "https://gzo.roundshot.com/",
+                "angle": 340,
+                "name": "GZO Spital Wetzikon",
+                "cam_name": "GZO Spital Wetzikon",
+                "customer_name": "GZO Spital Wetzikon"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/151/thumbnail",
+                "link": "https://ksgr.roundshot.com/",
+                "angle": 230,
+                "name": "Kantonsspital Graub\u00fcnden - Chur",
+                "cam_name": "Chur",
+                "customer_name": "Kantonsspital Graub\u00fcnden"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/57/thumbnail",
+                "link": "https://lhm.roundshot.com/",
+                "angle": 360,
+                "name": "Luzerner H\u00f6henklinik Montana",
+                "cam_name": "Luzerner H\u00f6henklinik Montana",
+                "customer_name": "Luzerner H\u00f6henklinik Montana"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/555/thumbnail",
+                "link": "https://luks-luzern.roundshot.com/",
+                "angle": 360,
+                "name": "Luzerner Kantonsspital - Luzern",
+                "cam_name": "Luzern",
+                "customer_name": "Luzerner Kantonsspital"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/e59dae9f95bebd82da1e3e29c71cb773/thumbnail",
+                "link": "https://luks-luzern.roundshot.com/kinderspital/",
+                "angle": 180,
+                "name": "Luzerner Kantonsspital - Luzern Kinderspital",
+                "cam_name": "Luzern Kinderspital",
+                "customer_name": "Luzerner Kantonsspital"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/515/thumbnail",
+                "link": "https://luks-sursee.roundshot.com/",
+                "angle": 360,
+                "name": "Luzerner Kantonsspital - Sursee",
+                "cam_name": "Sursee",
+                "customer_name": "Luzerner Kantonsspital"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/516/thumbnail",
+                "link": "https://luks-wolhusen.roundshot.com/",
+                "angle": 360,
+                "name": "Luzerner Kantonsspital - Wolhusen",
+                "cam_name": "Wolhusen",
+                "customer_name": "Luzerner Kantonsspital"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/58/thumbnail",
+                "link": "https://maiengarten.roundshot.com/",
+                "angle": 360,
+                "name": "Maiengarten - Bertschikon",
+                "cam_name": "Bertschikon",
+                "customer_name": "Maiengarten"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1269/thumbnail",
+                "link": "https://rehabellikon.roundshot.com/",
+                "angle": 360,
+                "name": "Rehaklinik Bellikon",
+                "cam_name": "Rehaklinik Bellikon",
+                "customer_name": "Rehaklinik Bellikon"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/559/thumbnail",
+                "link": "https://ksnw.roundshot.com/",
+                "angle": 360,
+                "name": "Spital Nidwalden - Stans",
+                "cam_name": "Stans",
+                "customer_name": "Spital Nidwalden"
+            }
+        ],
+        "Cities": [
+            {
+                "picture": "https://backend.roundshot.com/cams/701/thumbnail",
+                "link": "https://andermatt.roundshot.com/city/",
+                "angle": 140,
+                "name": "Andermatt Swiss Alps - Andermatt City",
+                "cam_name": "Andermatt City",
+                "customer_name": "Andermatt Swiss Alps"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/648/thumbnail",
+                "link": "https://andermatt.roundshot.com/golfplatz/",
+                "angle": 200,
+                "name": "Andermatt Swiss Alps - Golfplatz",
+                "cam_name": "Golfplatz",
+                "customer_name": "Andermatt Swiss Alps"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/822/thumbnail",
+                "link": "https://bulle.roundshot.com/",
+                "angle": 360,
+                "name": "Bulle Ville - Bulle",
+                "cam_name": "Bulle",
+                "customer_name": "Bulle Ville"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/708/thumbnail",
+                "link": "https://frauenfeld.roundshot.com/",
+                "angle": 360,
+                "name": "Frauenfeld Stadt - Frauenfeld",
+                "cam_name": "Frauenfeld",
+                "customer_name": "Frauenfeld Stadt"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1289/thumbnail",
+                "link": "https://laufenburg.roundshot.com/stadt/",
+                "angle": 230,
+                "name": "Laufenburg Gemeinde",
+                "cam_name": "Laufenburg Gemeinde",
+                "customer_name": "Laufenburg Gemeinde"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/676/thumbnail",
+                "link": "https://baden.roundshot.com/turm-baldegg/",
+                "angle": 360,
+                "name": "Regionalwerke AG Baden - Wasserturm Baldegg",
+                "cam_name": "Wasserturm Baldegg",
+                "customer_name": "Regionalwerke AG Baden"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/84/thumbnail",
+                "link": "https://winterthur.roundshot.com/altstadt/",
+                "angle": 360,
+                "name": "Winterthur Stadt - Altstadt",
+                "cam_name": "Altstadt",
+                "customer_name": "Winterthur Stadt"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/738/thumbnail",
+                "link": "https://winterthur.roundshot.com/roterturm/",
+                "angle": 270,
+                "name": "Winterthur Stadt - Roter Turm",
+                "cam_name": "Roter Turm",
+                "customer_name": "Winterthur Stadt"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/1239/thumbnail",
+                "link": "https://zuerichtourismus.roundshot.com/storchen/",
+                "angle": 360,
+                "name": "Z\u00fcrich Tourismus - Storchen Hotel",
+                "cam_name": "Storchen Hotel",
+                "customer_name": "Z\u00fcrich Tourismus"
+            }
+        ],
+        "Weather cams": [
+            {
+                "picture": "https://backend.roundshot.com/cams/200b32bebcbf3e6f272265d17b726bf5/thumbnail",
+                "link": "https://kachelmannwetter.roundshot.com/klingenstock/",
+                "angle": 360,
+                "name": "Kachelmannwetter - Klingenstock",
+                "cam_name": "Klingenstock",
+                "customer_name": "Kachelmannwetter"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/a25c3ebd4f317d90c2daaa8e8fcfd28b/thumbnail",
+                "link": "https://kachelmannwetter.roundshot.com/rotenflue/",
+                "angle": 360,
+                "name": "Kachelmannwetter - Rotenflue",
+                "cam_name": "Rotenflue",
+                "customer_name": "Kachelmannwetter"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/fa64400733dee81e64c0c9224cadd2ad/thumbnail",
+                "link": "https://kachelmannwetter.roundshot.com/sattel/",
+                "angle": 360,
+                "name": "Kachelmannwetter - Sattel",
+                "cam_name": "Sattel",
+                "customer_name": "Kachelmannwetter"
+            },
+            {
+                "picture": "https://backend.roundshot.com/cams/22ae0abae7bd2cf9ed843c994ba4c87c/thumbnail",
+                "link": "https://kachelmannwetter.roundshot.com/tierparkgoldau/",
+                "angle": 360,
+                "name": "Kachelmannwetter - Tierpark Goldau",
+                "cam_name": "Tierpark Goldau",
+                "customer_name": "Kachelmannwetter"
+            }
+        ]
+    }
+}
