@@ -111,7 +111,7 @@ def main():
     if args.end:
         try:
             if len(args.end) > 5:
-                start_time = datetime.strptime(args.end, time_format)
+                end_time = datetime.strptime(args.end, time_format)
             else:
                 new_time = datetime.strptime(args.end, short_time_format)
                 end_time = end_time.replace(hour=new_time.hour, minute=new_time.minute)

@@ -21,7 +21,7 @@ def create_url(pre_url: str, dt: datetime, quality: str):
 
 
 class ThreadedFetcher(Thread):
-    def __init__(self, url: str, time: datetime, webcam: str, output_folder: str):
+    def __init__(self, url: str, time: datetime, webcam: str, output_folder='.'):
         Thread.__init__(self, name='ThreadedFetcher')
         self.time = time
         self.url = url
